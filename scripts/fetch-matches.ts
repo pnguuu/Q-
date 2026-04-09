@@ -88,6 +88,10 @@ const mapFormat = (numberOfGames: number) => {
 const isPrimaryValorantLeague = (m: any, allFields: string[]): boolean => {
   if (m.videogame?.slug !== 'valorant') return false;
   const combined = allFields.join(' ');
+  
+  // 严格排除 VCL
+  if (combined.includes('VCL')) return false;
+
   const hasSystem = combined.includes('VCT') || combined.includes('CHAMPIONS TOUR');
   const hasRegion = combined.includes('CN') || combined.includes('CHINA') || 
                     combined.includes('PACIFIC') || combined.includes('PAC') || 
@@ -122,6 +126,9 @@ const isInternationalValorantEvent = (m: any, allFields: string[]): boolean => {
 const isExtendedCnValorantEvent = (m: any, allFields: string[]): boolean => {
   if (m.videogame?.slug !== 'valorant') return false;
   const combined = allFields.join(' ');
+  
+  // 严格排除 VCL
+  if (combined.includes('VCL')) return false;
   
   const keywords = [
     '进化者', 'EVOLUTION', '中国赛区', 

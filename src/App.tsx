@@ -88,6 +88,38 @@ export default function App() {
         console.log('App received response:', response);
         setMatches(response.matches);
         setLastUpdated(response.lastUpdated);
+
+        // --- 自动定位逻辑 ---
+        if (response.matches.length > 0) {
+          const now = new Date();
+          const todayStr = getBeijingDateStr(now);
+          
+          // 1. 检查今天是否有比赛
+          const hasToday = response.matches.some(m => getBeijingDateStr(new Date(m.startTime)) === todayStr);
+          
+          if (hasToday) {
+            setSelectedDate(now);
+            // 延迟滚动以确保 DOM 已渲染
+            setTimeout(() => scrollToDate(now), 100);
+          } else {
+            // 2. 寻找最近的未来比赛
+            const futureMatch = response.matches.find(m => new Date(m.startTime) > now);
+            if (futureMatch) {
+              const futureDate = new Date(futureMatch.startTime);
+              setSelectedDate(futureDate);
+              setTimeout(() => scrollToDate(futureDate), 100);
+            } else {
+              // 3. 寻找最近的过去比赛
+              const pastMatches = [...response.matches].reverse();
+              const lastMatch = pastMatches.find(m => new Date(m.startTime) < now);
+              if (lastMatch) {
+                const pastDate = new Date(lastMatch.startTime);
+                setSelectedDate(pastDate);
+                setTimeout(() => scrollToDate(pastDate), 100);
+              }
+            }
+          }
+        }
       } catch (error) {
         console.error('Load data error:', error);
         setErrorType(error instanceof Error ? error.message : '未知错误');
@@ -162,6 +194,25 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-zinc-50 text-zinc-900 selection:bg-zinc-200 selection:text-zinc-900">
+      {/* Initial Loading Overlay */}
+      <AnimatePresence>
+        {loading && matches.length === 0 && (
+          <motion.div 
+            initial={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[100] bg-white flex flex-col items-center justify-center gap-4"
+          >
+            <Loader2 className="w-10 h-10 text-blue-600 animate-spin" />
+            <div className="flex flex-col items-center">
+              <h2 className="text-lg font-bold tracking-tight">赛程聚合</h2>
+              <p className="text-[10px] font-mono text-zinc-400 uppercase tracking-widest mt-1">
+                正在同步实时赛程数据...
+              </p>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
       {/* Header */}
       <header className="bg-white border-b border-zinc-100 sticky top-0 z-50">
         <div className="max-w-3xl mx-auto px-4 h-14 flex items-center justify-between">
