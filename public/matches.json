@@ -39620,7 +39620,7 @@
         "shortName": "TH",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -45067,6 +45067,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-09T17:55:08.701Z",
+  "lastUpdated": "2026-04-09T18:53:44.537Z",
   "source": "PandaScore"
 }
