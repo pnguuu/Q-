@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1079798",
-      "startTime": "2024-12-07T10:34:19Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "XLG Gaming",
-        "shortName": "XLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
-      },
-      "teamB": {
-        "name": "Wolves Esports",
-        "shortName": "WOL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "Esports Shanghai Masters",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
       "id": "1084316",
       "startTime": "2024-12-08T07:07:27Z",
       "region": "VCT PAC",
@@ -39620,9 +39599,9 @@
         "shortName": "TH",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -45067,6 +45046,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-09T18:53:44.537Z",
+  "lastUpdated": "2026-04-09T20:00:03.550Z",
   "source": "PandaScore"
 }
