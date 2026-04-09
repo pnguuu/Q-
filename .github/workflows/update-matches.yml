@@ -34,6 +34,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update match data [skip ci]"
+            git commit -m "chore: update match data"
             git push
           fi
