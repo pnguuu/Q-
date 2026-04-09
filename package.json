@@ -4,8 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "tsx server.ts",
-    "build": "vite build",
+    "dev": "npm run fetch-data && vite",
+    "build": "npm run fetch-data && vite build",
+    "fetch-data": "tsx scripts/fetch-matches.ts",
     "preview": "vite preview",
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit"

@@ -2,28 +2,35 @@
 
 This application provides a real-time schedule for Valorant and League of Legends matches, with a focus on major international and regional events.
 
-## Environment Variables
+## 静态站架构说明
 
-To run this application, you need to set the following environment variables:
+本项目已重构为“静态站 + 定时生成数据”架构，适合部署到 GitHub Pages。
 
-- `PANDASCORE_ACCESS_TOKEN`: Your PandaScore API access token.
-- `GEMINI_API_KEY`: (Optional) Required if using Gemini AI features.
+- **前端**：纯静态 React 应用，读取 `public/matches.json`。
+- **数据更新**：通过 GitHub Actions 每小时运行一次抓取脚本，更新 `public/matches.json` 并提交回仓库。
 
-### Local Development
+## 环境配置
 
-1. Create a `.env` file in the root directory (copy from `.env.example`).
-2. Add your `PANDASCORE_ACCESS_TOKEN` to the `.env` file.
-3. Start the development server:
+需要在 GitHub 仓库中配置以下 Secret：
+- `PANDASCORE_ACCESS_TOKEN`: 你的 PandaScore API 访问令牌。
+
+## 本地开发
+
+1. 安装依赖：
+   ```bash
+   npm install
+   ```
+2. 在 `.env` 中设置 `PANDASCORE_ACCESS_TOKEN`。
+3. 运行开发服务器（会自动先抓取一次数据）：
    ```bash
    npm run dev
    ```
 
-### Deployment (AI Studio / Cloud Run)
+## 部署说明 (GitHub Pages)
 
-1. Go to the **Settings** menu in AI Studio.
-2. Navigate to the **Secrets** or **Environment Variables** section.
-3. Add a new secret named `PANDASCORE_ACCESS_TOKEN` and paste your token as the value.
-4. The application will automatically pick up the token from the environment.
+1. 确保已在 GitHub Settings > Secrets > Actions 中添加 `PANDASCORE_ACCESS_TOKEN`。
+2. GitHub Actions 会自动定时更新数据。
+3. 部署时，运行 `npm run build` 即可生成包含最新数据的静态文件。
 
 ## Features
 
