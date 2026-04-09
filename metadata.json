@@ -1,0 +1,5 @@
+{
+  "name": "赛程聚合",
+  "description": "A minimalist esports schedule aggregator for LPL, LCK, LEC, and VCT.",
+  "requestFramePermissions": []
+}

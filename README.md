@@ -1,11 +1,33 @@
-<div align="center">
+# Valorant Masters Santiago Schedule App
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+This application provides a real-time schedule for Valorant and League of Legends matches, with a focus on major international and regional events.
 
-  <h1>Built with AI Studio</h2>
+## Environment Variables
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+To run this application, you need to set the following environment variables:
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+- `PANDASCORE_ACCESS_TOKEN`: Your PandaScore API access token.
+- `GEMINI_API_KEY`: (Optional) Required if using Gemini AI features.
 
-</div>
+### Local Development
+
+1. Create a `.env` file in the root directory (copy from `.env.example`).
+2. Add your `PANDASCORE_ACCESS_TOKEN` to the `.env` file.
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+### Deployment (AI Studio / Cloud Run)
+
+1. Go to the **Settings** menu in AI Studio.
+2. Navigate to the **Secrets** or **Environment Variables** section.
+3. Add a new secret named `PANDASCORE_ACCESS_TOKEN` and paste your token as the value.
+4. The application will automatically pick up the token from the environment.
+
+## Features
+
+- **Real-time Schedule**: Fetches the latest matches from PandaScore.
+- **Intelligent Categorization**: Automatically identifies Primary Leagues, International Events, and Regional Extensions.
+- **Valorant Focus**: Specialized logic for identifying Valorant Masters and Champions events.
+- **Deep History**: Fetches up to 5000 past matches to ensure comprehensive coverage of the current year.
