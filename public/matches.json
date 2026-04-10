@@ -39705,8 +39705,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39725,7 +39725,7 @@
         "shortName": "BLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -39746,9 +39746,9 @@
         "shortName": "AL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -45025,6 +45025,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-10T12:52:20.182Z",
+  "lastUpdated": "2026-04-10T14:14:06.389Z",
   "source": "PandaScore"
 }
