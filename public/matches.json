@@ -39767,7 +39767,7 @@
         "shortName": "KC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -45004,6 +45004,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-10T18:41:30.701Z",
+  "lastUpdated": "2026-04-10T19:38:36.055Z",
   "source": "PandaScore"
 }
