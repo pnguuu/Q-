@@ -39663,8 +39663,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39683,9 +39683,9 @@
         "shortName": "BFX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39704,7 +39704,7 @@
         "shortName": "DRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -39713,7 +39713,7 @@
     },
     {
       "id": "1399058",
-      "startTime": "2026-04-10T11:30:00Z",
+      "startTime": "2026-04-10T11:44:59Z",
       "region": "VCT CN",
       "teamA": {
         "name": "FunPlus Phoenix",
@@ -39726,15 +39726,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420889",
-      "startTime": "2026-04-10T12:10:00Z",
+      "startTime": "2026-04-10T12:23:22Z",
       "region": "LPL",
       "teamA": {
         "name": "JD Gaming",
@@ -39748,7 +39748,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -45025,6 +45025,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-10T11:41:59.195Z",
+  "lastUpdated": "2026-04-10T12:52:20.182Z",
   "source": "PandaScore"
 }
