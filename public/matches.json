@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1084317",
-      "startTime": "2024-12-08T09:21:32Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "XLG Gaming",
-        "shortName": "XLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "Superb Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1084318",
       "startTime": "2024-12-08T11:39:26Z",
       "region": "VCT PAC",
@@ -39726,8 +39705,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39755,7 +39734,7 @@
     },
     {
       "id": "1399212",
-      "startTime": "2026-04-10T15:00:00Z",
+      "startTime": "2026-04-10T15:06:25Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "FUT Esports",
@@ -39769,7 +39748,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -45025,6 +45004,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-10T14:14:06.389Z",
+  "lastUpdated": "2026-04-10T15:43:07.262Z",
   "source": "PandaScore"
 }
