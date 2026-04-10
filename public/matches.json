@@ -39746,16 +39746,16 @@
         "shortName": "NAVI",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399213",
-      "startTime": "2026-04-10T18:30:00Z",
+      "startTime": "2026-04-10T18:21:16Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates",
@@ -39769,7 +39769,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -45004,6 +45004,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-10T17:41:56.419Z",
+  "lastUpdated": "2026-04-10T18:41:30.701Z",
   "source": "PandaScore"
 }
