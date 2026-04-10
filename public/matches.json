@@ -39608,7 +39608,7 @@
     },
     {
       "id": "1413434",
-      "startTime": "2026-04-10T08:00:00Z",
+      "startTime": "2026-04-10T07:59:39Z",
       "region": "LCK",
       "teamA": {
         "name": "DN SOOPers",
@@ -39622,14 +39622,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402221",
-      "startTime": "2026-04-10T08:00:00Z",
+      "startTime": "2026-04-10T08:05:36Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "DetonatioN FocusMe",
@@ -39643,7 +39643,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -45046,6 +45046,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-10T06:28:51.988Z",
+  "lastUpdated": "2026-04-10T08:18:16.368Z",
   "source": "PandaScore"
 }
