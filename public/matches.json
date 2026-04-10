@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1084316",
-      "startTime": "2024-12-08T07:07:27Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Trace Esports",
-        "shortName": "TE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
-      },
-      "teamB": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "Superb Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1084317",
       "startTime": "2024-12-08T09:21:32Z",
       "region": "VCT PAC",
@@ -39663,8 +39642,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39684,7 +39663,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
@@ -39692,7 +39671,7 @@
     },
     {
       "id": "1413435",
-      "startTime": "2026-04-10T10:00:00Z",
+      "startTime": "2026-04-10T10:05:19Z",
       "region": "LCK",
       "teamA": {
         "name": "Hanwha Life Esports",
@@ -39704,16 +39683,16 @@
         "shortName": "BFX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402222",
-      "startTime": "2026-04-10T10:20:00Z",
+      "startTime": "2026-04-10T10:33:35Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Nongshim RedForce",
@@ -39726,36 +39705,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1420889",
-      "startTime": "2026-04-10T11:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1399058",
-      "startTime": "2026-04-10T11:00:00Z",
+      "startTime": "2026-04-10T11:30:00Z",
       "region": "VCT CN",
       "teamA": {
         "name": "FunPlus Phoenix",
@@ -39771,6 +39729,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420889",
+      "startTime": "2026-04-10T12:10:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -45046,6 +45025,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-10T10:03:10.934Z",
+  "lastUpdated": "2026-04-10T11:41:59.195Z",
   "source": "PandaScore"
 }
