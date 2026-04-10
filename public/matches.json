@@ -39768,7 +39768,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -45004,6 +45004,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-10T19:38:36.055Z",
+  "lastUpdated": "2026-04-10T20:27:59.463Z",
   "source": "PandaScore"
 }
