@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { Match } from '../types';
 import { MatchCard } from './MatchCard';
 import { motion, AnimatePresence } from 'motion/react';
@@ -8,18 +8,22 @@ interface ScheduleListProps {
   matches: Match[];
   sectionRefs: React.MutableRefObject<Record<string, HTMLElement | null>>;
   isCompact?: boolean;
+  favorites: Set<string>;
+  onToggleFavorite: (id: string) => void;
 }
 
-export const ScheduleList = ({ matches, sectionRefs, isCompact = false }: ScheduleListProps) => {
+export const ScheduleList = React.memo(({ matches, sectionRefs, isCompact = false, favorites, onToggleFavorite }: ScheduleListProps) => {
   // Group matches by date in Beijing Time
-  const groupedMatches = matches.reduce((groups, match) => {
-    const date = new Date(match.startTime).toLocaleDateString('en-CA', { timeZone: 'Asia/Shanghai' });
-    if (!groups[date]) {
-      groups[date] = [];
-    }
-    groups[date].push(match);
-    return groups;
-  }, {} as Record<string, Match[]>);
+  const groupedMatches = useMemo(() => {
+    return matches.reduce((groups, match) => {
+      const date = new Date(match.startTime).toLocaleDateString('en-CA', { timeZone: 'Asia/Shanghai' });
+      if (!groups[date]) {
+        groups[date] = [];
+      }
+      groups[date].push(match);
+      return groups;
+    }, {} as Record<string, Match[]>);
+  }, [matches]);
 
   const formatDateLabel = (dateStr: string) => {
     const date = new Date(dateStr);
@@ -33,11 +37,10 @@ export const ScheduleList = ({ matches, sectionRefs, isCompact = false }: Schedu
 
   return (
     <div className="space-y-10">
-      <AnimatePresence mode="popLayout">
-        {Object.entries(groupedMatches)
-          .sort(([dateA], [dateB]) => dateA.localeCompare(dateB))
-          .map(([date, dayMatches]) => (
-            <div 
+      {Object.entries(groupedMatches)
+        .sort(([dateA], [dateB]) => dateA.localeCompare(dateB))
+        .map(([date, dayMatches]) => (
+          <div 
             key={date} 
             id={`section-${date}`}
             ref={(el) => (sectionRefs.current[date] = el)}
@@ -57,13 +60,18 @@ export const ScheduleList = ({ matches, sectionRefs, isCompact = false }: Schedu
               "grid",
               isCompact ? "grid-cols-1 gap-1.5" : "grid-cols-1 sm:grid-cols-2 gap-4"
             )}>
-              {dayMatches.map((match) => (
-                <MatchCard key={match.id} match={match} isCompact={isCompact} />
+              {(dayMatches as Match[]).map((match) => (
+                <MatchCard 
+                  key={match.id} 
+                  match={match} 
+                  isCompact={isCompact} 
+                  isFavorite={favorites.has(match.id)}
+                  onToggleFavorite={onToggleFavorite}
+                />
               ))}
             </div>
           </div>
         ))}
-      </AnimatePresence>
       
       {matches.length === 0 && (
         <motion.div 
@@ -76,5 +84,5 @@ export const ScheduleList = ({ matches, sectionRefs, isCompact = false }: Schedu
       )}
     </div>
   );
-};
+});
 

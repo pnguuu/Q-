@@ -2,15 +2,23 @@ import React from 'react';
 import { Match } from '../types';
 import { Card } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
+import { Star } from 'lucide-react';
 import { motion } from 'motion/react';
 import { cn } from '@/lib/utils';
 
 export interface MatchCardProps {
   match: Match;
   isCompact?: boolean;
+  isFavorite?: boolean;
+  onToggleFavorite?: (id: string) => void;
 }
 
-export const MatchCard: React.FC<MatchCardProps> = ({ match, isCompact = false }) => {
+export const MatchCard: React.FC<MatchCardProps> = React.memo(({ 
+  match, 
+  isCompact = false, 
+  isFavorite = false, 
+  onToggleFavorite 
+}) => {
   const startTime = new Date(match.startTime);
   const timeString = startTime.toLocaleTimeString('zh-CN', { 
     hour: '2-digit', 
@@ -27,12 +35,11 @@ export const MatchCard: React.FC<MatchCardProps> = ({ match, isCompact = false }
 
   if (isCompact) {
     return (
-      <motion.div
-        initial={{ opacity: 0, y: 5 }}
-        animate={{ opacity: 1, y: 0 }}
-        className="w-full"
-      >
-        <div className="bg-white border border-zinc-100 rounded-lg shadow-sm hover:shadow-md transition-all py-2 px-4 flex flex-row items-center w-full min-h-[44px]">
+      <div className="w-full">
+        <div className={cn(
+          "bg-white border rounded-lg shadow-sm hover:shadow-md transition-all py-2 px-4 flex flex-row items-center w-full min-h-[44px] relative group",
+          isFavorite ? "border-amber-200 bg-amber-50/30" : "border-zinc-100"
+        )}>
           {/* Team A - Left side, pushed towards center */}
           <div className="flex-1 text-right pr-4 min-w-0">
             <span className="text-sm font-bold text-zinc-900 truncate block">
@@ -64,18 +71,31 @@ export const MatchCard: React.FC<MatchCardProps> = ({ match, isCompact = false }
               {match.teamB.shortName}
             </span>
           </div>
+
+          {/* Star Button - Compact */}
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              onToggleFavorite?.(match.id);
+            }}
+            className={cn(
+              "absolute right-1 top-1/2 -translate-y-1/2 p-1.5 rounded-full transition-all",
+              isFavorite ? "text-amber-500 opacity-100" : "text-zinc-300 opacity-0 group-hover:opacity-100 hover:bg-zinc-100"
+            )}
+          >
+            <Star className={cn("w-3.5 h-3.5", isFavorite && "fill-current")} />
+          </button>
         </div>
-      </motion.div>
+      </div>
     );
   }
 
   return (
-    <motion.div
-      initial={{ opacity: 0, scale: 0.95 }}
-      animate={{ opacity: 1, scale: 1 }}
-      transition={{ duration: 0.2 }}
-    >
-      <Card className="bg-white border-zinc-100 shadow-sm hover:shadow-md transition-all p-3 flex flex-col gap-3 relative overflow-hidden">
+    <div className="group relative">
+      <Card className={cn(
+        "bg-white transition-all p-3 flex flex-col gap-3 relative overflow-hidden border",
+        isFavorite ? "border-amber-200 bg-amber-50/30 shadow-amber-100 shadow-md" : "border-zinc-100 shadow-sm hover:shadow-md"
+      )}>
         {/* Top: League Name & Region/Format */}
         <div className="flex justify-between items-start">
           <span className="text-[10px] font-medium text-zinc-500 truncate max-w-[70%]">
@@ -139,7 +159,7 @@ export const MatchCard: React.FC<MatchCardProps> = ({ match, isCompact = false }
           </div>
         </div>
 
-        {/* Bottom: Status */}
+        {/* Bottom: Status & Star */}
         <div className="flex items-center justify-between mt-1">
           <div className="flex items-center gap-1.5">
             {match.status === '进行中' && (
@@ -149,8 +169,22 @@ export const MatchCard: React.FC<MatchCardProps> = ({ match, isCompact = false }
               {match.status}
             </span>
           </div>
+
+          {/* Star Button - Detailed */}
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              onToggleFavorite?.(match.id);
+            }}
+            className={cn(
+              "p-1.5 rounded-full transition-all",
+              isFavorite ? "text-amber-500" : "text-zinc-300 hover:text-zinc-400 hover:bg-zinc-100"
+            )}
+          >
+            <Star className={cn("w-4 h-4", isFavorite && "fill-current")} />
+          </button>
         </div>
       </Card>
-    </motion.div>
+    </div>
   );
-};
+});

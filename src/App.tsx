@@ -2,7 +2,7 @@ import { useState, useMemo, useRef, useEffect } from 'react';
 import { fetchMatches } from './services/pandaScore';
 import { Match } from './types';
 import { ScheduleList } from './components/ScheduleList';
-import { Trophy, Calendar as CalendarIcon, ChevronLeft, ChevronRight, X, Loader2, LayoutGrid, List } from 'lucide-react';
+import { Trophy, Calendar as CalendarIcon, ChevronLeft, ChevronRight, X, Loader2, LayoutGrid, List, Star } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { 
   format, 
@@ -69,15 +69,68 @@ export default function App() {
   const [matches, setMatches] = useState<Match[]>([]);
   const [lastUpdated, setLastUpdated] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
+  const [isPositioning, setIsPositioning] = useState(false);
   const [errorType, setErrorType] = useState<string | null>(null);
   const [selectedDate, setSelectedDate] = useState(new Date());
   const [isCalendarOpen, setIsCalendarOpen] = useState(false);
   const [isCompactView, setIsCompactView] = useState(false);
   const [currentMonth, setCurrentMonth] = useState(new Date());
+  const [favorites, setFavorites] = useState<Set<string>>(() => {
+    const saved = localStorage.getItem('match-favorites');
+    return saved ? new Set(JSON.parse(saved)) : new Set();
+  });
+  
+  useEffect(() => {
+    localStorage.setItem('match-favorites', JSON.stringify(Array.from(favorites)));
+  }, [favorites]);
+
+  const toggleFavorite = (matchId: string) => {
+    setFavorites(prev => {
+      const next = new Set(prev);
+      if (next.has(matchId)) next.delete(matchId);
+      else next.add(matchId);
+      return next;
+    });
+  };
   
   const days = useMemo(() => getDynamicDates(matches), [matches]);
   const sectionRefs = useRef<Record<string, HTMLElement | null>>({});
   const scrollContainerRef = useRef<HTMLDivElement>(null);
+  const isAutoScrolling = useRef(false);
+
+  const autoLocateDate = (matchList: Match[], immediate = false) => {
+    if (matchList.length === 0) return;
+
+    if (immediate) setIsPositioning(true);
+
+    const now = new Date();
+    const todayStr = getBeijingDateStr(now);
+    
+    // 1. 检查今天是否有比赛
+    const hasToday = matchList.some(m => getBeijingDateStr(new Date(m.startTime)) === todayStr);
+    
+    if (hasToday) {
+      setSelectedDate(now);
+      setTimeout(() => scrollToDate(now, false, immediate), 100);
+    } else {
+      // 2. 寻找最近的未来比赛
+      const futureMatch = matchList.find(m => new Date(m.startTime) > now);
+      if (futureMatch) {
+        const futureDate = new Date(futureMatch.startTime);
+        setSelectedDate(futureDate);
+        setTimeout(() => scrollToDate(futureDate, false, immediate), 100);
+      } else {
+        // 3. 寻找最近的过去比赛
+        const pastMatches = [...matchList].reverse();
+        const lastMatch = pastMatches.find(m => new Date(m.startTime) < now);
+        if (lastMatch) {
+          const pastDate = new Date(lastMatch.startTime);
+          setSelectedDate(pastDate);
+          setTimeout(() => scrollToDate(pastDate, false, immediate), 100);
+        }
+      }
+    }
+  };
 
   useEffect(() => {
     const loadData = async () => {
@@ -89,37 +142,8 @@ export default function App() {
         setMatches(response.matches);
         setLastUpdated(response.lastUpdated);
 
-        // --- 自动定位逻辑 ---
-        if (response.matches.length > 0) {
-          const now = new Date();
-          const todayStr = getBeijingDateStr(now);
-          
-          // 1. 检查今天是否有比赛
-          const hasToday = response.matches.some(m => getBeijingDateStr(new Date(m.startTime)) === todayStr);
-          
-          if (hasToday) {
-            setSelectedDate(now);
-            // 延迟滚动以确保 DOM 已渲染
-            setTimeout(() => scrollToDate(now), 100);
-          } else {
-            // 2. 寻找最近的未来比赛
-            const futureMatch = response.matches.find(m => new Date(m.startTime) > now);
-            if (futureMatch) {
-              const futureDate = new Date(futureMatch.startTime);
-              setSelectedDate(futureDate);
-              setTimeout(() => scrollToDate(futureDate), 100);
-            } else {
-              // 3. 寻找最近的过去比赛
-              const pastMatches = [...response.matches].reverse();
-              const lastMatch = pastMatches.find(m => new Date(m.startTime) < now);
-              if (lastMatch) {
-                const pastDate = new Date(lastMatch.startTime);
-                setSelectedDate(pastDate);
-                setTimeout(() => scrollToDate(pastDate), 100);
-              }
-            }
-          }
-        }
+        // --- 初始自动定位 (立即定位) ---
+        autoLocateDate(response.matches, true);
       } catch (error) {
         console.error('Load data error:', error);
         setErrorType(error instanceof Error ? error.message : '未知错误');
@@ -130,20 +154,92 @@ export default function App() {
     loadData();
   }, []);
 
-  // Scroll to selected date in the horizontal bar
+  // 切换模式时执行自动定位 (立即定位)
+  useEffect(() => {
+    if (matches.length > 0) {
+      autoLocateDate(matches, true);
+    }
+  }, [isCompactView]);
+
+  // Scroll synchronization: Update selectedDate when scrolling the list
+  useEffect(() => {
+    if (loading || matches.length === 0) return;
+
+    const observerOptions = {
+      root: null,
+      rootMargin: '-160px 0px -80% 0px', // Focus on the top area below header
+      threshold: 0
+    };
+
+    const observerCallback = (entries: IntersectionObserverEntry[]) => {
+      // If we are currently performing a programmatic scroll, ignore observer updates
+      if (isAutoScrolling.current) return;
+
+      // Find the entry that is most visible or at the top
+      const visibleEntry = entries.find(entry => entry.isIntersecting);
+      if (visibleEntry) {
+        const dateStr = visibleEntry.target.id.replace('section-', '');
+        
+        // Use requestAnimationFrame to decouple state update from scroll event
+        requestAnimationFrame(() => {
+          setSelectedDate(prev => {
+            if (getBeijingDateStr(prev) !== dateStr) {
+              // Create date in Beijing time to avoid offset issues
+              return new Date(dateStr + 'T00:00:00+08:00');
+            }
+            return prev;
+          });
+        });
+      }
+    };
+
+    const observer = new IntersectionObserver(observerCallback, observerOptions);
+    
+    // Observe all date sections
+    Object.keys(sectionRefs.current).forEach(key => {
+      const section = sectionRefs.current[key];
+      if (section) observer.observe(section);
+    });
+
+    return () => observer.disconnect();
+  }, [matches, loading, isCompactView]);
+
+  // Scroll to selected date in the horizontal bar and sync calendar month
   useEffect(() => {
     const dateStr = getBeijingDateStr(selectedDate);
     const selectedEl = document.getElementById(`date-${dateStr}`);
+    
+    // Sync calendar month when date changes
+    setCurrentMonth(prev => {
+      if (prev.getMonth() !== selectedDate.getMonth() || prev.getFullYear() !== selectedDate.getFullYear()) {
+        return new Date(selectedDate);
+      }
+      return prev;
+    });
+
     if (selectedEl && scrollContainerRef.current) {
-      selectedEl.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      // Use requestIdleCallback or a timeout to avoid blocking main thread
+      const timeoutId = setTimeout(() => {
+        selectedEl.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      }, 50);
+      return () => clearTimeout(timeoutId);
     }
   }, [selectedDate]);
 
-  const scrollToDate = (date: Date, fromCalendar = false) => {
-    setSelectedDate(date);
-    const targetDateStr = getBeijingDateStr(date);
+  const scrollToDate = (date: Date, fromCalendar = false, immediate = false) => {
+    // Ensure the date object is treated as Beijing time start of day
+    const dateStr = getBeijingDateStr(date);
+    const normalizedDate = new Date(dateStr + 'T00:00:00+08:00');
     
+    setSelectedDate(normalizedDate);
+    const targetDateStr = dateStr;
+    
+    if (immediate || fromCalendar) setIsPositioning(true);
+
     const performScroll = () => {
+      // Set auto-scrolling flag to prevent observer from fighting the scroll
+      isAutoScrolling.current = true;
+
       // Ensure we have the latest refs
       const availableDates = Object.keys(sectionRefs.current)
         .filter(d => sectionRefs.current[d])
@@ -157,9 +253,15 @@ export default function App() {
       if (scrollDateStr) {
         const element = sectionRefs.current[scrollDateStr] || document.getElementById(`section-${scrollDateStr}`);
         if (element) {
-          element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          element.scrollIntoView({ behavior: (immediate || fromCalendar) ? 'auto' : 'smooth', block: 'start' });
         }
       }
+
+      // Reset the flag after the scroll animation is likely finished
+      setTimeout(() => {
+        isAutoScrolling.current = false;
+        setIsPositioning(false);
+      }, (immediate || fromCalendar) ? 100 : 800);
     };
 
     if (fromCalendar) {
@@ -194,19 +296,20 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-zinc-50 text-zinc-900 selection:bg-zinc-200 selection:text-zinc-900">
-      {/* Initial Loading Overlay */}
+      {/* Initial Loading Overlay & Positioning Overlay */}
       <AnimatePresence>
-        {loading && matches.length === 0 && (
+        {(loading || isPositioning) && (
           <motion.div 
-            initial={{ opacity: 1 }}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             className="fixed inset-0 z-[100] bg-white flex flex-col items-center justify-center gap-4"
           >
             <Loader2 className="w-10 h-10 text-blue-600 animate-spin" />
             <div className="flex flex-col items-center">
-              <h2 className="text-lg font-bold tracking-tight">赛程聚合</h2>
+              <h2 className="text-lg font-bold tracking-tight">我的赛程</h2>
               <p className="text-[10px] font-mono text-zinc-400 uppercase tracking-widest mt-1">
-                正在同步实时赛程数据...
+                加载中...
               </p>
             </div>
           </motion.div>
@@ -219,7 +322,7 @@ export default function App() {
           <div className="flex flex-col">
             <div className="flex items-center gap-2">
               <Trophy className="w-5 h-5 text-blue-600" />
-              <h1 className="text-lg font-bold tracking-tight">赛程聚合</h1>
+              <h1 className="text-lg font-bold tracking-tight">我的赛程</h1>
             </div>
             {lastUpdated && (
               <span className="text-[10px] font-mono text-zinc-400 uppercase tracking-widest ml-7 leading-none mt-0.5">
@@ -434,7 +537,7 @@ export default function App() {
         {loading ? (
           <div className="flex flex-col items-center justify-center py-20 gap-4">
             <Loader2 className="w-8 h-8 text-blue-600 animate-spin" />
-            <p className="text-sm font-mono text-zinc-400 uppercase tracking-widest">正在加载实时赛程...</p>
+            <p className="text-sm font-mono text-zinc-400 uppercase tracking-widest">加载中...</p>
           </div>
         ) : errorType ? (
           <div className="py-20 text-center">
@@ -446,6 +549,8 @@ export default function App() {
             matches={matches} 
             sectionRefs={sectionRefs}
             isCompact={isCompactView}
+            favorites={favorites}
+            onToggleFavorite={toggleFavorite}
           />
         )}
       </main>
