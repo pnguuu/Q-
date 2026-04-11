@@ -39851,9 +39851,9 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39873,8 +39873,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -39893,7 +39893,7 @@
         "shortName": "DRG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -39902,7 +39902,7 @@
     },
     {
       "id": "1402260",
-      "startTime": "2026-04-11T14:15:00Z",
+      "startTime": "2026-04-11T13:50:00Z",
       "region": "LEC",
       "teamA": {
         "name": "G2 Esports",
@@ -44941,6 +44941,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-11T12:39:39.292Z",
+  "lastUpdated": "2026-04-11T13:50:31.110Z",
   "source": "PandaScore"
 }
