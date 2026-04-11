@@ -1,69 +1,6 @@
 {
   "matches": [
     {
-      "id": "1080555",
-      "startTime": "2024-12-10T08:11:36Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Sentinels",
-        "shortName": "SEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128472/600px_sentinels_logo.png"
-      },
-      "teamB": {
-        "name": "Gen.G Esports",
-        "shortName": "Gen.G",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128473/600px_gen_g_2019_logo.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "SOOP Valorant League",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
-      "id": "1084323",
-      "startTime": "2024-12-10T08:59:36Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "teamB": {
-        "name": "All Gamers",
-        "shortName": "AG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "Superb Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
-      "id": "1084324",
-      "startTime": "2024-12-10T11:01:16Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Trace Esports",
-        "shortName": "TE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
-      },
-      "teamB": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "Superb Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1080556",
       "startTime": "2024-12-10T11:38:42Z",
       "region": "VCT PAC",
@@ -39872,7 +39809,7 @@
         "shortName": "VIT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
@@ -39881,7 +39818,7 @@
     },
     {
       "id": "1402261",
-      "startTime": "2026-04-11T16:30:00Z",
+      "startTime": "2026-04-11T17:00:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Movistar KOI",
@@ -44899,6 +44836,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-11T15:26:47.143Z",
+  "lastUpdated": "2026-04-11T16:28:10.472Z",
   "source": "PandaScore"
 }
