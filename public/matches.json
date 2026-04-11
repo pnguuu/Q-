@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1084321",
-      "startTime": "2024-12-09T12:30:57Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "teamB": {
-        "name": "All Gamers",
-        "shortName": "AG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "Superb Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1084322",
       "startTime": "2024-12-10T07:08:42Z",
       "region": "VCT PAC",
@@ -39894,7 +39873,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -39902,7 +39881,7 @@
     },
     {
       "id": "1402260",
-      "startTime": "2026-04-11T13:50:00Z",
+      "startTime": "2026-04-11T13:56:26Z",
       "region": "LEC",
       "teamA": {
         "name": "G2 Esports",
@@ -39916,7 +39895,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -44941,6 +44920,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-11T13:50:31.110Z",
+  "lastUpdated": "2026-04-11T14:31:11.681Z",
   "source": "PandaScore"
 }
