@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1080556",
-      "startTime": "2024-12-10T11:38:42Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Made in Thailand",
-        "shortName": "MiTH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130372/903px_made_in_thailand_2021_lightmode_full.png"
-      },
-      "teamB": {
-        "name": "Talon Esports",
-        "shortName": "TLN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132132/600px_t1_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "SOOP Valorant League",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1084325",
       "startTime": "2024-12-11T07:21:30Z",
       "region": "VCT PAC",
@@ -39810,15 +39789,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402261",
-      "startTime": "2026-04-11T17:00:00Z",
+      "startTime": "2026-04-11T17:01:51Z",
       "region": "LEC",
       "teamA": {
         "name": "Movistar KOI",
@@ -39832,7 +39811,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -44836,6 +44815,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-11T16:28:10.472Z",
+  "lastUpdated": "2026-04-11T17:25:38.447Z",
   "source": "PandaScore"
 }
