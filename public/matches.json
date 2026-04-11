@@ -39809,7 +39809,7 @@
         "shortName": "TYLOO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -39831,8 +39831,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39851,7 +39851,7 @@
         "shortName": "GEN",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LCK",
@@ -39872,7 +39872,7 @@
         "shortName": "VAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -39881,7 +39881,7 @@
     },
     {
       "id": "1420891",
-      "startTime": "2026-04-11T11:00:00Z",
+      "startTime": "2026-04-11T11:20:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -39902,7 +39902,7 @@
     },
     {
       "id": "1399060",
-      "startTime": "2026-04-11T11:00:00Z",
+      "startTime": "2026-04-11T11:45:00Z",
       "region": "VCT CN",
       "teamA": {
         "name": "EDward Gaming",
@@ -44983,6 +44983,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-11T10:27:00.013Z",
+  "lastUpdated": "2026-04-11T11:24:47.451Z",
   "source": "PandaScore"
 }
