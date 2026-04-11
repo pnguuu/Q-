@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1080557",
-      "startTime": "2024-12-12T05:06:16Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Sentinels",
-        "shortName": "SEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128472/600px_sentinels_logo.png"
-      },
-      "teamB": {
-        "name": "Made in Thailand",
-        "shortName": "MiTH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130372/903px_made_in_thailand_2021_lightmode_full.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "SOOP Valorant League",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1080558",
       "startTime": "2024-12-12T09:02:11Z",
       "region": "VCT PAC",
@@ -44710,6 +44689,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-11T20:23:59.985Z",
+  "lastUpdated": "2026-04-11T21:25:28.210Z",
   "source": "PandaScore"
 }
