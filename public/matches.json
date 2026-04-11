@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1084319",
-      "startTime": "2024-12-09T07:07:33Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "XLG Gaming",
-        "shortName": "XLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
-      },
-      "teamB": {
-        "name": "TEC Esports",
-        "shortName": "TEC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "Superb Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
-      "id": "1084320",
-      "startTime": "2024-12-09T09:15:56Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "Superb Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1084321",
       "startTime": "2024-12-09T12:30:57Z",
       "region": "VCT PAC",
@@ -39810,8 +39768,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39851,9 +39809,9 @@
         "shortName": "GEN",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39872,16 +39830,16 @@
         "shortName": "VAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420891",
-      "startTime": "2026-04-11T11:20:00Z",
+      "startTime": "2026-04-11T11:24:54Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -39893,37 +39851,16 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1399060",
-      "startTime": "2026-04-11T11:45:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1402259",
-      "startTime": "2026-04-11T12:00:00Z",
+      "startTime": "2026-04-11T12:04:48Z",
       "region": "LEC",
       "teamA": {
         "name": "Team Heretics",
@@ -39937,8 +39874,29 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1399060",
+      "startTime": "2026-04-11T12:22:47Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "teamB": {
+        "name": "Dragon Ranger Gaming",
+        "shortName": "DRG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -44983,6 +44941,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-11T11:24:47.451Z",
+  "lastUpdated": "2026-04-11T12:39:39.292Z",
   "source": "PandaScore"
 }
