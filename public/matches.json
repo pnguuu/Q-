@@ -39789,8 +39789,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39810,7 +39810,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -39831,7 +39831,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
@@ -39839,7 +39839,7 @@
     },
     {
       "id": "1413437",
-      "startTime": "2026-04-11T10:00:00Z",
+      "startTime": "2026-04-11T10:06:51Z",
       "region": "LCK",
       "teamA": {
         "name": "Dplus KIA",
@@ -39853,14 +39853,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402224",
-      "startTime": "2026-04-11T10:00:00Z",
+      "startTime": "2026-04-11T10:25:47Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Rex Regum Qeon",
@@ -39874,7 +39874,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44983,6 +44983,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-11T09:33:25.657Z",
+  "lastUpdated": "2026-04-11T10:27:00.013Z",
   "source": "PandaScore"
 }
