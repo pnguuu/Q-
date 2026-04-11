@@ -39768,8 +39768,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39789,36 +39789,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1420890",
-      "startTime": "2026-04-11T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Team WE",
-        "shortName": "WE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
-      },
-      "teamB": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1399059",
-      "startTime": "2026-04-11T09:00:00Z",
+      "startTime": "2026-04-11T09:07:50Z",
       "region": "VCT CN",
       "teamA": {
         "name": "All Gamers",
@@ -39832,8 +39811,29 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420890",
+      "startTime": "2026-04-11T09:09:18Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "teamB": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -44983,6 +44983,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-11T08:34:07.418Z",
+  "lastUpdated": "2026-04-11T09:33:25.657Z",
   "source": "PandaScore"
 }
