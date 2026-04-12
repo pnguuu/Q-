@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1080563",
-      "startTime": "2024-12-13T05:06:17Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Rapid Lofi",
-        "shortName": "LOFI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134497/190px_rapid_lofi_lightmode.png"
-      },
-      "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "SOOP Valorant League",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1080564",
       "startTime": "2024-12-13T07:26:20Z",
       "region": "VCT PAC",
@@ -39746,9 +39725,9 @@
         "shortName": "PR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/190px_paper_rex.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39768,15 +39747,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399062",
-      "startTime": "2026-04-12T11:00:00Z",
+      "startTime": "2026-04-12T11:39:39Z",
       "region": "VCT CN",
       "teamA": {
         "name": "XLG Gaming",
@@ -39789,15 +39768,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420893",
-      "startTime": "2026-04-12T12:15:00Z",
+      "startTime": "2026-04-12T11:56:34Z",
       "region": "LPL",
       "teamA": {
         "name": "Weibo Gaming",
@@ -39811,7 +39790,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -44647,6 +44626,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-12T11:28:51.551Z",
+  "lastUpdated": "2026-04-12T12:42:44.437Z",
   "source": "PandaScore"
 }
