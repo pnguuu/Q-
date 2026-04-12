@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1080565",
-      "startTime": "2024-12-13T11:01:06Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Rapid Lofi",
-        "shortName": "LOFI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134497/190px_rapid_lofi_lightmode.png"
-      },
-      "teamB": {
-        "name": "NRG",
-        "shortName": "NRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "SOOP Valorant League",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1084329",
       "startTime": "2024-12-13T11:41:17Z",
       "region": "VCT PAC",
@@ -39755,7 +39734,7 @@
     },
     {
       "id": "1402262",
-      "startTime": "2026-04-12T15:00:00Z",
+      "startTime": "2026-04-12T15:03:27Z",
       "region": "LEC",
       "teamA": {
         "name": "Team Vitality",
@@ -39769,7 +39748,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -44584,6 +44563,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-12T14:36:41.284Z",
+  "lastUpdated": "2026-04-12T15:30:17.027Z",
   "source": "PandaScore"
 }
