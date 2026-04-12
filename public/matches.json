@@ -39725,16 +39725,16 @@
         "shortName": "SHFT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402263",
-      "startTime": "2026-04-12T17:15:00Z",
+      "startTime": "2026-04-12T18:00:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Team Heretics",
@@ -44542,6 +44542,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-12T16:29:36.612Z",
+  "lastUpdated": "2026-04-12T17:28:33.523Z",
   "source": "PandaScore"
 }
