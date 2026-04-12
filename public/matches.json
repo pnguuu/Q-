@@ -39662,9 +39662,9 @@
         "shortName": "DNS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39683,37 +39683,16 @@
         "shortName": "ZETA",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1420892",
-      "startTime": "2026-04-12T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Oh My God",
-        "shortName": "OMG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
-      },
-      "teamB": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1399061",
-      "startTime": "2026-04-12T09:00:00Z",
+      "startTime": "2026-04-12T09:06:04Z",
       "region": "VCT CN",
       "teamA": {
         "name": "JD Gaming",
@@ -39727,8 +39706,29 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420892",
+      "startTime": "2026-04-12T09:08:21Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Oh My God",
+        "shortName": "OMG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
+      },
+      "teamB": {
+        "name": "LGD Gaming",
+        "shortName": "LGD",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -44647,6 +44647,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-12T08:54:17.121Z",
+  "lastUpdated": "2026-04-12T09:39:21.626Z",
   "source": "PandaScore"
 }
