@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1080569",
-      "startTime": "2024-12-14T11:48:53Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Gen.G Esports",
-        "shortName": "Gen.G",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128473/600px_gen_g_2019_logo.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "SOOP Valorant League",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1080570",
       "startTime": "2024-12-15T08:09:23Z",
       "region": "VCT PAC",
@@ -44500,6 +44479,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-12T19:34:38.890Z",
+  "lastUpdated": "2026-04-12T20:27:48.007Z",
   "source": "PandaScore"
 }
