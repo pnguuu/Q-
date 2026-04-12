@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1084329",
-      "startTime": "2024-12-13T11:41:17Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "Trace Esports",
-        "shortName": "TE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "Superb Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1080568",
       "startTime": "2024-12-14T08:08:13Z",
       "region": "VCT PAC",
@@ -39747,7 +39726,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -44563,6 +44542,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-12T15:30:17.027Z",
+  "lastUpdated": "2026-04-12T16:29:36.612Z",
   "source": "PandaScore"
 }
