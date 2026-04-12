@@ -39650,7 +39650,7 @@
     },
     {
       "id": "1413438",
-      "startTime": "2026-04-12T08:00:00Z",
+      "startTime": "2026-04-12T07:59:59Z",
       "region": "LCK",
       "teamA": {
         "name": "BNK FEARX",
@@ -39662,16 +39662,16 @@
         "shortName": "DNS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402225",
-      "startTime": "2026-04-12T08:00:00Z",
+      "startTime": "2026-04-12T08:05:48Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "FULL SENSE",
@@ -39683,9 +39683,9 @@
         "shortName": "ZETA",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44647,6 +44647,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-12T07:59:26.394Z",
+  "lastUpdated": "2026-04-12T08:54:17.121Z",
   "source": "PandaScore"
 }
