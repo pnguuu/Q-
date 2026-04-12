@@ -39767,7 +39767,7 @@
         "shortName": "WOL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -39789,8 +39789,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -44626,6 +44626,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-12T12:42:44.437Z",
+  "lastUpdated": "2026-04-12T13:55:56.426Z",
   "source": "PandaScore"
 }
