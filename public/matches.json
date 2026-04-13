@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1084331",
-      "startTime": "2024-12-15T10:03:15Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "XLG Gaming",
-        "shortName": "XLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
-      },
-      "teamB": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "scoreA": 3,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "Superb Cup",
-      "format": "BO5",
-      "category": "cn_extended"
-    },
-    {
       "id": "1089491",
       "startTime": "2024-12-20T13:34:44Z",
       "region": "VCT PAC",
@@ -39704,9 +39683,9 @@
         "shortName": "SHFT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -44458,6 +44437,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-13T17:57:26.841Z",
+  "lastUpdated": "2026-04-13T19:10:58.569Z",
   "source": "PandaScore"
 }
