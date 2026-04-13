@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1080570",
-      "startTime": "2024-12-15T08:09:23Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "NRG",
-        "shortName": "NRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
-      },
-      "teamB": {
-        "name": "Gen.G Esports",
-        "shortName": "Gen.G",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128473/600px_gen_g_2019_logo.png"
-      },
-      "scoreA": 3,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "SOOP Valorant League",
-      "format": "BO5",
-      "category": "cn_extended"
-    },
-    {
       "id": "1084331",
       "startTime": "2024-12-15T10:03:15Z",
       "region": "VCT PAC",
@@ -39705,15 +39684,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402265",
-      "startTime": "2026-04-13T17:15:00Z",
+      "startTime": "2026-04-13T17:21:19Z",
       "region": "LEC",
       "teamA": {
         "name": "GIANTX",
@@ -39727,7 +39706,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -44479,6 +44458,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-13T16:56:30.936Z",
+  "lastUpdated": "2026-04-13T17:57:26.841Z",
   "source": "PandaScore"
 }
