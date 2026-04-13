@@ -39705,7 +39705,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -44479,6 +44479,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-13T15:10:24.481Z",
+  "lastUpdated": "2026-04-13T16:56:30.936Z",
   "source": "PandaScore"
 }
