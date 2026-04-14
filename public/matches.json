@@ -2752,27 +2752,6 @@
       "category": "primary"
     },
     {
-      "id": "1127088",
-      "startTime": "2025-03-14T09:53:27Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/390/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "First Stand",
-      "format": "BO3",
-      "category": "international"
-    },
-    {
       "id": "1127045",
       "startTime": "2025-03-14T11:06:38Z",
       "region": "VCT CN",
@@ -2792,48 +2771,6 @@
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
-    },
-    {
-      "id": "1127090",
-      "startTime": "2025-03-15T04:11:08Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "CTBC Flying Oyster",
-        "shortName": "CFO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130355/ctbc_flying_oysterlogo_square.png"
-      },
-      "teamB": {
-        "name": "Karmine Corp",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "First Stand",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
-      "id": "1127089",
-      "startTime": "2025-03-15T09:01:28Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "teamB": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "scoreA": 3,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "First Stand",
-      "format": "BO5",
-      "category": "international"
     },
     {
       "id": "1127046",
@@ -44416,6 +44353,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-14T22:38:59.663Z",
+  "lastUpdated": "2026-04-14T23:36:54.948Z",
   "source": "PandaScore"
 }
