@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089493",
-      "startTime": "2024-12-21T13:26:38Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Onyx Ravens",
-        "shortName": "OXR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132543/138px_onyx_ravens_2023_allmode.png"
-      },
-      "teamB": {
-        "name": "Dragons Esports",
-        "shortName": "DRGN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134511/800px_dragons_esports_2024_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "Saudi eLeague",
-      "format": "BO3",
-      "category": "international"
-    },
-    {
-      "id": "1089492",
-      "startTime": "2024-12-21T16:31:27Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "AlQadsiah Esports",
-        "shortName": "QE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136040/284px_al_qadsiah_2024_full_allmode.png"
-      },
-      "teamB": {
-        "name": "The Ultimates",
-        "shortName": "ULT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131339/the_ultimates_2020_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "Saudi eLeague",
-      "format": "BO3",
-      "category": "international"
-    },
-    {
       "id": "1089494",
       "startTime": "2024-12-22T11:32:04Z",
       "region": "VCT PAC",
@@ -2813,27 +2771,6 @@
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
-    },
-    {
-      "id": "1127081",
-      "startTime": "2025-03-11T08:06:30Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "CTBC Flying Oyster",
-        "shortName": "CFO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130355/ctbc_flying_oysterlogo_square.png"
-      },
-      "teamB": {
-        "name": "Karmine Corp",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "First Stand",
-      "format": "BO3",
-      "category": "international"
     },
     {
       "id": "1127082",
@@ -44647,6 +44584,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-14T15:08:13.557Z",
+  "lastUpdated": "2026-04-14T16:57:51.573Z",
   "source": "PandaScore"
 }
