@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089494",
-      "startTime": "2024-12-22T11:32:04Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "The Ultimates",
-        "shortName": "ULT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131339/the_ultimates_2020_allmode.png"
-      },
-      "teamB": {
-        "name": "Dragons Esports",
-        "shortName": "DRGN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134511/800px_dragons_esports_2024_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "Saudi eLeague",
-      "format": "BO3",
-      "category": "international"
-    },
-    {
-      "id": "1089496",
-      "startTime": "2024-12-22T16:41:18Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "AlQadsiah Esports",
-        "shortName": "QE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136040/284px_al_qadsiah_2024_full_allmode.png"
-      },
-      "teamB": {
-        "name": "The Ultimates",
-        "shortName": "ULT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131339/the_ultimates_2020_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "Saudi eLeague",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
       "id": "1096431",
       "startTime": "2025-01-11T09:08:36Z",
       "region": "VCT CN",
@@ -44584,6 +44542,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-14T16:57:51.573Z",
+  "lastUpdated": "2026-04-14T18:04:11.960Z",
   "source": "PandaScore"
 }
