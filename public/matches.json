@@ -2815,27 +2815,6 @@
       "category": "primary"
     },
     {
-      "id": "1127079",
-      "startTime": "2025-03-10T08:07:06Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/390/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Karmine Corp",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "First Stand",
-      "format": "BO3",
-      "category": "international"
-    },
-    {
       "id": "1127080",
       "startTime": "2025-03-10T10:56:33Z",
       "region": "LPL",
@@ -39671,7 +39650,7 @@
     },
     {
       "id": "1399064",
-      "startTime": "2026-04-14T12:00:00Z",
+      "startTime": "2026-04-14T11:57:57Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Trace Esports",
@@ -39683,9 +39662,9 @@
         "shortName": "DRG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44689,6 +44668,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-14T11:53:48.290Z",
+  "lastUpdated": "2026-04-14T13:07:40.122Z",
   "source": "PandaScore"
 }
