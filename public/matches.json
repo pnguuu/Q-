@@ -39663,15 +39663,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399064",
-      "startTime": "2026-04-14T11:00:00Z",
+      "startTime": "2026-04-14T12:00:00Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Trace Esports",
@@ -44689,6 +44689,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-14T10:09:19.449Z",
+  "lastUpdated": "2026-04-14T11:53:48.290Z",
   "source": "PandaScore"
 }
