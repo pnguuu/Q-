@@ -39335,7 +39335,7 @@
     },
     {
       "id": "1413440",
-      "startTime": "2026-04-15T08:00:00Z",
+      "startTime": "2026-04-15T07:59:19Z",
       "region": "LCK",
       "teamA": {
         "name": "Nongshim Red Force",
@@ -39349,7 +39349,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -44332,6 +44332,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-15T06:29:10.822Z",
+  "lastUpdated": "2026-04-15T08:24:10.330Z",
   "source": "PandaScore"
 }
