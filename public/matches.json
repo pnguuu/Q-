@@ -39431,9 +39431,9 @@
         "shortName": "IG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39452,9 +39452,9 @@
         "shortName": "BLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39905,14 +39905,14 @@
       "startTime": "2026-04-18T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "TYLOO",
+        "shortName": "TYLOO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Dragon Ranger Gaming",
+        "shortName": "DRG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -39989,9 +39989,9 @@
       "startTime": "2026-04-18T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40115,14 +40115,14 @@
       "startTime": "2026-04-19T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "TEC Esports",
+        "shortName": "TEC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Trace Esports",
+        "shortName": "TE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -44332,6 +44332,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-15T13:06:07.224Z",
+  "lastUpdated": "2026-04-15T15:01:04.055Z",
   "source": "PandaScore"
 }
