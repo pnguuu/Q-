@@ -39461,7 +39461,7 @@
     },
     {
       "id": "1399214",
-      "startTime": "2026-04-15T15:00:00Z",
+      "startTime": "2026-04-15T15:07:31Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "BBL Esports",
@@ -39473,9 +39473,9 @@
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44332,6 +44332,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-15T15:01:04.055Z",
+  "lastUpdated": "2026-04-15T16:54:52.924Z",
   "source": "PandaScore"
 }
