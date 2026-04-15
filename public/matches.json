@@ -39474,15 +39474,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399215",
-      "startTime": "2026-04-15T18:00:00Z",
+      "startTime": "2026-04-15T18:30:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates",
@@ -44332,6 +44332,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-15T16:54:52.924Z",
+  "lastUpdated": "2026-04-15T18:01:17.862Z",
   "source": "PandaScore"
 }
