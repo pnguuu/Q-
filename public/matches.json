@@ -3067,27 +3067,6 @@
       "category": "primary"
     },
     {
-      "id": "1145020",
-      "startTime": "2025-03-22T12:59:07Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1138008",
       "startTime": "2025-03-23T08:05:01Z",
       "region": "VCT PAC",
@@ -44143,6 +44122,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-16T21:36:48.216Z",
+  "lastUpdated": "2026-04-16T22:32:59.397Z",
   "source": "PandaScore"
 }
