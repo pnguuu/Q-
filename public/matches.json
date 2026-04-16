@@ -39495,15 +39495,36 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1399067",
+      "startTime": "2026-04-16T09:05:38Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "Nova Esports",
+        "shortName": "NOVA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Wolves Esports",
+        "shortName": "WOL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1420905",
-      "startTime": "2026-04-16T09:00:00Z",
+      "startTime": "2026-04-16T09:09:05Z",
       "region": "LPL",
       "teamA": {
         "name": "Team WE",
@@ -39516,30 +39537,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1399067",
-      "startTime": "2026-04-16T09:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Wolves Esports",
-        "shortName": "WOL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -44311,6 +44311,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-16T08:24:43.284Z",
+  "lastUpdated": "2026-04-16T10:10:22.671Z",
   "source": "PandaScore"
 }
