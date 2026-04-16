@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1096432",
-      "startTime": "2025-01-12T09:07:06Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1096433",
       "startTime": "2025-01-12T12:31:40Z",
       "region": "VCT CN",
@@ -39558,8 +39537,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39587,7 +39566,7 @@
     },
     {
       "id": "1399216",
-      "startTime": "2026-04-16T15:00:00Z",
+      "startTime": "2026-04-16T15:10:06Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Eternal Fire",
@@ -39601,7 +39580,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39952,9 +39931,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40157,14 +40136,14 @@
       "startTime": "2026-04-19T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "All Gamers",
+        "shortName": "AG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "XLG Gaming",
+        "shortName": "XLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -44290,6 +44269,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-16T13:13:55.888Z",
+  "lastUpdated": "2026-04-16T15:21:25.296Z",
   "source": "PandaScore"
 }
