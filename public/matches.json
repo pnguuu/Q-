@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1096431",
-      "startTime": "2025-01-11T09:08:36Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "teamB": {
-        "name": "TEC Esports",
-        "shortName": "TEC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1096430",
       "startTime": "2025-01-11T11:46:56Z",
       "region": "VCT CN",
@@ -44332,6 +44311,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-15T23:36:06.289Z",
+  "lastUpdated": "2026-04-16T01:56:26.674Z",
   "source": "PandaScore"
 }
