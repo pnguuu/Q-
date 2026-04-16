@@ -39557,8 +39557,8 @@
         "shortName": "XLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -39578,9 +39578,9 @@
         "shortName": "BLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -44290,6 +44290,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-16T11:55:14.303Z",
+  "lastUpdated": "2026-04-16T13:13:55.888Z",
   "source": "PandaScore"
 }
