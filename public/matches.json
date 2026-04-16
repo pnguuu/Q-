@@ -39566,7 +39566,7 @@
     },
     {
       "id": "1399217",
-      "startTime": "2026-04-16T17:30:00Z",
+      "startTime": "2026-04-16T17:29:43Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Karmine Corp",
@@ -39578,9 +39578,9 @@
         "shortName": "TH",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44248,6 +44248,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-16T17:05:59.730Z",
+  "lastUpdated": "2026-04-16T19:02:02.729Z",
   "source": "PandaScore"
 }
