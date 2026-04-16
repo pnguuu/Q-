@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1096433",
-      "startTime": "2025-01-12T12:31:40Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "All Gamers",
-        "shortName": "AG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089161",
       "startTime": "2025-01-15T17:08:05Z",
       "region": "VCT EMEA",
@@ -404,8 +383,8 @@
       "startTime": "2025-01-20T08:04:09Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -1018,8 +997,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128473/600px_gen_g_2019_logo.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 0,
@@ -1165,8 +1144,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 1,
@@ -1328,8 +1307,8 @@
       "startTime": "2025-02-09T08:11:40Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -3218,8 +3197,8 @@
       "startTime": "2025-03-23T08:05:01Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -4625,8 +4604,8 @@
       "startTime": "2025-03-30T10:54:38Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -5570,8 +5549,8 @@
       "startTime": "2025-04-07T08:04:50Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -6284,8 +6263,8 @@
       "startTime": "2025-04-12T10:16:41Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -7523,8 +7502,8 @@
       "startTime": "2025-04-20T08:05:23Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -8300,8 +8279,8 @@
       "startTime": "2025-04-26T10:57:07Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -8494,8 +8473,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 2,
@@ -9266,8 +9245,8 @@
       "startTime": "2025-05-04T08:05:38Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -10001,8 +9980,8 @@
       "startTime": "2025-05-09T10:11:53Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -10867,8 +10846,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 0,
@@ -11030,8 +11009,8 @@
       "startTime": "2025-05-16T09:06:21Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -11119,8 +11098,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 1,
@@ -11350,8 +11329,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/190px_paper_rex.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 1,
@@ -14453,8 +14432,8 @@
       "startTime": "2025-07-08T11:12:24Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -14831,8 +14810,8 @@
       "startTime": "2025-07-16T10:35:32Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -15251,8 +15230,8 @@
       "startTime": "2025-07-18T08:05:21Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -16574,8 +16553,8 @@
       "startTime": "2025-07-27T08:07:01Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -17419,8 +17398,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 0,
@@ -18296,8 +18275,8 @@
       "startTime": "2025-08-09T08:06:43Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -18973,8 +18952,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132132/600px_t1_allmode.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 2,
@@ -19388,8 +19367,8 @@
       "startTime": "2025-08-16T10:11:50Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -26155,8 +26134,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 0,
@@ -26864,8 +26843,8 @@
       "startTime": "2025-11-30T06:08:45Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -26911,8 +26890,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 3,
@@ -26969,8 +26948,8 @@
       "startTime": "2025-12-03T08:05:30Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -27137,8 +27116,8 @@
       "startTime": "2025-12-05T08:12:41Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -30497,8 +30476,8 @@
       "startTime": "2026-01-24T10:57:30Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -31967,8 +31946,8 @@
       "startTime": "2026-01-30T08:07:52Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -32492,8 +32471,8 @@
       "startTime": "2026-02-01T11:03:50Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -33836,8 +33815,8 @@
       "startTime": "2026-02-07T08:05:32Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -34093,8 +34072,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 0,
@@ -34676,8 +34655,8 @@
       "startTime": "2026-02-12T08:05:23Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -37936,8 +37915,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129537/600px_team_secret.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 0,
@@ -38650,8 +38629,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 1,
@@ -39578,16 +39557,16 @@
         "shortName": "VIT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399217",
-      "startTime": "2026-04-16T18:00:00Z",
+      "startTime": "2026-04-16T17:30:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Karmine Corp",
@@ -39800,8 +39779,8 @@
       "startTime": "2026-04-18T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "teamB": {
@@ -40750,8 +40729,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128473/600px_gen_g_2019_logo.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 0,
@@ -41821,8 +41800,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/190px_paper_rex.png"
       },
       "teamB": {
-        "name": "DRX",
-        "shortName": "DRX",
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 0,
@@ -44269,6 +44248,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-16T15:21:25.296Z",
+  "lastUpdated": "2026-04-16T17:05:59.730Z",
   "source": "PandaScore"
 }
