@@ -3151,27 +3151,6 @@
       "category": "primary"
     },
     {
-      "id": "1145069",
-      "startTime": "2025-03-23T13:00:09Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1138010",
       "startTime": "2025-03-24T08:05:04Z",
       "region": "VCT PAC",
@@ -39482,7 +39461,7 @@
     },
     {
       "id": "1399218",
-      "startTime": "2026-04-17T15:00:00Z",
+      "startTime": "2026-04-17T15:07:11Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "FUT Esports",
@@ -39496,7 +39475,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44017,6 +43996,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-17T14:49:29.274Z",
+  "lastUpdated": "2026-04-17T15:53:15.994Z",
   "source": "PandaScore"
 }
