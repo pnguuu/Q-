@@ -39452,9 +39452,9 @@
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39474,15 +39474,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/190px_paper_rex.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420908",
-      "startTime": "2026-04-17T12:00:00Z",
+      "startTime": "2026-04-17T12:05:39Z",
       "region": "LPL",
       "teamA": {
         "name": "Ninjas in Pyjamas",
@@ -39494,9 +39494,9 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -44038,6 +44038,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-17T11:44:06.092Z",
+  "lastUpdated": "2026-04-17T13:00:47.160Z",
   "source": "PandaScore"
 }
