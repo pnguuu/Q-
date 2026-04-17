@@ -3172,27 +3172,6 @@
       "category": "primary"
     },
     {
-      "id": "1145027",
-      "startTime": "2025-03-24T08:11:47Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "teamB": {
-        "name": "Royal Never Give Up",
-        "shortName": "RNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1145028",
       "startTime": "2025-03-24T09:17:55Z",
       "region": "LPL",
@@ -39473,7 +39452,7 @@
         "shortName": "TL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -43996,6 +43975,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-17T15:53:15.994Z",
+  "lastUpdated": "2026-04-17T16:46:26.275Z",
   "source": "PandaScore"
 }
