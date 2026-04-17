@@ -3172,48 +3172,6 @@
       "category": "primary"
     },
     {
-      "id": "1145028",
-      "startTime": "2025-03-24T09:17:55Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ultra Prime",
-        "shortName": "UP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
-      "id": "1145030",
-      "startTime": "2025-03-24T10:18:07Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Royal Never Give Up",
-        "shortName": "RNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
-      },
-      "teamB": {
-        "name": "Ultra Prime",
-        "shortName": "UP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1138011",
       "startTime": "2025-03-24T10:48:26Z",
       "region": "VCT PAC",
@@ -3232,69 +3190,6 @@
       "status": "已结束",
       "league": "VCT",
       "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1145031",
-      "startTime": "2025-03-24T11:16:57Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
-      "id": "1145032",
-      "startTime": "2025-03-24T12:05:44Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "teamB": {
-        "name": "Ultra Prime",
-        "shortName": "UP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
-      "id": "1145033",
-      "startTime": "2025-03-24T13:06:45Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Royal Never Give Up",
-        "shortName": "RNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
       "category": "primary"
     },
     {
@@ -39452,16 +39347,16 @@
         "shortName": "TL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399219",
-      "startTime": "2026-04-17T18:00:00Z",
+      "startTime": "2026-04-17T17:39:16Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Pcific Esports",
@@ -39475,7 +39370,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43975,6 +43870,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-17T16:46:26.275Z",
+  "lastUpdated": "2026-04-17T17:42:37.587Z",
   "source": "PandaScore"
 }
