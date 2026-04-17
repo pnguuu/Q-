@@ -3130,27 +3130,6 @@
       "category": "primary"
     },
     {
-      "id": "1145068",
-      "startTime": "2025-03-23T12:03:45Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1127057",
       "startTime": "2025-03-23T12:12:30Z",
       "region": "VCT CN",
@@ -39494,9 +39473,9 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -44038,6 +44017,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-17T13:00:47.160Z",
+  "lastUpdated": "2026-04-17T14:49:29.274Z",
   "source": "PandaScore"
 }
