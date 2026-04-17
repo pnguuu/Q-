@@ -3109,27 +3109,6 @@
       "category": "primary"
     },
     {
-      "id": "1145066",
-      "startTime": "2025-03-23T10:03:02Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1145067",
       "startTime": "2025-03-23T11:03:40Z",
       "region": "LPL",
@@ -39432,8 +39411,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39452,16 +39431,16 @@
         "shortName": "VAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420907",
-      "startTime": "2026-04-17T09:00:00Z",
+      "startTime": "2026-04-17T09:07:20Z",
       "region": "LPL",
       "teamA": {
         "name": "ThunderTalk Gaming",
@@ -39474,8 +39453,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39503,7 +39482,7 @@
     },
     {
       "id": "1402228",
-      "startTime": "2026-04-17T10:00:00Z",
+      "startTime": "2026-04-17T10:20:00Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Team Secret",
@@ -44080,6 +44059,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-17T08:23:29.902Z",
+  "lastUpdated": "2026-04-17T10:07:52.596Z",
   "source": "PandaScore"
 }
