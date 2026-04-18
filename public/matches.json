@@ -39263,9 +39263,9 @@
         "shortName": "GEN",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39284,7 +39284,7 @@
         "shortName": "GE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -39293,7 +39293,7 @@
     },
     {
       "id": "1420909",
-      "startTime": "2026-04-18T09:00:00Z",
+      "startTime": "2026-04-18T09:07:29Z",
       "region": "LPL",
       "teamA": {
         "name": "Invictus Gaming",
@@ -39307,14 +39307,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399073",
-      "startTime": "2026-04-18T09:00:00Z",
+      "startTime": "2026-04-18T09:10:54Z",
       "region": "VCT CN",
       "teamA": {
         "name": "TYLOO",
@@ -39328,29 +39328,8 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1413447",
-      "startTime": "2026-04-18T10:00:00Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "teamB": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -39372,6 +39351,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1413447",
+      "startTime": "2026-04-18T10:15:00Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
+      },
+      "teamB": {
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -43744,6 +43744,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T08:40:59.596Z",
+  "lastUpdated": "2026-04-18T09:40:52.039Z",
   "source": "PandaScore"
 }
