@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089161",
-      "startTime": "2025-01-15T17:08:05Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "BBL Esports",
-        "shortName": "BBL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "GIANTX",
-        "shortName": "GX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089160",
       "startTime": "2025-01-15T20:35:52Z",
       "region": "VCT EMEA",
@@ -39369,8 +39348,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43723,6 +43702,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T13:57:17.896Z",
+  "lastUpdated": "2026-04-18T14:38:06.869Z",
   "source": "PandaScore"
 }
