@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089160",
-      "startTime": "2025-01-15T20:35:52Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Karmine Corp",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
-      },
-      "teamB": {
-        "name": "Natus Vincere",
-        "shortName": "NAVI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1096479",
       "startTime": "2025-01-16T09:11:28Z",
       "region": "VCT CN",
@@ -39369,15 +39348,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402266",
-      "startTime": "2026-04-18T15:00:00Z",
+      "startTime": "2026-04-18T15:02:08Z",
       "region": "LEC",
       "teamA": {
         "name": "GIANTX",
@@ -39391,7 +39370,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43702,6 +43681,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T14:38:06.869Z",
+  "lastUpdated": "2026-04-18T15:31:33.599Z",
   "source": "PandaScore"
 }
