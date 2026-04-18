@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1096480",
-      "startTime": "2025-01-17T09:07:13Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Trace Esports",
-        "shortName": "TE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
-      },
-      "teamB": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1096481",
       "startTime": "2025-01-17T11:17:26Z",
       "region": "VCT CN",
@@ -3064,27 +3043,6 @@
       "status": "已结束",
       "league": "VCT",
       "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1145025",
-      "startTime": "2025-03-26T12:19:11Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
       "category": "primary"
     },
     {
@@ -43534,6 +43492,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T19:36:30.384Z",
+  "lastUpdated": "2026-04-18T20:28:03.536Z",
   "source": "PandaScore"
 }
