@@ -39305,7 +39305,7 @@
         "shortName": "BLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
@@ -39326,9 +39326,9 @@
         "shortName": "DRG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39348,7 +39348,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
@@ -39368,7 +39368,7 @@
         "shortName": "DFM",
         "logo": "https://cdn-api.pandascore.co/images/team/image/131974/727px_detonatio_n_focus_me_2022_lightmode_full.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -39376,29 +39376,8 @@
       "category": "primary"
     },
     {
-      "id": "1420910",
-      "startTime": "2026-04-18T11:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1399072",
-      "startTime": "2026-04-18T11:00:00Z",
+      "startTime": "2026-04-18T11:30:00Z",
       "region": "VCT CN",
       "teamA": {
         "name": "JD Gaming",
@@ -39414,6 +39393,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420910",
+      "startTime": "2026-04-18T12:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "teamB": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -43744,6 +43744,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T10:33:44.803Z",
+  "lastUpdated": "2026-04-18T11:29:29.108Z",
   "source": "PandaScore"
 }
