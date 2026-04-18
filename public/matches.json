@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1096478",
-      "startTime": "2025-01-16T12:33:17Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "XLG Gaming",
-        "shortName": "XLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089159",
       "startTime": "2025-01-16T17:03:26Z",
       "region": "VCT EMEA",
@@ -3127,27 +3106,6 @@
       "status": "已结束",
       "league": "VCT",
       "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1145022",
-      "startTime": "2025-03-26T09:13:18Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "teamB": {
-        "name": "Team WE",
-        "shortName": "WE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
       "category": "primary"
     },
     {
@@ -39348,15 +39306,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402267",
-      "startTime": "2026-04-18T17:15:00Z",
+      "startTime": "2026-04-18T17:40:00Z",
       "region": "LEC",
       "teamA": {
         "name": "G2 Esports",
@@ -43660,6 +43618,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T16:30:26.456Z",
+  "lastUpdated": "2026-04-18T17:30:32.601Z",
   "source": "PandaScore"
 }
