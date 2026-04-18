@@ -39251,7 +39251,7 @@
     },
     {
       "id": "1413446",
-      "startTime": "2026-04-18T08:00:00Z",
+      "startTime": "2026-04-18T07:59:21Z",
       "region": "LCK",
       "teamA": {
         "name": "Hanwha Life Esports",
@@ -39263,16 +39263,16 @@
         "shortName": "GEN",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402229",
-      "startTime": "2026-04-18T08:00:00Z",
+      "startTime": "2026-04-18T08:05:58Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -39286,7 +39286,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43744,6 +43744,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T07:55:52.448Z",
+  "lastUpdated": "2026-04-18T08:40:59.596Z",
   "source": "PandaScore"
 }
