@@ -39306,8 +39306,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39348,8 +39348,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39369,7 +39369,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/131974/727px_detonatio_n_focus_me_2022_lightmode_full.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -39377,7 +39377,7 @@
     },
     {
       "id": "1399072",
-      "startTime": "2026-04-18T11:30:00Z",
+      "startTime": "2026-04-18T11:35:36Z",
       "region": "VCT CN",
       "teamA": {
         "name": "JD Gaming",
@@ -39389,16 +39389,16 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420910",
-      "startTime": "2026-04-18T12:00:00Z",
+      "startTime": "2026-04-18T12:10:04Z",
       "region": "LPL",
       "teamA": {
         "name": "Weibo Gaming",
@@ -39412,7 +39412,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43744,6 +43744,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T11:29:29.108Z",
+  "lastUpdated": "2026-04-18T12:43:00.415Z",
   "source": "PandaScore"
 }
