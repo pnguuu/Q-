@@ -3193,27 +3193,6 @@
       "category": "primary"
     },
     {
-      "id": "1145021",
-      "startTime": "2025-03-26T08:07:51Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1145022",
       "startTime": "2025-03-26T09:13:18Z",
       "region": "LPL",
@@ -39369,8 +39348,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/131974/727px_detonatio_n_focus_me_2022_lightmode_full.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39390,7 +39369,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -39410,8 +39389,8 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
@@ -43744,6 +43723,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T12:43:00.415Z",
+  "lastUpdated": "2026-04-18T13:57:17.896Z",
   "source": "PandaScore"
 }
