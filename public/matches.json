@@ -3067,27 +3067,6 @@
       "category": "primary"
     },
     {
-      "id": "1145024",
-      "startTime": "2025-03-26T11:08:29Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Team WE",
-        "shortName": "WE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1145025",
       "startTime": "2025-03-26T12:19:11Z",
       "region": "LPL",
@@ -39263,9 +39242,9 @@
         "shortName": "SK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43555,6 +43534,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T18:36:30.467Z",
+  "lastUpdated": "2026-04-18T19:36:30.384Z",
   "source": "PandaScore"
 }
