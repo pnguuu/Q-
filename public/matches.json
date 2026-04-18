@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089159",
-      "startTime": "2025-01-16T17:03:26Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "KOI",
-        "shortName": "KOI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135651/600px_koi_2024_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1089162",
-      "startTime": "2025-01-16T20:16:58Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Apeks",
-        "shortName": "APEKS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132560/1200px_apeks_2021_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Gentle Mates",
-        "shortName": "GM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/gentle_mates_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1096480",
       "startTime": "2025-01-17T09:07:13Z",
       "region": "VCT CN",
@@ -3106,27 +3064,6 @@
       "status": "已结束",
       "league": "VCT",
       "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1145023",
-      "startTime": "2025-03-26T10:12:47Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
       "category": "primary"
     },
     {
@@ -39314,7 +39251,7 @@
     },
     {
       "id": "1402267",
-      "startTime": "2026-04-18T17:40:00Z",
+      "startTime": "2026-04-18T17:45:07Z",
       "region": "LEC",
       "teamA": {
         "name": "G2 Esports",
@@ -39326,9 +39263,9 @@
         "shortName": "SK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43618,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T17:30:32.601Z",
+  "lastUpdated": "2026-04-18T18:36:30.467Z",
   "source": "PandaScore"
 }
