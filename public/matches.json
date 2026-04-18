@@ -3046,27 +3046,6 @@
       "category": "primary"
     },
     {
-      "id": "1145026",
-      "startTime": "2025-03-26T13:20:38Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Team WE",
-        "shortName": "WE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
-      },
-      "teamB": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1150802",
       "startTime": "2025-03-26T14:10:16Z",
       "region": "LPL",
@@ -43492,6 +43471,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T20:28:03.536Z",
+  "lastUpdated": "2026-04-18T21:27:16.414Z",
   "source": "PandaScore"
 }
