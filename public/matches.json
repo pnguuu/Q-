@@ -39817,18 +39817,18 @@
       "category": "primary"
     },
     {
-      "id": "1399221",
+      "id": "1399224",
       "startTime": "2026-04-22T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Gentle Mates",
-        "shortName": "GM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/gentle_mates_allmode.png"
+        "name": "Natus Vincere",
+        "shortName": "NAVI",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
       },
       "teamB": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
+        "name": "Team Liquid",
+        "shortName": "TL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40111,18 +40111,18 @@
       "category": "primary"
     },
     {
-      "id": "1399224",
+      "id": "1399221",
       "startTime": "2026-04-24T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Natus Vincere",
-        "shortName": "NAVI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
+        "name": "Gentle Mates",
+        "shortName": "GM",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/gentle_mates_allmode.png"
       },
       "teamB": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43744,6 +43744,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-18T01:30:21.750Z",
+  "lastUpdated": "2026-04-18T04:26:38.461Z",
   "source": "PandaScore"
 }
