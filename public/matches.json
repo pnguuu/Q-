@@ -3067,27 +3067,6 @@
       "category": "primary"
     },
     {
-      "id": "1145059",
-      "startTime": "2025-03-27T09:16:30Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1145060",
       "startTime": "2025-03-27T10:11:29Z",
       "region": "LPL",
@@ -39285,7 +39264,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -43408,6 +43387,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-19T13:55:33.162Z",
+  "lastUpdated": "2026-04-19T14:36:47.529Z",
   "source": "PandaScore"
 }
