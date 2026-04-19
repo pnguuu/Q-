@@ -39146,7 +39146,7 @@
     },
     {
       "id": "1413448",
-      "startTime": "2026-04-19T08:00:00Z",
+      "startTime": "2026-04-19T07:59:34Z",
       "region": "LCK",
       "teamA": {
         "name": "HANJIN BRION",
@@ -39160,7 +39160,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -43429,6 +43429,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-19T06:26:03.107Z",
+  "lastUpdated": "2026-04-19T08:02:52.955Z",
   "source": "PandaScore"
 }
