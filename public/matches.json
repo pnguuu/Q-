@@ -39158,8 +39158,8 @@
         "shortName": "NS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
@@ -39167,7 +39167,7 @@
     },
     {
       "id": "1402231",
-      "startTime": "2026-04-19T08:00:00Z",
+      "startTime": "2026-04-19T08:05:08Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Rex Regum Qeon",
@@ -39180,15 +39180,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420911",
-      "startTime": "2026-04-19T09:00:00Z",
+      "startTime": "2026-04-19T09:06:31Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -39202,14 +39202,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399074",
-      "startTime": "2026-04-19T09:00:00Z",
+      "startTime": "2026-04-19T09:09:22Z",
       "region": "VCT CN",
       "teamA": {
         "name": "TEC Esports",
@@ -39223,7 +39223,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43429,6 +43429,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-19T08:02:52.955Z",
+  "lastUpdated": "2026-04-19T09:40:37.150Z",
   "source": "PandaScore"
 }
