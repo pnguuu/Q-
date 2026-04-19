@@ -3067,27 +3067,6 @@
       "category": "primary"
     },
     {
-      "id": "1145058",
-      "startTime": "2025-03-27T08:06:45Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1145059",
       "startTime": "2025-03-27T09:16:30Z",
       "region": "LPL",
@@ -39263,9 +39242,9 @@
         "shortName": "AL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39285,8 +39264,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39305,7 +39284,7 @@
         "shortName": "XLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -43429,6 +43408,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-19T12:42:32.967Z",
+  "lastUpdated": "2026-04-19T13:55:33.162Z",
   "source": "PandaScore"
 }
