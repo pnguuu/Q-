@@ -3067,27 +3067,6 @@
       "category": "primary"
     },
     {
-      "id": "1145060",
-      "startTime": "2025-03-27T10:11:29Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1127058",
       "startTime": "2025-03-27T11:06:33Z",
       "region": "VCT CN",
@@ -39284,16 +39263,16 @@
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402269",
-      "startTime": "2026-04-19T17:15:00Z",
+      "startTime": "2026-04-19T16:55:24Z",
       "region": "LEC",
       "teamA": {
         "name": "Team Heretics",
@@ -39307,7 +39286,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43387,6 +43366,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-19T16:31:02.521Z",
+  "lastUpdated": "2026-04-19T17:29:42.694Z",
   "source": "PandaScore"
 }
