@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089165",
-      "startTime": "2025-01-17T17:12:19Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
-      },
-      "teamB": {
-        "name": "BBL Esports",
-        "shortName": "BBL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089164",
       "startTime": "2025-01-17T20:58:09Z",
       "region": "VCT EMEA",
@@ -3085,48 +3064,6 @@
       "status": "已结束",
       "league": "VCT",
       "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1145061",
-      "startTime": "2025-03-27T11:11:35Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "teamB": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
-      "id": "1145062",
-      "startTime": "2025-03-27T12:07:02Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
       "category": "primary"
     },
     {
@@ -39285,8 +39222,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43366,6 +43303,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-19T17:29:42.694Z",
+  "lastUpdated": "2026-04-19T18:37:20.714Z",
   "source": "PandaScore"
 }
