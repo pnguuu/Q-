@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089164",
-      "startTime": "2025-01-17T20:58:09Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Team Vitality",
-        "shortName": "VIT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
-      },
-      "teamB": {
-        "name": "Karmine Corp",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089871",
       "startTime": "2025-01-18T08:09:03Z",
       "region": "VCT PAC",
@@ -39222,8 +39201,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -44227,6 +44206,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-20T15:12:39.087Z",
+  "lastUpdated": "2026-04-20T17:01:39.657Z",
   "source": "PandaScore"
 }
