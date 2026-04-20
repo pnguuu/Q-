@@ -39209,7 +39209,7 @@
     },
     {
       "id": "1402270",
-      "startTime": "2026-04-20T15:00:00Z",
+      "startTime": "2026-04-20T15:01:58Z",
       "region": "LEC",
       "teamA": {
         "name": "Shifters",
@@ -39223,7 +39223,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -40069,6 +40069,69 @@
       "category": "primary"
     },
     {
+      "id": "1455266",
+      "startTime": "2026-04-27T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
+      },
+      "teamB": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455265",
+      "startTime": "2026-04-27T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
+      },
+      "teamB": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455267",
+      "startTime": "2026-04-27T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1420924",
       "startTime": "2026-04-28T09:00:00Z",
       "region": "LPL",
@@ -40107,6 +40170,90 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455269",
+      "startTime": "2026-04-28T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455268",
+      "startTime": "2026-04-28T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
+      },
+      "teamB": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455271",
+      "startTime": "2026-04-28T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
+      },
+      "teamB": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455270",
+      "startTime": "2026-04-28T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "ZennIT Orange GC",
+        "shortName": "ZNT.O",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
+      },
+      "teamB": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -40195,6 +40342,48 @@
       "category": "primary"
     },
     {
+      "id": "1455273",
+      "startTime": "2026-04-29T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
+      },
+      "teamB": {
+        "name": "ZennIT Orange GC",
+        "shortName": "ZNT.O",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455272",
+      "startTime": "2026-04-29T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1399226",
       "startTime": "2026-04-29T15:00:00Z",
       "region": "VCT EMEA",
@@ -40207,6 +40396,48 @@
         "name": "FUT Esports",
         "shortName": "FUT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455275",
+      "startTime": "2026-04-29T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455274",
+      "startTime": "2026-04-29T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "teamB": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40321,6 +40552,48 @@
       "category": "primary"
     },
     {
+      "id": "1455277",
+      "startTime": "2026-04-30T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
+      },
+      "teamB": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455276",
+      "startTime": "2026-04-30T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1399227",
       "startTime": "2026-04-30T15:00:00Z",
       "region": "VCT EMEA",
@@ -40333,6 +40606,48 @@
         "name": "Karmine Corp",
         "shortName": "KC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455279",
+      "startTime": "2026-04-30T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
+      },
+      "teamB": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455278",
+      "startTime": "2026-04-30T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "ZennIT Orange GC",
+        "shortName": "ZNT.O",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41077,6 +41392,48 @@
       "category": "primary"
     },
     {
+      "id": "1455281",
+      "startTime": "2026-05-04T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
+      },
+      "teamB": {
+        "name": "ZennIT Orange GC",
+        "shortName": "ZNT.O",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455280",
+      "startTime": "2026-05-04T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
+      },
+      "teamB": {
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1402283",
       "startTime": "2026-05-04T17:15:00Z",
       "region": "LEC",
@@ -41094,6 +41451,48 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455283",
+      "startTime": "2026-05-04T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455282",
+      "startTime": "2026-05-04T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -41131,6 +41530,69 @@
         "name": "TBD",
         "shortName": "TBD",
         "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455285",
+      "startTime": "2026-05-05T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455284",
+      "startTime": "2026-05-05T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "teamB": {
+        "name": "ZennIT Orange GC",
+        "shortName": "ZNT.O",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455286",
+      "startTime": "2026-05-05T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41224,6 +41686,90 @@
       "category": "primary"
     },
     {
+      "id": "1455288",
+      "startTime": "2026-05-06T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455287",
+      "startTime": "2026-05-06T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "teamB": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455290",
+      "startTime": "2026-05-06T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
+      },
+      "teamB": {
+        "name": "ZennIT Orange GC",
+        "shortName": "ZNT.O",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455289",
+      "startTime": "2026-05-06T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
+      },
+      "teamB": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1413472",
       "startTime": "2026-05-07T08:00:00Z",
       "region": "LCK",
@@ -41308,6 +41854,48 @@
       "category": "primary"
     },
     {
+      "id": "1455292",
+      "startTime": "2026-05-07T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
+      },
+      "teamB": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455291",
+      "startTime": "2026-05-07T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1411905",
       "startTime": "2026-05-07T15:00:00Z",
       "region": "VCT EMEA",
@@ -41320,6 +41908,48 @@
         "name": "TBD",
         "shortName": "TBD",
         "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455294",
+      "startTime": "2026-05-07T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "ZennIT Orange GC",
+        "shortName": "ZNT.O",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455293",
+      "startTime": "2026-05-07T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41938,6 +42568,69 @@
       "category": "primary"
     },
     {
+      "id": "1455296",
+      "startTime": "2026-05-11T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
+      },
+      "teamB": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455295",
+      "startTime": "2026-05-11T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "ZennIT Orange GC",
+        "shortName": "ZNT.O",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455297",
+      "startTime": "2026-05-11T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
+      },
+      "teamB": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1420947",
       "startTime": "2026-05-12T09:00:00Z",
       "region": "LPL",
@@ -41976,6 +42669,90 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455299",
+      "startTime": "2026-05-12T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "teamB": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455298",
+      "startTime": "2026-05-12T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
+      },
+      "teamB": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455301",
+      "startTime": "2026-05-12T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "ZennIT Orange GC",
+        "shortName": "ZNT.O",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455300",
+      "startTime": "2026-05-12T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -42064,6 +42841,90 @@
       "category": "primary"
     },
     {
+      "id": "1455403",
+      "startTime": "2026-05-13T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "teamB": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455372",
+      "startTime": "2026-05-13T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
+      },
+      "teamB": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455405",
+      "startTime": "2026-05-13T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
+      },
+      "teamB": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455404",
+      "startTime": "2026-05-13T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1413482",
       "startTime": "2026-05-14T08:00:00Z",
       "region": "LCK",
@@ -42144,6 +43005,90 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455407",
+      "startTime": "2026-05-14T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
+      },
+      "teamB": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455406",
+      "startTime": "2026-05-14T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455409",
+      "startTime": "2026-05-14T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455408",
+      "startTime": "2026-05-14T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
+      },
+      "teamB": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -43282,6 +44227,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-20T13:11:16.883Z",
+  "lastUpdated": "2026-04-20T15:12:39.087Z",
   "source": "PandaScore"
 }
