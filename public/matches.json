@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089874",
-      "startTime": "2025-01-18T11:24:42Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "ZETA DIVISION",
-        "shortName": "ZETA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
-      },
-      "teamB": {
-        "name": "Nongshim RedForce",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089872",
       "startTime": "2025-01-19T08:03:46Z",
       "region": "VCT PAC",
@@ -3022,27 +3001,6 @@
       "status": "已结束",
       "league": "VCT",
       "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1145037",
-      "startTime": "2025-03-28T10:02:57Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
       "category": "primary"
     },
     {
@@ -44101,6 +44059,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-20T22:36:23.358Z",
+  "lastUpdated": "2026-04-20T23:36:44.721Z",
   "source": "PandaScore"
 }
