@@ -3130,48 +3130,6 @@
       "category": "primary"
     },
     {
-      "id": "1145055",
-      "startTime": "2025-03-29T11:08:28Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
-      },
-      "teamB": {
-        "name": "Oh My God",
-        "shortName": "OMG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
-      "id": "1145056",
-      "startTime": "2025-03-29T12:10:58Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "teamB": {
-        "name": "Oh My God",
-        "shortName": "OMG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1127061",
       "startTime": "2025-03-29T12:27:38Z",
       "region": "VCT CN",
@@ -43912,6 +43870,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-21T21:39:18.836Z",
+  "lastUpdated": "2026-04-21T22:32:48.934Z",
   "source": "PandaScore"
 }
