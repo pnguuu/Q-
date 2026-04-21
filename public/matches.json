@@ -3004,27 +3004,6 @@
       "category": "primary"
     },
     {
-      "id": "1145038",
-      "startTime": "2025-03-28T11:02:26Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ultra Prime",
-        "shortName": "UP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
-      },
-      "teamB": {
-        "name": "Royal Never Give Up",
-        "shortName": "RNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1127059",
       "startTime": "2025-03-28T11:06:32Z",
       "region": "VCT CN",
@@ -3043,27 +3022,6 @@
       "status": "已结束",
       "league": "VCT",
       "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1145039",
-      "startTime": "2025-03-28T12:06:49Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Royal Never Give Up",
-        "shortName": "RNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
       "category": "primary"
     },
     {
@@ -44059,6 +44017,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-20T23:36:44.721Z",
+  "lastUpdated": "2026-04-21T01:52:52.794Z",
   "source": "PandaScore"
 }
