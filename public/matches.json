@@ -3109,48 +3109,6 @@
       "category": "primary"
     },
     {
-      "id": "1145053",
-      "startTime": "2025-03-29T09:10:39Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "teamB": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
-      "id": "1145054",
-      "startTime": "2025-03-29T10:01:44Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "teamB": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1138013",
       "startTime": "2025-03-29T10:32:41Z",
       "region": "VCT PAC",
@@ -43954,6 +43912,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-21T20:42:16.839Z",
+  "lastUpdated": "2026-04-21T21:39:18.836Z",
   "source": "PandaScore"
 }
