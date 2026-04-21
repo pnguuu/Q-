@@ -3025,27 +3025,6 @@
       "category": "primary"
     },
     {
-      "id": "1145041",
-      "startTime": "2025-03-28T13:13:38Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ultra Prime",
-        "shortName": "UP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
-      },
-      "teamB": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1152668",
       "startTime": "2025-03-28T14:16:56Z",
       "region": "LPL",
@@ -44017,6 +43996,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-21T10:14:32.116Z",
+  "lastUpdated": "2026-04-21T11:56:17.398Z",
   "source": "PandaScore"
 }
