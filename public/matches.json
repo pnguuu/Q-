@@ -3025,27 +3025,6 @@
       "category": "primary"
     },
     {
-      "id": "1152668",
-      "startTime": "2025-03-28T14:16:56Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ultra Prime",
-        "shortName": "UP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
-      },
-      "teamB": {
-        "name": "Royal Never Give Up",
-        "shortName": "RNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO1",
-      "category": "primary"
-    },
-    {
       "id": "1139908",
       "startTime": "2025-03-28T16:07:37Z",
       "region": "VCT EMEA",
@@ -43996,6 +43975,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-21T11:56:17.398Z",
+  "lastUpdated": "2026-04-21T13:10:54.344Z",
   "source": "PandaScore"
 }
