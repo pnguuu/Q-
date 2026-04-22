@@ -38843,8 +38843,8 @@
         "shortName": "TL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -43702,6 +43702,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-22T19:03:49.161Z",
+  "lastUpdated": "2026-04-22T20:45:27.639Z",
   "source": "PandaScore"
 }
