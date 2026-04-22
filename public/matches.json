@@ -3151,27 +3151,6 @@
       "category": "primary"
     },
     {
-      "id": "1148168",
-      "startTime": "2025-03-29T17:15:13Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "teamB": {
-        "name": "Movistar KOI",
-        "shortName": "MKOI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138015",
       "startTime": "2025-03-30T08:12:18Z",
       "region": "VCT PAC",
@@ -38843,16 +38822,16 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420913",
-      "startTime": "2026-04-22T09:00:00Z",
+      "startTime": "2026-04-22T09:07:36Z",
       "region": "LPL",
       "teamA": {
         "name": "Weibo Gaming",
@@ -38864,16 +38843,16 @@
         "shortName": "WE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1413451",
-      "startTime": "2026-04-22T10:00:00Z",
+      "startTime": "2026-04-22T10:09:35Z",
       "region": "LCK",
       "teamA": {
         "name": "Hanwha Life Esports",
@@ -38887,7 +38866,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -43807,6 +43786,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-22T08:27:00.135Z",
+  "lastUpdated": "2026-04-22T10:14:37.554Z",
   "source": "PandaScore"
 }
