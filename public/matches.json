@@ -3277,48 +3277,6 @@
       "category": "primary"
     },
     {
-      "id": "1148171",
-      "startTime": "2025-03-31T15:02:17Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "BDS",
-        "shortName": "BDS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128267/team_bd_slogo_square.png"
-      },
-      "teamB": {
-        "name": "Rogue",
-        "shortName": "RGE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/3983/rogue__28_european_team_29logo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1148172",
-      "startTime": "2025-03-31T17:58:17Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
-      },
-      "teamB": {
-        "name": "SK Gaming",
-        "shortName": "SK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1146447",
       "startTime": "2025-04-02T08:03:07Z",
       "region": "LCK",
@@ -38873,7 +38831,7 @@
     },
     {
       "id": "1399224",
-      "startTime": "2026-04-22T18:20:00Z",
+      "startTime": "2026-04-22T18:16:52Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Natus Vincere",
@@ -38887,7 +38845,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43744,6 +43702,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-22T17:55:20.856Z",
+  "lastUpdated": "2026-04-22T19:03:49.161Z",
   "source": "PandaScore"
 }
