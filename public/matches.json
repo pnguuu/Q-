@@ -38864,16 +38864,16 @@
         "shortName": "PCFIC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399224",
-      "startTime": "2026-04-22T18:00:00Z",
+      "startTime": "2026-04-22T18:20:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Natus Vincere",
@@ -43744,6 +43744,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-22T16:52:10.662Z",
+  "lastUpdated": "2026-04-22T17:55:20.856Z",
   "source": "PandaScore"
 }
