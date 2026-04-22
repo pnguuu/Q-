@@ -38843,9 +38843,9 @@
         "shortName": "WE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -38864,8 +38864,8 @@
         "shortName": "NS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
@@ -38873,7 +38873,7 @@
     },
     {
       "id": "1420914",
-      "startTime": "2026-04-22T11:00:00Z",
+      "startTime": "2026-04-22T11:11:55Z",
       "region": "LPL",
       "teamA": {
         "name": "Ninjas in Pyjamas",
@@ -38887,7 +38887,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43786,6 +43786,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-22T10:14:37.554Z",
+  "lastUpdated": "2026-04-22T11:55:21.747Z",
   "source": "PandaScore"
 }
