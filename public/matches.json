@@ -38831,7 +38831,7 @@
     },
     {
       "id": "1413450",
-      "startTime": "2026-04-22T08:00:00Z",
+      "startTime": "2026-04-22T07:59:12Z",
       "region": "LCK",
       "teamA": {
         "name": "KT Rolster",
@@ -38845,7 +38845,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -43807,6 +43807,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-22T06:54:22.764Z",
+  "lastUpdated": "2026-04-22T08:27:00.135Z",
   "source": "PandaScore"
 }
