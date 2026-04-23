@@ -3277,27 +3277,6 @@
       "category": "primary"
     },
     {
-      "id": "1146447",
-      "startTime": "2025-04-02T08:03:07Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "teamB": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1146448",
       "startTime": "2025-04-02T10:11:16Z",
       "region": "LCK",
@@ -38852,7 +38831,7 @@
     },
     {
       "id": "1413452",
-      "startTime": "2026-04-23T08:00:00Z",
+      "startTime": "2026-04-23T07:59:28Z",
       "region": "LCK",
       "teamA": {
         "name": "HANJIN BRION",
@@ -38865,8 +38844,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -43702,6 +43681,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-23T06:58:58.673Z",
+  "lastUpdated": "2026-04-23T08:53:02.142Z",
   "source": "PandaScore"
 }
