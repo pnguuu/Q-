@@ -3277,27 +3277,6 @@
       "category": "primary"
     },
     {
-      "id": "1146448",
-      "startTime": "2025-04-02T10:11:16Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
-      },
-      "teamB": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139929",
       "startTime": "2025-04-02T15:05:17Z",
       "region": "VCT EMEA",
@@ -38844,15 +38823,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420915",
-      "startTime": "2026-04-23T09:00:00Z",
+      "startTime": "2026-04-23T09:07:15Z",
       "region": "LPL",
       "teamA": {
         "name": "LGD Gaming",
@@ -38864,16 +38843,16 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1413453",
-      "startTime": "2026-04-23T10:00:00Z",
+      "startTime": "2026-04-23T10:09:31Z",
       "region": "LCK",
       "teamA": {
         "name": "Gen.G",
@@ -38887,7 +38866,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -43681,6 +43660,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-23T08:53:02.142Z",
+  "lastUpdated": "2026-04-23T10:18:19.199Z",
   "source": "PandaScore"
 }
