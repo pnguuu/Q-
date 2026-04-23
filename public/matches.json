@@ -3319,48 +3319,6 @@
       "category": "primary"
     },
     {
-      "id": "1146449",
-      "startTime": "2025-04-03T08:02:50Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Nongshim Red Force",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1146450",
-      "startTime": "2025-04-03T10:20:08Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "BNK FEARX",
-        "shortName": "BFX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
-      },
-      "teamB": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127065",
       "startTime": "2025-04-03T11:06:59Z",
       "region": "VCT CN",
@@ -38907,15 +38865,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399223",
-      "startTime": "2026-04-23T18:00:00Z",
+      "startTime": "2026-04-23T18:01:27Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Karmine Corp",
@@ -38927,9 +38885,9 @@
         "shortName": "FUT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43660,6 +43618,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-23T17:14:21.053Z",
+  "lastUpdated": "2026-04-23T18:59:30.270Z",
   "source": "PandaScore"
 }
