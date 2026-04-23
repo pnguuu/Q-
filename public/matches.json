@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089872",
-      "startTime": "2025-01-19T08:03:46Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Global Esports",
-        "shortName": "GE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
-      },
-      "teamB": {
-        "name": "Team Secret",
-        "shortName": "TS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129537/600px_team_secret.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1096493",
       "startTime": "2025-01-19T09:06:24Z",
       "region": "VCT CN",
@@ -43618,6 +43597,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-23T22:37:22.695Z",
+  "lastUpdated": "2026-04-23T23:38:52.633Z",
   "source": "PandaScore"
 }
