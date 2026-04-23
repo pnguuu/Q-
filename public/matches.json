@@ -38886,8 +38886,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43618,6 +43618,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-23T20:08:48.875Z",
+  "lastUpdated": "2026-04-23T21:39:39.200Z",
   "source": "PandaScore"
 }
