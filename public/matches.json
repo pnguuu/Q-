@@ -38885,16 +38885,16 @@
         "shortName": "BLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399222",
-      "startTime": "2026-04-23T15:00:00Z",
+      "startTime": "2026-04-23T15:07:14Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX",
@@ -38906,9 +38906,9 @@
         "shortName": "FNC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43660,6 +43660,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-23T13:11:09.094Z",
+  "lastUpdated": "2026-04-23T15:46:58.912Z",
   "source": "PandaScore"
 }
