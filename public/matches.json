@@ -38885,7 +38885,7 @@
         "shortName": "BLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LPL",
@@ -43660,6 +43660,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-23T11:56:14.650Z",
+  "lastUpdated": "2026-04-23T13:11:09.094Z",
   "source": "PandaScore"
 }
