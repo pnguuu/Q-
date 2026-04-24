@@ -3298,27 +3298,6 @@
       "category": "primary"
     },
     {
-      "id": "1146451",
-      "startTime": "2025-04-04T08:02:29Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "teamB": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127066",
       "startTime": "2025-04-04T11:06:23Z",
       "region": "VCT CN",
@@ -38970,15 +38949,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399225",
-      "startTime": "2026-04-24T17:15:00Z",
+      "startTime": "2026-04-24T17:12:52Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "BBL Esports",
@@ -38991,15 +38970,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402273",
-      "startTime": "2026-04-24T18:00:00Z",
+      "startTime": "2026-04-24T17:40:53Z",
       "region": "LEC",
       "teamA": {
         "name": "Natus Vincere",
@@ -39012,8 +38991,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43534,6 +43513,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-24T17:06:38.694Z",
+  "lastUpdated": "2026-04-24T18:40:24.902Z",
   "source": "PandaScore"
 }
