@@ -38935,29 +38935,8 @@
       "category": "primary"
     },
     {
-      "id": "1402272",
-      "startTime": "2026-04-24T15:00:00Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Shifters",
-        "shortName": "SHFT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
-      },
-      "teamB": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1399221",
-      "startTime": "2026-04-24T15:00:00Z",
+      "startTime": "2026-04-24T15:07:25Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates",
@@ -38970,9 +38949,30 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1402272",
+      "startTime": "2026-04-24T15:08:30Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Shifters",
+        "shortName": "SHFT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
+      },
+      "teamB": {
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 1,
+      "status": "进行中",
+      "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
@@ -43534,6 +43534,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-24T14:29:49.108Z",
+  "lastUpdated": "2026-04-24T16:04:16.287Z",
   "source": "PandaScore"
 }
