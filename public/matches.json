@@ -3319,27 +3319,6 @@
       "category": "primary"
     },
     {
-      "id": "1146452",
-      "startTime": "2025-04-04T11:16:21Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
-      },
-      "teamB": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139911",
       "startTime": "2025-04-04T15:05:18Z",
       "region": "VCT EMEA",
@@ -38969,9 +38948,9 @@
         "shortName": "VIT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43513,6 +43492,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-24T19:46:33.592Z",
+  "lastUpdated": "2026-04-24T20:39:12.420Z",
   "source": "PandaScore"
 }
