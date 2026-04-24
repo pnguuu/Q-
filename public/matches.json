@@ -38885,37 +38885,16 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1420918",
-      "startTime": "2026-04-24T11:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1402234",
-      "startTime": "2026-04-24T11:00:00Z",
+      "startTime": "2026-04-24T11:08:27Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Paper Rex",
@@ -38927,10 +38906,31 @@
         "shortName": "GE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420918",
+      "startTime": "2026-04-24T11:12:44Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -43534,6 +43534,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-24T11:02:54.274Z",
+  "lastUpdated": "2026-04-24T12:04:30.957Z",
   "source": "PandaScore"
 }
