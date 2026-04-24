@@ -38823,8 +38823,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -38843,9 +38843,9 @@
         "shortName": "FS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -38865,15 +38865,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1413455",
-      "startTime": "2026-04-24T10:00:00Z",
+      "startTime": "2026-04-24T10:27:48Z",
       "region": "LCK",
       "teamA": {
         "name": "Hanwha Life Esports",
@@ -38887,29 +38887,8 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1402234",
-      "startTime": "2026-04-24T10:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Paper Rex",
-        "shortName": "PR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/190px_paper_rex.png"
-      },
-      "teamB": {
-        "name": "Global Esports",
-        "shortName": "GE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -38931,6 +38910,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1402234",
+      "startTime": "2026-04-24T11:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Paper Rex",
+        "shortName": "PR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/190px_paper_rex.png"
+      },
+      "teamB": {
+        "name": "Global Esports",
+        "shortName": "GE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -43534,6 +43534,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-24T09:25:24.907Z",
+  "lastUpdated": "2026-04-24T11:02:54.274Z",
   "source": "PandaScore"
 }
