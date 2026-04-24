@@ -38810,7 +38810,7 @@
     },
     {
       "id": "1413454",
-      "startTime": "2026-04-24T08:00:00Z",
+      "startTime": "2026-04-24T08:00:50Z",
       "region": "LCK",
       "teamA": {
         "name": "BNK FEARX",
@@ -38823,15 +38823,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402233",
-      "startTime": "2026-04-24T08:00:00Z",
+      "startTime": "2026-04-24T08:06:01Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Rex Regum Qeon",
@@ -38844,15 +38844,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420917",
-      "startTime": "2026-04-24T09:00:00Z",
+      "startTime": "2026-04-24T09:08:27Z",
       "region": "LPL",
       "teamA": {
         "name": "Oh My God",
@@ -38866,7 +38866,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -38936,7 +38936,7 @@
     },
     {
       "id": "1402272",
-      "startTime": "2026-04-24T14:45:00Z",
+      "startTime": "2026-04-24T15:00:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Shifters",
@@ -38978,7 +38978,7 @@
     },
     {
       "id": "1402273",
-      "startTime": "2026-04-24T16:30:00Z",
+      "startTime": "2026-04-24T18:00:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Natus Vincere",
@@ -39167,7 +39167,7 @@
     },
     {
       "id": "1402274",
-      "startTime": "2026-04-25T14:45:00Z",
+      "startTime": "2026-04-25T15:00:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Fnatic",
@@ -39188,7 +39188,7 @@
     },
     {
       "id": "1402275",
-      "startTime": "2026-04-25T16:30:00Z",
+      "startTime": "2026-04-25T18:00:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Karmine Corp",
@@ -39335,7 +39335,7 @@
     },
     {
       "id": "1402276",
-      "startTime": "2026-04-26T14:45:00Z",
+      "startTime": "2026-04-26T15:00:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Shifters",
@@ -39356,7 +39356,7 @@
     },
     {
       "id": "1402277",
-      "startTime": "2026-04-26T16:30:00Z",
+      "startTime": "2026-04-26T18:00:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Karmine Corp",
@@ -43534,6 +43534,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-24T07:04:27.557Z",
+  "lastUpdated": "2026-04-24T09:25:24.907Z",
   "source": "PandaScore"
 }
