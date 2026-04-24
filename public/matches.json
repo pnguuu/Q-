@@ -1,69 +1,6 @@
 {
   "matches": [
     {
-      "id": "1096493",
-      "startTime": "2025-01-19T09:06:24Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "teamB": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1089873",
-      "startTime": "2025-01-19T11:09:27Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "DetonatioN FocusMe",
-        "shortName": "DFM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/727px_detonatio_n_focus_me_2022_lightmode_full.png"
-      },
-      "teamB": {
-        "name": "Rex Regum Qeon",
-        "shortName": "RRQ",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1096492",
-      "startTime": "2025-01-19T11:28:32Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Wolves Esports",
-        "shortName": "WOL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089878",
       "startTime": "2025-01-20T08:04:09Z",
       "region": "VCT PAC",
@@ -43597,6 +43534,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-23T23:38:52.633Z",
+  "lastUpdated": "2026-04-24T01:56:37.780Z",
   "source": "PandaScore"
 }
