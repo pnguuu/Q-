@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089878",
-      "startTime": "2025-01-20T08:04:09Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Nongshim RedForce",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1096482",
       "startTime": "2025-01-20T09:07:01Z",
       "region": "VCT CN",
@@ -39138,15 +39117,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402275",
-      "startTime": "2026-04-25T18:20:00Z",
+      "startTime": "2026-04-25T18:35:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Karmine Corp",
@@ -43492,6 +43471,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-25T17:33:34.998Z",
+  "lastUpdated": "2026-04-25T18:39:55.558Z",
   "source": "PandaScore"
 }
