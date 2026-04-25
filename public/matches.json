@@ -38990,31 +38990,10 @@
         "shortName": "NIP",
         "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1402235",
-      "startTime": "2026-04-25T08:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Gen.G Esports",
-        "shortName": "Gen.G",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128473/600px_gen_g_2019_logo.png"
-      },
-      "teamB": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -39032,7 +39011,7 @@
         "shortName": "BRO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LCK",
@@ -39040,8 +39019,29 @@
       "category": "primary"
     },
     {
+      "id": "1402235",
+      "startTime": "2026-04-25T08:06:27Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Gen.G Esports",
+        "shortName": "Gen.G",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128473/600px_gen_g_2019_logo.png"
+      },
+      "teamB": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1420920",
-      "startTime": "2026-04-25T09:00:00Z",
+      "startTime": "2026-04-25T09:12:59Z",
       "region": "LPL",
       "teamA": {
         "name": "Team WE",
@@ -39055,7 +39055,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43492,6 +43492,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-25T08:04:13.052Z",
+  "lastUpdated": "2026-04-25T09:44:53.623Z",
   "source": "PandaScore"
 }
