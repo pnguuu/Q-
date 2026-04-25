@@ -38978,7 +38978,7 @@
     },
     {
       "id": "1420919",
-      "startTime": "2026-04-25T07:00:00Z",
+      "startTime": "2026-04-25T07:09:29Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -38990,31 +38990,10 @@
         "shortName": "NIP",
         "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1413456",
-      "startTime": "2026-04-25T08:00:00Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "teamB": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -39036,6 +39015,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1413456",
+      "startTime": "2026-04-25T08:00:48Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+      },
+      "teamB": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -43492,6 +43492,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-25T06:19:04.107Z",
+  "lastUpdated": "2026-04-25T08:04:13.052Z",
   "source": "PandaScore"
 }
