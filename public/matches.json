@@ -39033,8 +39033,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39054,15 +39054,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1413457",
-      "startTime": "2026-04-25T10:30:00Z",
+      "startTime": "2026-04-25T10:45:33Z",
       "region": "LCK",
       "teamA": {
         "name": "Dplus KIA",
@@ -39074,16 +39074,16 @@
         "shortName": "DNS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420921",
-      "startTime": "2026-04-25T11:00:00Z",
+      "startTime": "2026-04-25T11:14:59Z",
       "region": "LPL",
       "teamA": {
         "name": "Weibo Gaming",
@@ -39097,14 +39097,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402236",
-      "startTime": "2026-04-25T11:00:00Z",
+      "startTime": "2026-04-25T11:30:00Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "DetonatioN FocusMe",
@@ -43492,6 +43492,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-25T10:37:57.808Z",
+  "lastUpdated": "2026-04-25T11:34:28.296Z",
   "source": "PandaScore"
 }
