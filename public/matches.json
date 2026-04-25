@@ -39138,7 +39138,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -39146,7 +39146,7 @@
     },
     {
       "id": "1402275",
-      "startTime": "2026-04-25T18:00:00Z",
+      "startTime": "2026-04-25T18:20:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Karmine Corp",
@@ -43492,6 +43492,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-25T16:34:38.039Z",
+  "lastUpdated": "2026-04-25T17:33:34.998Z",
   "source": "PandaScore"
 }
