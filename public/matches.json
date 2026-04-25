@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1096483",
-      "startTime": "2025-01-20T11:37:34Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Trace Esports",
-        "shortName": "TE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1096490",
       "startTime": "2025-01-21T09:07:11Z",
       "region": "VCT CN",
@@ -39095,9 +39074,9 @@
         "shortName": "SHFT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43429,6 +43408,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-25T20:32:23.494Z",
+  "lastUpdated": "2026-04-25T21:31:40.662Z",
   "source": "PandaScore"
 }
