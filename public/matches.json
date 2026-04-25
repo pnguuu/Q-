@@ -39011,9 +39011,9 @@
         "shortName": "BRO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39054,7 +39054,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
@@ -39062,7 +39062,7 @@
     },
     {
       "id": "1413457",
-      "startTime": "2026-04-25T10:00:00Z",
+      "startTime": "2026-04-25T10:30:00Z",
       "region": "LCK",
       "teamA": {
         "name": "Dplus KIA",
@@ -39078,27 +39078,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1402236",
-      "startTime": "2026-04-25T10:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "DetonatioN FocusMe",
-        "shortName": "DFM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/727px_detonatio_n_focus_me_2022_lightmode_full.png"
-      },
-      "teamB": {
-        "name": "VARREL",
-        "shortName": "VAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -39120,6 +39099,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1402236",
+      "startTime": "2026-04-25T11:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "DetonatioN FocusMe",
+        "shortName": "DFM",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/727px_detonatio_n_focus_me_2022_lightmode_full.png"
+      },
+      "teamB": {
+        "name": "VARREL",
+        "shortName": "VAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -43492,6 +43492,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-25T09:44:53.623Z",
+  "lastUpdated": "2026-04-25T10:37:57.808Z",
   "source": "PandaScore"
 }
