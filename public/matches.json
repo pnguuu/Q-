@@ -39125,7 +39125,7 @@
     },
     {
       "id": "1402274",
-      "startTime": "2026-04-25T15:00:00Z",
+      "startTime": "2026-04-25T15:12:07Z",
       "region": "LEC",
       "teamA": {
         "name": "Fnatic",
@@ -39139,7 +39139,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43492,6 +43492,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-25T14:47:37.114Z",
+  "lastUpdated": "2026-04-25T15:34:54.170Z",
   "source": "PandaScore"
 }
