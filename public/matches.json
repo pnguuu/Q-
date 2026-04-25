@@ -39116,9 +39116,9 @@
         "shortName": "VAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43492,6 +43492,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-25T13:59:59.581Z",
+  "lastUpdated": "2026-04-25T14:47:37.114Z",
   "source": "PandaScore"
 }
