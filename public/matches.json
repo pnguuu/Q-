@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089163",
-      "startTime": "2025-01-22T17:08:18Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "FUT Esports",
-        "shortName": "FUT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
-      },
-      "teamB": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089166",
       "startTime": "2025-01-22T19:14:42Z",
       "region": "VCT EMEA",
@@ -43177,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-26T22:32:38.292Z",
+  "lastUpdated": "2026-04-26T23:33:48.982Z",
   "source": "PandaScore"
 }
