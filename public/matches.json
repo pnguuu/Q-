@@ -39095,9 +39095,9 @@
         "shortName": "TS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129537/600px_team_secret.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39117,8 +39117,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39138,7 +39138,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
@@ -43345,6 +43345,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-26T11:35:48.611Z",
+  "lastUpdated": "2026-04-26T12:47:54.544Z",
   "source": "PandaScore"
 }
