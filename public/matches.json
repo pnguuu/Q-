@@ -39125,7 +39125,7 @@
     },
     {
       "id": "1402276",
-      "startTime": "2026-04-26T15:00:00Z",
+      "startTime": "2026-04-26T15:09:44Z",
       "region": "LEC",
       "teamA": {
         "name": "Shifters",
@@ -39139,7 +39139,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43324,6 +43324,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-26T14:04:34.201Z",
+  "lastUpdated": "2026-04-26T15:38:14.908Z",
   "source": "PandaScore"
 }
