@@ -3340,27 +3340,6 @@
       "category": "primary"
     },
     {
-      "id": "1155345",
-      "startTime": "2025-04-05T10:57:49Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127068",
       "startTime": "2025-04-05T11:36:23Z",
       "region": "VCT CN",
@@ -39138,8 +39117,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43345,6 +43324,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-26T12:47:54.544Z",
+  "lastUpdated": "2026-04-26T14:04:34.201Z",
   "source": "PandaScore"
 }
