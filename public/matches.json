@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1096489",
-      "startTime": "2025-01-22T12:11:30Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "XLG Gaming",
-        "shortName": "XLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089163",
       "startTime": "2025-01-22T17:08:18Z",
       "region": "VCT EMEA",
@@ -39074,7 +39053,7 @@
         "shortName": "FNC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
@@ -43240,6 +43219,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-26T19:42:56.596Z",
+  "lastUpdated": "2026-04-26T20:32:50.137Z",
   "source": "PandaScore"
 }
