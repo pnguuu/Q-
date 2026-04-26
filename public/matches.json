@@ -39138,7 +39138,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -43324,6 +43324,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-26T15:38:14.908Z",
+  "lastUpdated": "2026-04-26T16:35:26.047Z",
   "source": "PandaScore"
 }
