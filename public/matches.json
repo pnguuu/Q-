@@ -3277,27 +3277,6 @@
       "category": "primary"
     },
     {
-      "id": "1155346",
-      "startTime": "2025-04-05T13:00:43Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1148174",
       "startTime": "2025-04-05T14:01:26Z",
       "region": "LEC",
@@ -39053,9 +39032,9 @@
         "shortName": "FNC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43219,6 +43198,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-26T20:32:50.137Z",
+  "lastUpdated": "2026-04-26T21:33:24.761Z",
   "source": "PandaScore"
 }
