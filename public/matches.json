@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1096488",
-      "startTime": "2025-01-22T09:08:07Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
-      },
-      "teamB": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1096489",
       "startTime": "2025-01-22T12:11:30Z",
       "region": "VCT CN",
@@ -3315,27 +3294,6 @@
       "scoreB": 1,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1148173",
-      "startTime": "2025-04-05T12:01:48Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Rogue",
-        "shortName": "RGE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/3983/rogue__28_european_team_29logo_square.png"
-      },
-      "teamB": {
-        "name": "Team Vitality",
-        "shortName": "VIT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
@@ -39096,15 +39054,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402277",
-      "startTime": "2026-04-26T18:00:00Z",
+      "startTime": "2026-04-26T18:30:08Z",
       "region": "LEC",
       "teamA": {
         "name": "Karmine Corp",
@@ -39118,7 +39076,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43282,6 +43240,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-26T17:35:17.349Z",
+  "lastUpdated": "2026-04-26T18:42:27.485Z",
   "source": "PandaScore"
 }
