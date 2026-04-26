@@ -39095,7 +39095,7 @@
         "shortName": "LGD",
         "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LPL",
@@ -39103,29 +39103,8 @@
       "category": "primary"
     },
     {
-      "id": "1413459",
-      "startTime": "2026-04-26T10:00:00Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Nongshim Red Force",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1402238",
-      "startTime": "2026-04-26T10:00:00Z",
+      "startTime": "2026-04-26T10:07:43Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Nongshim RedForce",
@@ -39139,8 +39118,29 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1413459",
+      "startTime": "2026-04-26T10:08:54Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Nongshim Red Force",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -43366,6 +43366,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-26T09:47:00.335Z",
+  "lastUpdated": "2026-04-26T10:39:31.599Z",
   "source": "PandaScore"
 }
