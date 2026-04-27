@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1096486",
-      "startTime": "2025-01-24T09:08:15Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1093183",
       "startTime": "2025-01-24T17:03:44Z",
       "region": "VCT EMEA",
@@ -38927,9 +38906,9 @@
         "shortName": "FKS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43030,6 +43009,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-27T18:05:51.889Z",
+  "lastUpdated": "2026-04-27T20:08:53.523Z",
   "source": "PandaScore"
 }
