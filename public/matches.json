@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089166",
-      "startTime": "2025-01-22T19:14:42Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
-      },
-      "teamB": {
-        "name": "Gentle Mates",
-        "shortName": "GM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/gentle_mates_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1096484",
       "startTime": "2025-01-23T09:08:13Z",
       "region": "VCT CN",
@@ -3252,27 +3231,6 @@
       "scoreB": 1,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1148176",
-      "startTime": "2025-04-05T15:55:36Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
-      },
-      "teamB": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
@@ -43156,6 +43114,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-26T23:33:48.982Z",
+  "lastUpdated": "2026-04-27T02:04:46.277Z",
   "source": "PandaScore"
 }
