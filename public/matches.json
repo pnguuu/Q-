@@ -38852,7 +38852,7 @@
     },
     {
       "id": "1420925",
-      "startTime": "2026-04-28T11:00:00Z",
+      "startTime": "2026-04-28T11:17:27Z",
       "region": "LPL",
       "teamA": {
         "name": "Weibo Gaming",
@@ -38864,9 +38864,9 @@
         "shortName": "TES",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -42925,6 +42925,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-28T10:58:23.176Z",
+  "lastUpdated": "2026-04-28T12:27:16.675Z",
   "source": "PandaScore"
 }
