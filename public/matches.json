@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1093179",
-      "startTime": "2025-01-24T20:09:40Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Gentle Mates",
-        "shortName": "GM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/gentle_mates_allmode.png"
-      },
-      "teamB": {
-        "name": "KOI",
-        "shortName": "KOI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135651/600px_koi_2024_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089876",
       "startTime": "2025-01-25T08:07:12Z",
       "region": "VCT PAC",
@@ -42988,6 +42967,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-27T23:46:37.330Z",
+  "lastUpdated": "2026-04-28T02:10:58.921Z",
   "source": "PandaScore"
 }
