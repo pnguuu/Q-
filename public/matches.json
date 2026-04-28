@@ -3088,48 +3088,6 @@
       "category": "primary"
     },
     {
-      "id": "1146456",
-      "startTime": "2025-04-06T06:01:16Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "teamB": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1155347",
-      "startTime": "2025-04-06T07:24:01Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138022",
       "startTime": "2025-04-06T08:05:14Z",
       "region": "VCT PAC",
@@ -38873,7 +38831,7 @@
     },
     {
       "id": "1420924",
-      "startTime": "2026-04-28T09:00:00Z",
+      "startTime": "2026-04-28T09:07:53Z",
       "region": "LPL",
       "teamA": {
         "name": "Invictus Gaming",
@@ -38886,8 +38844,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -42967,6 +42925,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-28T08:14:57.546Z",
+  "lastUpdated": "2026-04-28T10:58:23.176Z",
   "source": "PandaScore"
 }
