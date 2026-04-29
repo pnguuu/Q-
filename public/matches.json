@@ -38864,9 +38864,9 @@
         "shortName": "AAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42631,6 +42631,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-29T19:13:13.418Z",
+  "lastUpdated": "2026-04-29T20:55:44.104Z",
   "source": "PandaScore"
 }
