@@ -3109,27 +3109,6 @@
       "category": "primary"
     },
     {
-      "id": "1155354",
-      "startTime": "2025-04-08T11:23:05Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1146459",
       "startTime": "2025-04-09T08:00:38Z",
       "region": "LCK",
@@ -38852,7 +38831,7 @@
     },
     {
       "id": "1413462",
-      "startTime": "2026-04-30T08:00:00Z",
+      "startTime": "2026-04-30T07:59:35Z",
       "region": "LCK",
       "teamA": {
         "name": "Gen.G",
@@ -38866,7 +38845,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -42610,6 +42589,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-30T05:51:36.197Z",
+  "lastUpdated": "2026-04-30T08:07:43.261Z",
   "source": "PandaScore"
 }
