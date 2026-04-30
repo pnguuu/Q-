@@ -38886,8 +38886,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -38906,9 +38906,9 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -38935,27 +38935,6 @@
       "category": "primary"
     },
     {
-      "id": "1455276",
-      "startTime": "2026-04-30T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Twisted Minds Orchid",
-        "shortName": "TMO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "SK Nebula",
-        "shortName": "SK.N",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1399227",
       "startTime": "2026-04-30T15:00:00Z",
       "region": "VCT EMEA",
@@ -38972,6 +38951,27 @@
       "scoreA": 0,
       "scoreB": 0,
       "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455276",
+      "startTime": "2026-04-30T15:00:46Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42589,6 +42589,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-30T12:10:38.216Z",
+  "lastUpdated": "2026-04-30T15:02:59.976Z",
   "source": "PandaScore"
 }
