@@ -38865,15 +38865,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1413463",
-      "startTime": "2026-04-30T11:00:00Z",
+      "startTime": "2026-04-30T11:07:52Z",
       "region": "LCK",
       "teamA": {
         "name": "BNK FEARX",
@@ -38886,15 +38886,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420929",
-      "startTime": "2026-04-30T11:40:00Z",
+      "startTime": "2026-04-30T12:01:43Z",
       "region": "LPL",
       "teamA": {
         "name": "Ultra Prime",
@@ -38908,7 +38908,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -42589,6 +42589,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-04-30T10:48:49.798Z",
+  "lastUpdated": "2026-04-30T12:10:38.216Z",
   "source": "PandaScore"
 }
