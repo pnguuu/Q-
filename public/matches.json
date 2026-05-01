@@ -39096,15 +39096,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1399228",
-      "startTime": "2026-05-01T18:00:00Z",
+      "startTime": "2026-05-01T17:15:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates",
@@ -42463,6 +42463,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-01T15:49:50.597Z",
+  "lastUpdated": "2026-05-01T16:47:42.972Z",
   "source": "PandaScore"
 }
