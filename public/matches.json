@@ -38949,8 +38949,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129537/600px_team_secret.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -38970,8 +38970,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -38990,9 +38990,9 @@
         "shortName": "TEC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39011,7 +39011,7 @@
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LCK",
@@ -39019,50 +39019,8 @@
       "category": "primary"
     },
     {
-      "id": "1420931",
-      "startTime": "2026-05-01T11:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "teamB": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1445672",
-      "startTime": "2026-05-01T11:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1402240",
-      "startTime": "2026-05-01T11:00:00Z",
+      "startTime": "2026-05-01T11:25:24Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "VARREL",
@@ -39076,7 +39034,49 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420931",
+      "startTime": "2026-05-01T11:27:47Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "teamB": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1445672",
+      "startTime": "2026-05-01T11:31:14Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "TYLOO",
+        "shortName": "TYLOO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39422,9 +39422,9 @@
       "startTime": "2026-05-03T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "TEC Esports",
+        "shortName": "TEC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -39569,9 +39569,9 @@
       "startTime": "2026-05-04T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "XLG Gaming",
+        "shortName": "XLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42463,6 +42463,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-01T10:18:16.436Z",
+  "lastUpdated": "2026-05-01T11:53:31.102Z",
   "source": "PandaScore"
 }
