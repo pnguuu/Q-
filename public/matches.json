@@ -38928,8 +38928,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -38948,8 +38948,8 @@
         "shortName": "TS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129537/600px_team_secret.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -38957,7 +38957,7 @@
     },
     {
       "id": "1420930",
-      "startTime": "2026-05-01T09:00:00Z",
+      "startTime": "2026-05-01T09:10:13Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -38970,15 +38970,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1445671",
-      "startTime": "2026-05-01T09:00:00Z",
+      "startTime": "2026-05-01T09:12:31Z",
       "region": "VCT CN",
       "teamA": {
         "name": "XLG Gaming",
@@ -38990,16 +38990,16 @@
         "shortName": "TEC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1413465",
-      "startTime": "2026-05-01T10:00:00Z",
+      "startTime": "2026-05-01T10:15:34Z",
       "region": "LCK",
       "teamA": {
         "name": "Hanwha Life Esports",
@@ -39013,29 +39013,8 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1402240",
-      "startTime": "2026-05-01T10:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "VARREL",
-        "shortName": "VAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
-      },
-      "teamB": {
-        "name": "ZETA DIVISION",
-        "shortName": "ZETA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -39073,6 +39052,27 @@
         "name": "TYLOO",
         "shortName": "TYLOO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1402240",
+      "startTime": "2026-05-01T11:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "VARREL",
+        "shortName": "VAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
+      },
+      "teamB": {
+        "name": "ZETA DIVISION",
+        "shortName": "ZETA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42463,6 +42463,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-01T08:55:20.134Z",
+  "lastUpdated": "2026-05-01T10:18:16.436Z",
   "source": "PandaScore"
 }
