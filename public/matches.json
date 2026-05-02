@@ -39326,9 +39326,9 @@
         "shortName": "TH",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -42463,6 +42463,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-02T15:39:47.500Z",
+  "lastUpdated": "2026-05-02T16:38:45.229Z",
   "source": "PandaScore"
 }
