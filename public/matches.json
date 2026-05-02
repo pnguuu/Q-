@@ -39137,8 +39137,8 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
@@ -39146,7 +39146,7 @@
     },
     {
       "id": "1413466",
-      "startTime": "2026-05-02T08:00:00Z",
+      "startTime": "2026-05-02T07:59:14Z",
       "region": "LCK",
       "teamA": {
         "name": "Gen.G",
@@ -39158,16 +39158,16 @@
         "shortName": "DK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402241",
-      "startTime": "2026-05-02T08:00:00Z",
+      "startTime": "2026-05-02T08:05:34Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "T1",
@@ -39179,31 +39179,10 @@
         "shortName": "FS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1420933",
-      "startTime": "2026-05-02T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "teamB": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -39225,6 +39204,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420933",
+      "startTime": "2026-05-02T10:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "teamB": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -39271,27 +39271,6 @@
       "category": "primary"
     },
     {
-      "id": "1420934",
-      "startTime": "2026-05-02T11:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1445674",
       "startTime": "2026-05-02T11:00:00Z",
       "region": "VCT CN",
@@ -39309,6 +39288,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420934",
+      "startTime": "2026-05-02T12:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -42463,6 +42463,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-02T07:22:06.337Z",
+  "lastUpdated": "2026-05-02T08:58:46.458Z",
   "source": "PandaScore"
 }
