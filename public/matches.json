@@ -39314,7 +39314,7 @@
     },
     {
       "id": "1402278",
-      "startTime": "2026-05-02T15:00:00Z",
+      "startTime": "2026-05-02T15:02:40Z",
       "region": "LEC",
       "teamA": {
         "name": "Fnatic",
@@ -39326,9 +39326,9 @@
         "shortName": "TH",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -42463,6 +42463,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-02T14:07:15.827Z",
+  "lastUpdated": "2026-05-02T15:39:47.500Z",
   "source": "PandaScore"
 }
