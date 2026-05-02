@@ -39335,7 +39335,7 @@
     },
     {
       "id": "1402279",
-      "startTime": "2026-05-02T17:15:00Z",
+      "startTime": "2026-05-02T16:57:23Z",
       "region": "LEC",
       "teamA": {
         "name": "Team Vitality",
@@ -39347,9 +39347,9 @@
         "shortName": "SK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -42463,6 +42463,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-02T16:38:45.229Z",
+  "lastUpdated": "2026-05-02T17:39:04.445Z",
   "source": "PandaScore"
 }
