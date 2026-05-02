@@ -39222,15 +39222,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1413467",
-      "startTime": "2026-05-02T11:00:00Z",
+      "startTime": "2026-05-02T10:58:52Z",
       "region": "LCK",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -39242,37 +39242,16 @@
         "shortName": "NS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1445674",
-      "startTime": "2026-05-02T11:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1402242",
-      "startTime": "2026-05-02T11:00:00Z",
+      "startTime": "2026-05-02T11:19:13Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Nongshim RedForce",
@@ -39286,7 +39265,28 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1445674",
+      "startTime": "2026-05-02T11:24:53Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "teamB": {
+        "name": "Dragon Ranger Gaming",
+        "shortName": "DRG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42463,6 +42463,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-02T10:53:35.479Z",
+  "lastUpdated": "2026-05-02T11:39:20.742Z",
   "source": "PandaScore"
 }
