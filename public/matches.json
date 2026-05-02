@@ -40136,14 +40136,14 @@
       "startTime": "2026-05-07T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Eternal Fire",
+        "shortName": "EF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40199,14 +40199,14 @@
       "startTime": "2026-05-07T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Liquid",
+        "shortName": "TL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40367,9 +40367,9 @@
       "startTime": "2026-05-08T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FUT Esports",
+        "shortName": "FUT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40409,9 +40409,9 @@
       "startTime": "2026-05-08T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40556,9 +40556,9 @@
       "startTime": "2026-05-09T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "BBL Esports",
+        "shortName": "BBL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40598,9 +40598,9 @@
       "startTime": "2026-05-09T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Gentle Mates",
+        "shortName": "GM",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/gentle_mates_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42463,6 +42463,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-02T02:01:25.706Z",
+  "lastUpdated": "2026-05-02T05:29:58.417Z",
   "source": "PandaScore"
 }
