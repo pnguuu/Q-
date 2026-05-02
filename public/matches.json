@@ -39347,9 +39347,9 @@
         "shortName": "SK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -42463,6 +42463,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-02T18:45:36.100Z",
+  "lastUpdated": "2026-05-02T19:49:30.388Z",
   "source": "PandaScore"
 }
