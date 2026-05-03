@@ -39411,8 +39411,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39432,15 +39432,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402280",
-      "startTime": "2026-05-03T15:00:00Z",
+      "startTime": "2026-05-03T15:03:01Z",
       "region": "LEC",
       "teamA": {
         "name": "Team Heretics",
@@ -39454,7 +39454,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -39653,9 +39653,9 @@
       "startTime": "2026-05-05T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Dragon Ranger Gaming",
+        "shortName": "DRG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -39943,6 +39943,27 @@
       "category": "primary"
     },
     {
+      "id": "1475177",
+      "startTime": "2026-05-07T08:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Rex Regum Qeon",
+        "shortName": "RRQ",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
+      },
+      "teamB": {
+        "name": "Global Esports",
+        "shortName": "GE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1420939",
       "startTime": "2026-05-07T09:00:00Z",
       "region": "LPL",
@@ -39981,6 +40002,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1475178",
+      "startTime": "2026-05-07T10:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
+      },
+      "teamB": {
+        "name": "FULL SENSE",
+        "shortName": "FS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -40153,6 +40195,27 @@
       "category": "primary"
     },
     {
+      "id": "1475179",
+      "startTime": "2026-05-08T08:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Paper Rex",
+        "shortName": "PR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/190px_paper_rex.png"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1420941",
       "startTime": "2026-05-08T09:00:00Z",
       "region": "LPL",
@@ -40212,6 +40275,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1475180",
+      "startTime": "2026-05-08T10:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -40363,6 +40447,27 @@
       "category": "primary"
     },
     {
+      "id": "1475181",
+      "startTime": "2026-05-09T08:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "DetonatioN FocusMe",
+        "shortName": "DFM",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/727px_detonatio_n_focus_me_2022_lightmode_full.png"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1420943",
       "startTime": "2026-05-09T09:00:00Z",
       "region": "LPL",
@@ -40422,6 +40527,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1475182",
+      "startTime": "2026-05-09T10:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Nongshim RedForce",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -40552,6 +40678,27 @@
       "category": "primary"
     },
     {
+      "id": "1475208",
+      "startTime": "2026-05-10T08:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1420945",
       "startTime": "2026-05-10T09:00:00Z",
       "region": "LPL",
@@ -40611,6 +40758,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1475242",
+      "startTime": "2026-05-10T10:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -42379,6 +42547,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-03T14:08:21.807Z",
+  "lastUpdated": "2026-05-03T15:40:05.279Z",
   "source": "PandaScore"
 }
