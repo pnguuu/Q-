@@ -39453,7 +39453,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -42547,6 +42547,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-03T15:40:05.279Z",
+  "lastUpdated": "2026-05-03T16:39:56.320Z",
   "source": "PandaScore"
 }
