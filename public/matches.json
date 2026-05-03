@@ -39293,7 +39293,7 @@
     },
     {
       "id": "1413468",
-      "startTime": "2026-05-03T08:00:00Z",
+      "startTime": "2026-05-03T08:00:15Z",
       "region": "LCK",
       "teamA": {
         "name": "KT Rolster",
@@ -39306,15 +39306,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402243",
-      "startTime": "2026-05-03T08:00:00Z",
+      "startTime": "2026-05-03T08:05:36Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Paper Rex",
@@ -39326,37 +39326,16 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1420935",
-      "startTime": "2026-05-03T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "teamB": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1445684",
-      "startTime": "2026-05-03T09:00:00Z",
+      "startTime": "2026-05-03T09:06:33Z",
       "region": "VCT CN",
       "teamA": {
         "name": "TEC Esports",
@@ -39370,8 +39349,29 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420935",
+      "startTime": "2026-05-03T09:06:47Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "teamB": {
+        "name": "LNG Esports",
+        "shortName": "LNG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -42400,6 +42400,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-03T07:50:50.563Z",
+  "lastUpdated": "2026-05-03T09:15:54.473Z",
   "source": "PandaScore"
 }
