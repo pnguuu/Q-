@@ -3109,27 +3109,6 @@
       "category": "primary"
     },
     {
-      "id": "1146463",
-      "startTime": "2025-04-10T10:26:48Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "teamB": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127071",
       "startTime": "2025-04-10T11:06:39Z",
       "region": "VCT CN",
@@ -42421,6 +42400,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-02T23:36:00.150Z",
+  "lastUpdated": "2026-05-03T02:06:21.238Z",
   "source": "PandaScore"
 }
