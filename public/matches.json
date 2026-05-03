@@ -3130,27 +3130,6 @@
       "category": "primary"
     },
     {
-      "id": "1155359",
-      "startTime": "2025-04-10T11:27:33Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139933",
       "startTime": "2025-04-10T15:04:09Z",
       "region": "VCT EMEA",
@@ -39306,8 +39285,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39326,9 +39305,9 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_full_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39347,7 +39326,7 @@
         "shortName": "TYLOO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -39368,37 +39347,16 @@
         "shortName": "LNG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1413469",
-      "startTime": "2026-05-03T10:00:00Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "teamB": {
-        "name": "BNK FEARX",
-        "shortName": "BFX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1402244",
-      "startTime": "2026-05-03T10:00:00Z",
+      "startTime": "2026-05-03T09:58:31Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Rex Regum Qeon",
@@ -39412,29 +39370,29 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1420936",
-      "startTime": "2026-05-03T11:00:00Z",
-      "region": "LPL",
+      "id": "1413469",
+      "startTime": "2026-05-03T10:20:54Z",
+      "region": "LCK",
       "teamA": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
       "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        "name": "BNK FEARX",
+        "shortName": "BFX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
+      "status": "进行中",
+      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -39456,6 +39414,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420936",
+      "startTime": "2026-05-03T12:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "teamB": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -42400,6 +42379,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-03T09:15:54.473Z",
+  "lastUpdated": "2026-05-03T10:47:06.876Z",
   "source": "PandaScore"
 }
