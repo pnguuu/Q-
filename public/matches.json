@@ -39327,8 +39327,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39368,9 +39368,9 @@
         "shortName": "DFM",
         "logo": "https://cdn-api.pandascore.co/images/team/image/131974/727px_detonatio_n_focus_me_2022_lightmode_full.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39390,15 +39390,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420936",
-      "startTime": "2026-05-03T12:00:00Z",
+      "startTime": "2026-05-03T11:55:48Z",
       "region": "LPL",
       "teamA": {
         "name": "Ninjas in Pyjamas",
@@ -39411,15 +39411,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1445685",
-      "startTime": "2026-05-03T12:00:00Z",
+      "startTime": "2026-05-03T12:40:04Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Trace Esports",
@@ -39433,7 +39433,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39674,9 +39674,9 @@
       "startTime": "2026-05-05T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "TYLOO",
+        "shortName": "TYLOO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42379,6 +42379,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-03T11:36:53.452Z",
+  "lastUpdated": "2026-05-03T12:52:37.599Z",
   "source": "PandaScore"
 }
