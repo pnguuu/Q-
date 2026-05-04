@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1093184",
-      "startTime": "2025-01-29T19:26:58Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "FUT Esports",
-        "shortName": "FUT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
-      },
-      "teamB": {
-        "name": "Team Vitality",
-        "shortName": "VIT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1093187",
       "startTime": "2025-01-30T17:04:38Z",
       "region": "VCT EMEA",
@@ -42526,6 +42505,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-04T22:08:14.366Z",
+  "lastUpdated": "2026-05-04T23:45:09.961Z",
   "source": "PandaScore"
 }
