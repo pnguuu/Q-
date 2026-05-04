@@ -39503,7 +39503,7 @@
     },
     {
       "id": "1445676",
-      "startTime": "2026-05-04T11:00:00Z",
+      "startTime": "2026-05-04T11:14:38Z",
       "region": "VCT CN",
       "teamA": {
         "name": "All Gamers",
@@ -39516,8 +39516,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42547,6 +42547,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-04T10:58:38.697Z",
+  "lastUpdated": "2026-05-04T12:21:10.187Z",
   "source": "PandaScore"
 }
