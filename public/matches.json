@@ -39523,27 +39523,6 @@
       "category": "primary"
     },
     {
-      "id": "1455281",
-      "startTime": "2026-05-04T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "ALTERNATE aTTaX Ruby",
-        "shortName": "AAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
-      },
-      "teamB": {
-        "name": "ZennIT Orange GC",
-        "shortName": "ZNT.O",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1402282",
       "startTime": "2026-05-04T15:01:50Z",
       "region": "LEC",
@@ -39557,8 +39536,8 @@
         "shortName": "VIT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -39578,8 +39557,29 @@
         "shortName": "G2",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455281",
+      "startTime": "2026-05-04T15:07:21Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
+      },
+      "teamB": {
+        "name": "ZennIT Orange GC",
+        "shortName": "ZNT.O",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -39587,7 +39587,7 @@
     },
     {
       "id": "1402283",
-      "startTime": "2026-05-04T17:15:00Z",
+      "startTime": "2026-05-04T18:00:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Shifters",
@@ -42547,6 +42547,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-04T15:06:30.626Z",
+  "lastUpdated": "2026-05-04T17:24:38.411Z",
   "source": "PandaScore"
 }
