@@ -39642,15 +39642,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1455285",
-      "startTime": "2026-05-05T15:00:00Z",
+      "startTime": "2026-05-05T15:06:34Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "SK Nebula",
@@ -39662,16 +39662,16 @@
         "shortName": "BAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1455284",
-      "startTime": "2026-05-05T15:00:00Z",
+      "startTime": "2026-05-05T15:13:32Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Karmine Corp GC",
@@ -39685,7 +39685,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40288,9 +40288,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "All Gamers",
+        "shortName": "AG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42505,6 +42505,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-05T13:57:46.399Z",
+  "lastUpdated": "2026-05-05T15:51:43.407Z",
   "source": "PandaScore"
 }
