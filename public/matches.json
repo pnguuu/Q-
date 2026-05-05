@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1093189",
-      "startTime": "2025-01-31T17:04:26Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "FUT Esports",
-        "shortName": "FUT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
-      },
-      "teamB": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1093190",
-      "startTime": "2025-01-31T19:18:29Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "BBL Esports",
-        "shortName": "BBL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089892",
       "startTime": "2025-02-01T08:04:19Z",
       "region": "VCT PAC",
@@ -42337,6 +42295,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-05T20:55:56.130Z",
+  "lastUpdated": "2026-05-05T21:57:07.843Z",
   "source": "PandaScore"
 }
