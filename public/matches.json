@@ -40073,14 +40073,14 @@
       "startTime": "2026-05-08T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "teamB": {
         "name": "All Gamers",
         "shortName": "AG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Dragon Ranger Gaming",
+        "shortName": "DRG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42295,6 +42295,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-05T22:52:49.723Z",
+  "lastUpdated": "2026-05-05T23:41:25.869Z",
   "source": "PandaScore"
 }
