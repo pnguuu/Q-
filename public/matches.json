@@ -39641,7 +39641,7 @@
         "shortName": "AG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -42505,6 +42505,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-05T11:58:58.245Z",
+  "lastUpdated": "2026-05-05T13:57:46.399Z",
   "source": "PandaScore"
 }
