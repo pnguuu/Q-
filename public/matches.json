@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1093187",
-      "startTime": "2025-01-30T17:04:38Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Gentle Mates",
-        "shortName": "GM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/gentle_mates_allmode.png"
-      },
-      "teamB": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1093188",
       "startTime": "2025-01-30T19:10:25Z",
       "region": "VCT EMEA",
@@ -3126,48 +3105,6 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1146464",
-      "startTime": "2025-04-11T08:00:17Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
-      },
-      "teamB": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1155361",
-      "startTime": "2025-04-11T09:20:24Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -39662,9 +39599,9 @@
         "shortName": "BAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39683,7 +39620,7 @@
         "shortName": "ZNT.O",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -42505,6 +42442,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-05T15:51:43.407Z",
+  "lastUpdated": "2026-05-05T17:15:59.264Z",
   "source": "PandaScore"
 }
