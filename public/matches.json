@@ -39608,7 +39608,7 @@
     },
     {
       "id": "1445683",
-      "startTime": "2026-05-05T09:00:00Z",
+      "startTime": "2026-05-05T09:08:12Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Dragon Ranger Gaming",
@@ -39620,9 +39620,9 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42505,6 +42505,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-05T07:57:36.409Z",
+  "lastUpdated": "2026-05-05T10:01:24.465Z",
   "source": "PandaScore"
 }
