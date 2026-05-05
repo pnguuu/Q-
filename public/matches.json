@@ -39620,16 +39620,16 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1445682",
-      "startTime": "2026-05-05T11:00:00Z",
+      "startTime": "2026-05-05T11:19:55Z",
       "region": "VCT CN",
       "teamA": {
         "name": "TYLOO",
@@ -39642,8 +39642,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40283,9 +40283,9 @@
       "startTime": "2026-05-08T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Dragon Ranger Gaming",
+        "shortName": "DRG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42505,6 +42505,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-05T10:01:24.465Z",
+  "lastUpdated": "2026-05-05T11:58:58.245Z",
   "source": "PandaScore"
 }
