@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1093188",
-      "startTime": "2025-01-30T19:10:25Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "GIANTX",
-        "shortName": "GX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
-      },
-      "teamB": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089879",
       "startTime": "2025-01-31T08:04:42Z",
       "region": "VCT PAC",
@@ -3105,27 +3084,6 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1146465",
-      "startTime": "2025-04-11T11:02:17Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Nongshim Red Force",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -39620,16 +39578,16 @@
         "shortName": "ZNT.O",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1455286",
-      "startTime": "2026-05-05T18:00:00Z",
+      "startTime": "2026-05-05T18:50:08Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX GC",
@@ -39643,7 +39601,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42442,6 +42400,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-05T17:15:59.264Z",
+  "lastUpdated": "2026-05-05T19:10:44.043Z",
   "source": "PandaScore"
 }
