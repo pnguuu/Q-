@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089892",
-      "startTime": "2025-02-01T08:04:19Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Nongshim RedForce",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "Rex Regum Qeon",
-        "shortName": "RRQ",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1089893",
-      "startTime": "2025-02-01T12:16:23Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "DetonatioN FocusMe",
-        "shortName": "DFM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/727px_detonatio_n_focus_me_2022_lightmode_full.png"
-      },
-      "teamB": {
-        "name": "Paper Rex",
-        "shortName": "PR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/190px_paper_rex.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089888",
       "startTime": "2025-02-02T08:04:04Z",
       "region": "VCT PAC",
@@ -39503,7 +39461,7 @@
     },
     {
       "id": "1413470",
-      "startTime": "2026-05-06T08:00:00Z",
+      "startTime": "2026-05-06T07:59:41Z",
       "region": "LCK",
       "teamA": {
         "name": "Gen.G",
@@ -39515,16 +39473,16 @@
         "shortName": "NS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420937",
-      "startTime": "2026-05-06T09:00:00Z",
+      "startTime": "2026-05-06T09:07:52Z",
       "region": "LPL",
       "teamA": {
         "name": "Team WE",
@@ -39536,16 +39494,16 @@
         "shortName": "IG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1413471",
-      "startTime": "2026-05-06T10:00:00Z",
+      "startTime": "2026-05-06T10:29:38Z",
       "region": "LCK",
       "teamA": {
         "name": "Hanwha Life Esports",
@@ -39559,7 +39517,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -42295,6 +42253,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-06T05:50:16.289Z",
+  "lastUpdated": "2026-05-06T10:59:43.646Z",
   "source": "PandaScore"
 }
