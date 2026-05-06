@@ -39536,37 +39536,16 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1455288",
-      "startTime": "2026-05-06T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "GIANTX GC",
-        "shortName": "GX GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
-      },
-      "teamB": {
-        "name": "SK Nebula",
-        "shortName": "SK.N",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1455287",
-      "startTime": "2026-05-06T15:00:00Z",
+      "startTime": "2026-05-06T15:02:25Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Karmine Corp GC",
@@ -39580,7 +39559,28 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455288",
+      "startTime": "2026-05-06T15:07:30Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42253,6 +42253,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-06T12:28:38.554Z",
+  "lastUpdated": "2026-05-06T15:24:27.875Z",
   "source": "PandaScore"
 }
