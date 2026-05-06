@@ -3088,27 +3088,6 @@
       "category": "primary"
     },
     {
-      "id": "1148182",
-      "startTime": "2025-04-12T12:02:33Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "BDS",
-        "shortName": "BDS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128267/team_bd_slogo_square.png"
-      },
-      "teamB": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127074",
       "startTime": "2025-04-12T12:07:06Z",
       "region": "VCT CN",
@@ -42169,6 +42148,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-06T21:04:36.331Z",
+  "lastUpdated": "2026-05-06T22:41:51.205Z",
   "source": "PandaScore"
 }
