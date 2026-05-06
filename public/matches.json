@@ -39536,9 +39536,9 @@
         "shortName": "ZNT.O",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42169,6 +42169,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-06T19:26:10.313Z",
+  "lastUpdated": "2026-05-06T21:04:36.331Z",
   "source": "PandaScore"
 }
