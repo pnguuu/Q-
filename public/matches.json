@@ -39536,16 +39536,37 @@
         "shortName": "AL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1455291",
+      "startTime": "2026-05-07T14:58:57Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1455292",
-      "startTime": "2026-05-07T15:00:00Z",
+      "startTime": "2026-05-07T15:08:02Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates GC",
@@ -39559,35 +39580,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1455291",
-      "startTime": "2026-05-07T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Twisted Minds Orchid",
-        "shortName": "TMO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Barça eSports GC",
-        "shortName": "BAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1411905",
-      "startTime": "2026-05-07T15:00:00Z",
+      "startTime": "2026-05-07T15:10:25Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Eternal Fire",
@@ -39600,8 +39600,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42127,6 +42127,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-07T13:45:32.593Z",
+  "lastUpdated": "2026-05-07T16:01:56.662Z",
   "source": "PandaScore"
 }
