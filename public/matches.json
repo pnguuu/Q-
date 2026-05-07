@@ -39473,9 +39473,9 @@
         "shortName": "WE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39494,9 +39494,9 @@
         "shortName": "BFX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39516,15 +39516,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420940",
-      "startTime": "2026-05-07T12:00:00Z",
+      "startTime": "2026-05-07T12:34:17Z",
       "region": "LPL",
       "teamA": {
         "name": "Ninjas in Pyjamas",
@@ -39536,9 +39536,9 @@
         "shortName": "AL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39784,9 +39784,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FULL SENSE",
+        "shortName": "FS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40031,14 +40031,14 @@
       "startTime": "2026-05-09T10:00:00Z",
       "region": "VCT PAC",
       "teamA": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
+      },
+      "teamB": {
         "name": "Nongshim RedForce",
         "shortName": "NS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42127,6 +42127,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-07T11:02:57.324Z",
+  "lastUpdated": "2026-05-07T13:45:32.593Z",
   "source": "PandaScore"
 }
