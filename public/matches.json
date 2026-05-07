@@ -39495,8 +39495,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39536,9 +39536,9 @@
         "shortName": "AAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39784,9 +39784,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40010,14 +40010,14 @@
       "startTime": "2026-05-09T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
+        "name": "Team Liquid",
+        "shortName": "TL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
+      },
+      "teamB": {
         "name": "Gentle Mates",
         "shortName": "GM",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133115/gentle_mates_allmode.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42001,6 +42001,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-07T20:09:24.041Z",
+  "lastUpdated": "2026-05-07T21:48:41.092Z",
   "source": "PandaScore"
 }
