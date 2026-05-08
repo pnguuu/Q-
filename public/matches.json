@@ -39705,8 +39705,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -39725,8 +39725,8 @@
         "shortName": "EF",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -39734,7 +39734,7 @@
     },
     {
       "id": "1402285",
-      "startTime": "2026-05-08T17:00:00Z",
+      "startTime": "2026-05-08T16:11:04Z",
       "region": "LEC",
       "teamA": {
         "name": "GIANTX",
@@ -39747,8 +39747,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -41980,6 +41980,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-08T15:15:23.944Z",
+  "lastUpdated": "2026-05-08T17:05:17.834Z",
   "source": "PandaScore"
 }
