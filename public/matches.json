@@ -39524,7 +39524,7 @@
     },
     {
       "id": "1413474",
-      "startTime": "2026-05-08T08:00:00Z",
+      "startTime": "2026-05-08T08:00:27Z",
       "region": "LCK",
       "teamA": {
         "name": "T1",
@@ -39536,16 +39536,16 @@
         "shortName": "DNS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1475179",
-      "startTime": "2026-05-08T08:00:00Z",
+      "startTime": "2026-05-08T08:07:51Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Paper Rex",
@@ -39558,36 +39558,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1420941",
-      "startTime": "2026-05-08T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ultra Prime",
-        "shortName": "UP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
-      },
-      "teamB": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1445677",
-      "startTime": "2026-05-08T09:00:00Z",
+      "startTime": "2026-05-08T09:07:18Z",
       "region": "VCT CN",
       "teamA": {
         "name": "XLG Gaming",
@@ -39601,8 +39580,29 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420941",
+      "startTime": "2026-05-08T09:07:45Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Ultra Prime",
+        "shortName": "UP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
+      },
+      "teamB": {
+        "name": "LNG Esports",
+        "shortName": "LNG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -41980,6 +41980,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-08T07:19:06.050Z",
+  "lastUpdated": "2026-05-08T09:09:19.201Z",
   "source": "PandaScore"
 }
