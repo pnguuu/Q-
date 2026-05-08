@@ -39600,8 +39600,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39621,15 +39621,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1475180",
-      "startTime": "2026-05-08T11:00:00Z",
+      "startTime": "2026-05-08T11:11:50Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "T1",
@@ -39642,15 +39642,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1445681",
-      "startTime": "2026-05-08T11:00:00Z",
+      "startTime": "2026-05-08T11:25:10Z",
       "region": "VCT CN",
       "teamA": {
         "name": "All Gamers",
@@ -39662,16 +39662,16 @@
         "shortName": "DRG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420942",
-      "startTime": "2026-05-08T12:00:00Z",
+      "startTime": "2026-05-08T12:22:03Z",
       "region": "LPL",
       "teamA": {
         "name": "JD Gaming",
@@ -39684,8 +39684,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -40031,9 +40031,9 @@
       "startTime": "2026-05-10T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40834,9 +40834,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FULL SENSE",
+        "shortName": "FS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41980,6 +41980,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-08T11:05:42.921Z",
+  "lastUpdated": "2026-05-08T13:14:09.302Z",
   "source": "PandaScore"
 }
