@@ -39768,8 +39768,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40178,9 +40178,9 @@
       "startTime": "2026-05-10T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40897,9 +40897,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41980,6 +41980,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-08T19:07:13.778Z",
+  "lastUpdated": "2026-05-08T20:55:13.424Z",
   "source": "PandaScore"
 }
