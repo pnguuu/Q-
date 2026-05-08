@@ -39725,9 +39725,9 @@
         "shortName": "EF",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39747,15 +39747,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1411908",
-      "startTime": "2026-05-08T18:00:00Z",
+      "startTime": "2026-05-08T17:58:25Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Fnatic",
@@ -39768,8 +39768,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40220,9 +40220,9 @@
       "startTime": "2026-05-10T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Eternal Fire",
+        "shortName": "EF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40892,9 +40892,9 @@
       "startTime": "2026-05-15T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FUT Esports",
+        "shortName": "FUT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41980,6 +41980,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-08T17:05:17.834Z",
+  "lastUpdated": "2026-05-08T19:07:13.778Z",
   "source": "PandaScore"
 }
