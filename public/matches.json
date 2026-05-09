@@ -39851,7 +39851,7 @@
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LEC",
@@ -39860,7 +39860,7 @@
     },
     {
       "id": "1411915",
-      "startTime": "2026-05-09T15:00:00Z",
+      "startTime": "2026-05-09T15:09:50Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Team Heretics",
@@ -39874,7 +39874,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41896,6 +41896,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-09T14:17:35.715Z",
+  "lastUpdated": "2026-05-09T15:43:23.434Z",
   "source": "PandaScore"
 }
