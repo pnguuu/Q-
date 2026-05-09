@@ -39767,9 +39767,9 @@
         "shortName": "DFM",
         "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39810,7 +39810,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
       "scoreA": 2,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO5",
@@ -39831,7 +39831,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
@@ -39839,7 +39839,7 @@
     },
     {
       "id": "1420944",
-      "startTime": "2026-05-09T11:00:00Z",
+      "startTime": "2026-05-09T11:12:21Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -39853,14 +39853,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1475182",
-      "startTime": "2026-05-09T11:30:00Z",
+      "startTime": "2026-05-09T11:30:06Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -39874,7 +39874,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39994,9 +39994,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Rex Regum Qeon",
+        "shortName": "RRQ",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41938,6 +41938,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-09T10:50:46.596Z",
+  "lastUpdated": "2026-05-09T11:43:06.385Z",
   "source": "PandaScore"
 }
