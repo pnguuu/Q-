@@ -3193,27 +3193,6 @@
       "category": "primary"
     },
     {
-      "id": "1155371",
-      "startTime": "2025-04-14T12:42:30Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1152700",
       "startTime": "2025-04-14T15:01:38Z",
       "region": "LEC",
@@ -39768,8 +39747,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -39788,7 +39767,7 @@
         "shortName": "DFM",
         "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -39810,8 +39789,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39830,7 +39809,7 @@
         "shortName": "DRG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -39839,7 +39818,7 @@
     },
     {
       "id": "1413477",
-      "startTime": "2026-05-09T10:00:00Z",
+      "startTime": "2026-05-09T10:10:23Z",
       "region": "LCK",
       "teamA": {
         "name": "Nongshim Red Force",
@@ -39853,29 +39832,8 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1475182",
-      "startTime": "2026-05-09T10:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
-      },
-      "teamB": {
-        "name": "Nongshim RedForce",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -39897,6 +39855,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1475182",
+      "startTime": "2026-05-09T11:30:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
+      },
+      "teamB": {
+        "name": "Nongshim RedForce",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -41959,6 +41938,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-09T09:11:04.694Z",
+  "lastUpdated": "2026-05-09T10:50:46.596Z",
   "source": "PandaScore"
 }
