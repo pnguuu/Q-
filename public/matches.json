@@ -39851,9 +39851,9 @@
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -39872,7 +39872,7 @@
         "shortName": "BBL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -39881,7 +39881,7 @@
     },
     {
       "id": "1402287",
-      "startTime": "2026-05-09T17:00:00Z",
+      "startTime": "2026-05-09T16:27:15Z",
       "region": "LEC",
       "teamA": {
         "name": "Movistar KOI",
@@ -39895,7 +39895,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -41896,6 +41896,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-09T15:43:23.434Z",
+  "lastUpdated": "2026-05-09T16:43:27.100Z",
   "source": "PandaScore"
 }
