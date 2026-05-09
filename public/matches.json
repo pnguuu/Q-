@@ -39755,7 +39755,7 @@
     },
     {
       "id": "1413476",
-      "startTime": "2026-05-09T08:00:00Z",
+      "startTime": "2026-05-09T08:00:16Z",
       "region": "LCK",
       "teamA": {
         "name": "KT Rolster",
@@ -39768,15 +39768,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1475181",
-      "startTime": "2026-05-09T08:00:00Z",
+      "startTime": "2026-05-09T08:06:02Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Rex Regum Qeon",
@@ -39789,15 +39789,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420943",
-      "startTime": "2026-05-09T09:00:00Z",
+      "startTime": "2026-05-09T09:06:39Z",
       "region": "LPL",
       "teamA": {
         "name": "Ninjas in Pyjamas",
@@ -39811,14 +39811,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1445680",
-      "startTime": "2026-05-09T09:00:00Z",
+      "startTime": "2026-05-09T09:07:31Z",
       "region": "VCT CN",
       "teamA": {
         "name": "XLG Gaming",
@@ -39832,7 +39832,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
@@ -41959,6 +41959,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-09T07:46:02.658Z",
+  "lastUpdated": "2026-05-09T09:11:04.694Z",
   "source": "PandaScore"
 }
