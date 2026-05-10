@@ -40082,9 +40082,9 @@
         "shortName": "G2",
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -40103,7 +40103,7 @@
         "shortName": "GM",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133115/gentle_mates_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -41854,6 +41854,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-10T18:50:23.827Z",
+  "lastUpdated": "2026-05-10T19:54:23.587Z",
   "source": "PandaScore"
 }
