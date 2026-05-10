@@ -39922,27 +39922,6 @@
       "category": "primary"
     },
     {
-      "id": "1413478",
-      "startTime": "2026-05-10T08:00:00Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "teamB": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1475208",
       "startTime": "2026-05-10T08:00:00Z",
       "region": "VCT PAC",
@@ -39960,6 +39939,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1413478",
+      "startTime": "2026-05-10T08:02:33Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+      },
+      "teamB": {
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -41896,6 +41896,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-10T05:57:15.298Z",
+  "lastUpdated": "2026-05-10T08:04:33.621Z",
   "source": "PandaScore"
 }
