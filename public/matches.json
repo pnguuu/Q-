@@ -3193,27 +3193,6 @@
       "category": "primary"
     },
     {
-      "id": "1155372",
-      "startTime": "2025-04-15T09:19:19Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1155373",
       "startTime": "2025-04-15T11:29:59Z",
       "region": "LPL",
@@ -39956,9 +39935,9 @@
         "shortName": "RRQ",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39977,9 +39956,9 @@
         "shortName": "NIP",
         "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39998,8 +39977,8 @@
         "shortName": "XLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO5",
@@ -40007,7 +39986,7 @@
     },
     {
       "id": "1413479",
-      "startTime": "2026-05-10T10:15:00Z",
+      "startTime": "2026-05-10T10:26:16Z",
       "region": "LCK",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -40019,16 +39998,16 @@
         "shortName": "HLE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420946",
-      "startTime": "2026-05-10T11:00:00Z",
+      "startTime": "2026-05-10T11:19:40Z",
       "region": "LPL",
       "teamA": {
         "name": "JD Gaming",
@@ -40042,14 +40021,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1475242",
-      "startTime": "2026-05-10T11:00:00Z",
+      "startTime": "2026-05-10T11:28:24Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Paper Rex",
@@ -40063,7 +40042,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40787,9 +40766,9 @@
       "startTime": "2026-05-15T12:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41896,6 +41875,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-10T10:07:10.143Z",
+  "lastUpdated": "2026-05-10T11:43:23.365Z",
   "source": "PandaScore"
 }
