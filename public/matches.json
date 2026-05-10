@@ -39956,9 +39956,9 @@
         "shortName": "XLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreA": 3,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
@@ -39998,9 +39998,9 @@
         "shortName": "AL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -40019,16 +40019,16 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1402288",
-      "startTime": "2026-05-10T13:00:00Z",
+      "startTime": "2026-05-10T13:08:28Z",
       "region": "LEC",
       "teamA": {
         "name": "Karmine Corp",
@@ -40040,9 +40040,9 @@
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -40750,9 +40750,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Paper Rex",
+        "shortName": "PR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41854,6 +41854,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-10T13:00:02.710Z",
+  "lastUpdated": "2026-05-10T14:21:15.107Z",
   "source": "PandaScore"
 }
