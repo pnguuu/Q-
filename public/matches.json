@@ -39922,27 +39922,6 @@
       "category": "primary"
     },
     {
-      "id": "1475208",
-      "startTime": "2026-05-10T08:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
-      },
-      "teamB": {
-        "name": "Rex Regum Qeon",
-        "shortName": "RRQ",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1413478",
       "startTime": "2026-05-10T08:02:33Z",
       "region": "LCK",
@@ -39956,16 +39935,37 @@
         "shortName": "DK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1475208",
+      "startTime": "2026-05-10T08:05:43Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+      },
+      "teamB": {
+        "name": "Rex Regum Qeon",
+        "shortName": "RRQ",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1420945",
-      "startTime": "2026-05-10T09:00:00Z",
+      "startTime": "2026-05-10T09:06:25Z",
       "region": "LPL",
       "teamA": {
         "name": "Weibo Gaming",
@@ -39977,16 +39977,16 @@
         "shortName": "NIP",
         "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1445679",
-      "startTime": "2026-05-10T09:00:00Z",
+      "startTime": "2026-05-10T09:27:48Z",
       "region": "VCT CN",
       "teamA": {
         "name": "EDward Gaming",
@@ -40000,14 +40000,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1413479",
-      "startTime": "2026-05-10T10:00:00Z",
+      "startTime": "2026-05-10T10:15:00Z",
       "region": "LCK",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -40023,27 +40023,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1475242",
-      "startTime": "2026-05-10T10:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Paper Rex",
-        "shortName": "PR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
-      },
-      "teamB": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -40065,6 +40044,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1475242",
+      "startTime": "2026-05-10T11:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Paper Rex",
+        "shortName": "PR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+      },
+      "teamB": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -41896,6 +41896,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-10T08:04:33.621Z",
+  "lastUpdated": "2026-05-10T10:07:10.143Z",
   "source": "PandaScore"
 }
