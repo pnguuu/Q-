@@ -40041,7 +40041,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -40049,7 +40049,7 @@
     },
     {
       "id": "1411913",
-      "startTime": "2026-05-10T15:00:00Z",
+      "startTime": "2026-05-10T15:08:08Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Fnatic",
@@ -40063,7 +40063,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41854,6 +41854,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-10T14:21:15.107Z",
+  "lastUpdated": "2026-05-10T15:44:28.205Z",
   "source": "PandaScore"
 }
