@@ -40062,8 +40062,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40083,7 +40083,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -40091,7 +40091,7 @@
     },
     {
       "id": "1411914",
-      "startTime": "2026-05-10T18:15:00Z",
+      "startTime": "2026-05-10T18:38:08Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Eternal Fire",
@@ -40105,7 +40105,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40787,9 +40787,9 @@
       "startTime": "2026-05-15T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41854,6 +41854,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-10T17:43:43.470Z",
+  "lastUpdated": "2026-05-10T18:50:23.827Z",
   "source": "PandaScore"
 }
