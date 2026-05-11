@@ -40195,6 +40195,48 @@
       "category": "primary"
     },
     {
+      "id": "1486855",
+      "startTime": "2026-05-12T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
+      },
+      "teamB": {
+        "name": "Nova Esports",
+        "shortName": "NOVA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486854",
+      "startTime": "2026-05-12T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Wolves Esports",
+        "shortName": "WOL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1420948",
       "startTime": "2026-05-12T11:00:00Z",
       "region": "LPL",
@@ -40340,6 +40382,48 @@
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
+    },
+    {
+      "id": "1486859",
+      "startTime": "2026-05-13T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486856",
+      "startTime": "2026-05-13T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
     },
     {
       "id": "1413481",
@@ -40510,6 +40594,27 @@
       "category": "primary"
     },
     {
+      "id": "1486858",
+      "startTime": "2026-05-14T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1413483",
       "startTime": "2026-05-14T10:00:00Z",
       "region": "LCK",
@@ -40676,6 +40781,27 @@
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
+    },
+    {
+      "id": "1486857",
+      "startTime": "2026-05-15T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
     },
     {
       "id": "1413485",
@@ -40846,6 +40972,90 @@
       "category": "primary"
     },
     {
+      "id": "1486863",
+      "startTime": "2026-05-16T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "Trace Esports",
+        "shortName": "TE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
+      },
+      "teamB": {
+        "name": "Dragon Ranger Gaming",
+        "shortName": "DRG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486862",
+      "startTime": "2026-05-16T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "All Gamers",
+        "shortName": "AG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
+      },
+      "teamB": {
+        "name": "TEC Esports",
+        "shortName": "TEC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486861",
+      "startTime": "2026-05-16T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TYLOO",
+        "shortName": "TYLOO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
+      },
+      "teamB": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486860",
+      "startTime": "2026-05-16T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "XLG Gaming",
+        "shortName": "XLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1413487",
       "startTime": "2026-05-16T10:00:00Z",
       "region": "LCK",
@@ -40972,6 +41182,90 @@
       "category": "primary"
     },
     {
+      "id": "1486872",
+      "startTime": "2026-05-17T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486871",
+      "startTime": "2026-05-17T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486865",
+      "startTime": "2026-05-17T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486864",
+      "startTime": "2026-05-17T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1413489",
       "startTime": "2026-05-17T10:00:00Z",
       "region": "LCK",
@@ -41056,6 +41350,90 @@
       "category": "primary"
     },
     {
+      "id": "1486870",
+      "startTime": "2026-05-18T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486869",
+      "startTime": "2026-05-18T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486866",
+      "startTime": "2026-05-18T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486868",
+      "startTime": "2026-05-19T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1413490",
       "startTime": "2026-05-20T08:00:00Z",
       "region": "LCK",
@@ -41075,6 +41453,27 @@
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
+    },
+    {
+      "id": "1486867",
+      "startTime": "2026-05-20T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
     },
     {
       "id": "1413491",
@@ -42022,6 +42421,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-11T06:31:16.075Z",
+  "lastUpdated": "2026-05-11T10:31:13.544Z",
   "source": "PandaScore"
 }
