@@ -40124,9 +40124,9 @@
         "shortName": "ZNT.O",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40145,16 +40145,16 @@
         "shortName": "GX GC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1455297",
-      "startTime": "2026-05-11T18:00:00Z",
+      "startTime": "2026-05-11T17:58:02Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "G2 Gozen",
@@ -40167,8 +40167,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42421,6 +42421,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-11T16:26:28.569Z",
+  "lastUpdated": "2026-05-11T18:52:26.954Z",
   "source": "PandaScore"
 }
