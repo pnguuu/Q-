@@ -1,69 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089887",
-      "startTime": "2025-02-07T11:30:04Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Talon Esports",
-        "shortName": "TLN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132132/600px_t1_allmode.png"
-      },
-      "teamB": {
-        "name": "Gen.G Esports",
-        "shortName": "Gen.G",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128473/600px_gen_g_2019_logo.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1093186",
-      "startTime": "2025-02-07T17:03:16Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
-      },
-      "teamB": {
-        "name": "Team Vitality",
-        "shortName": "VIT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1093191",
-      "startTime": "2025-02-07T19:11:16Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "FUT Esports",
-        "shortName": "FUT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
-      },
-      "teamB": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1089886",
       "startTime": "2025-02-08T08:05:22Z",
       "region": "VCT PAC",
@@ -3168,27 +3105,6 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1155374",
-      "startTime": "2025-04-16T09:19:39Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -40292,9 +40208,9 @@
         "shortName": "ZNT.O",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42379,6 +42295,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-12T21:11:19.365Z",
+  "lastUpdated": "2026-05-12T22:53:39.690Z",
   "source": "PandaScore"
 }
