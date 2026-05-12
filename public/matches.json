@@ -40174,50 +40174,8 @@
       "category": "primary"
     },
     {
-      "id": "1420947",
-      "startTime": "2026-05-12T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "teamB": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1486855",
-      "startTime": "2026-05-12T09:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
-      },
-      "teamB": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "Esports World Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1486854",
-      "startTime": "2026-05-12T09:00:00Z",
+      "startTime": "2026-05-12T09:05:07Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -40230,15 +40188,57 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "cn_extended"
     },
     {
+      "id": "1486855",
+      "startTime": "2026-05-12T09:05:09Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
+      },
+      "teamB": {
+        "name": "Nova Esports",
+        "shortName": "NOVA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1420947",
+      "startTime": "2026-05-12T09:06:44Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "teamB": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1420948",
-      "startTime": "2026-05-12T11:00:00Z",
+      "startTime": "2026-05-12T11:45:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Invictus Gaming",
@@ -40388,9 +40388,9 @@
       "startTime": "2026-05-13T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Nova Esports",
+        "shortName": "NOVA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40409,9 +40409,9 @@
       "startTime": "2026-05-13T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42421,6 +42421,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-12T08:45:20.273Z",
+  "lastUpdated": "2026-05-12T11:14:23.607Z",
   "source": "PandaScore"
 }
