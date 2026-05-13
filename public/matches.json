@@ -40175,7 +40175,7 @@
     },
     {
       "id": "1413480",
-      "startTime": "2026-05-13T08:00:00Z",
+      "startTime": "2026-05-13T08:00:48Z",
       "region": "LCK",
       "teamA": {
         "name": "T1",
@@ -40187,16 +40187,58 @@
         "shortName": "NS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1486856",
+      "startTime": "2026-05-13T09:03:40Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Nova Esports",
+        "shortName": "NOVA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486859",
+      "startTime": "2026-05-13T09:03:42Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "Wolves Esports",
+        "shortName": "WOL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
+      },
+      "teamB": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1420949",
-      "startTime": "2026-05-13T09:00:00Z",
+      "startTime": "2026-05-13T09:06:35Z",
       "region": "LPL",
       "teamA": {
         "name": "Oh My God",
@@ -40210,52 +40252,10 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
-    },
-    {
-      "id": "1486859",
-      "startTime": "2026-05-13T09:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
-      },
-      "teamB": {
-        "name": "Wolves Esports",
-        "shortName": "WOL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "Esports World Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
-      "id": "1486856",
-      "startTime": "2026-05-13T09:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "Esports World Cup",
-      "format": "BO3",
-      "category": "cn_extended"
     },
     {
       "id": "1413481",
@@ -42253,6 +42253,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-13T06:20:40.880Z",
+  "lastUpdated": "2026-05-13T09:37:55.009Z",
   "source": "PandaScore"
 }
