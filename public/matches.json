@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1089168",
-      "startTime": "2025-02-09T17:07:53Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Team Vitality",
-        "shortName": "VIT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
-      },
-      "teamB": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "scoreA": 3,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1122358",
       "startTime": "2025-02-10T08:58:54Z",
       "region": "VCT CN",
@@ -40208,9 +40187,9 @@
         "shortName": "FKS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40229,9 +40208,9 @@
         "shortName": "AAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42106,6 +42085,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-13T19:43:29.336Z",
+  "lastUpdated": "2026-05-13T21:19:35.843Z",
   "source": "PandaScore"
 }
