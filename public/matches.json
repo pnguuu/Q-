@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1122360",
-      "startTime": "2025-02-11T08:58:23Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "teamB": {
-        "name": "Wolves Esports",
-        "shortName": "WOL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "China Evolution Series",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1122361",
       "startTime": "2025-02-11T11:43:09Z",
       "region": "VCT CN",
@@ -2979,27 +2958,6 @@
       "scoreB": 0,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1155377",
-      "startTime": "2025-04-17T12:26:13Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "teamB": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -40272,8 +40230,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40292,9 +40250,9 @@
         "shortName": "FKS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133128/600px_fokus_full_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41980,6 +41938,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-14T21:04:05.350Z",
+  "lastUpdated": "2026-05-14T22:51:03.269Z",
   "source": "PandaScore"
 }
