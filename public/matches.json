@@ -40175,7 +40175,7 @@
     },
     {
       "id": "1413482",
-      "startTime": "2026-05-14T08:00:00Z",
+      "startTime": "2026-05-14T08:00:34Z",
       "region": "LCK",
       "teamA": {
         "name": "BNK FEARX",
@@ -40188,36 +40188,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1420951",
-      "startTime": "2026-05-14T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "teamB": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1486858",
-      "startTime": "2026-05-14T09:00:00Z",
+      "startTime": "2026-05-14T09:00:41Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -40231,10 +40210,31 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "cn_extended"
+    },
+    {
+      "id": "1420951",
+      "startTime": "2026-05-14T09:05:28Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "LNG Esports",
+        "shortName": "LNG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
+      },
+      "teamB": {
+        "name": "LGD Gaming",
+        "shortName": "LGD",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
     },
     {
       "id": "1413483",
@@ -42043,6 +42043,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-14T07:38:12.395Z",
+  "lastUpdated": "2026-05-14T10:08:31.418Z",
   "source": "PandaScore"
 }
