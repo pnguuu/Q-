@@ -40209,8 +40209,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "cn_extended"
@@ -40251,8 +40251,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40271,37 +40271,16 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1455407",
-      "startTime": "2026-05-14T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Gentle Mates GC",
-        "shortName": "M8.GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
-      },
-      "teamB": {
-        "name": "Barça eSports GC",
-        "shortName": "BAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1455406",
-      "startTime": "2026-05-14T15:00:00Z",
+      "startTime": "2026-05-14T15:09:46Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX GC",
@@ -40315,7 +40294,28 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1455407",
+      "startTime": "2026-05-14T15:09:50Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
+      },
+      "teamB": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40414,9 +40414,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42043,6 +42043,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-14T12:22:26.542Z",
+  "lastUpdated": "2026-05-14T15:14:48.507Z",
   "source": "PandaScore"
 }
