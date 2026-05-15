@@ -40398,15 +40398,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1411912",
-      "startTime": "2026-05-15T18:00:00Z",
+      "startTime": "2026-05-15T18:57:30Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Team Heretics",
@@ -40420,7 +40420,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40472,9 +40472,9 @@
       "startTime": "2026-05-16T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "Trace Esports",
-        "shortName": "TE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
+        "name": "TEC Esports",
+        "shortName": "TEC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
       "teamB": {
         "name": "Dragon Ranger Gaming",
@@ -40498,9 +40498,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
       "teamB": {
-        "name": "TEC Esports",
-        "shortName": "TEC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
+        "name": "Trace Esports",
+        "shortName": "TE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40619,9 +40619,9 @@
       "startTime": "2026-05-16T16:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FUT Esports",
+        "shortName": "FUT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40829,9 +40829,9 @@
       "startTime": "2026-05-17T16:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41917,6 +41917,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-15T17:28:37.237Z",
+  "lastUpdated": "2026-05-15T19:20:23.401Z",
   "source": "PandaScore"
 }
