@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1122361",
-      "startTime": "2025-02-11T11:43:09Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "XLG Gaming",
-        "shortName": "XLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
-      },
-      "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "China Evolution Series",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1122362",
       "startTime": "2025-02-14T09:04:51Z",
       "region": "VCT CN",
@@ -41938,6 +41917,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-14T23:49:45.441Z",
+  "lastUpdated": "2026-05-15T02:28:51.322Z",
   "source": "PandaScore"
 }
