@@ -40397,8 +40397,8 @@
         "shortName": "VIT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -41917,6 +41917,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-15T15:58:41.978Z",
+  "lastUpdated": "2026-05-15T17:28:37.237Z",
   "source": "PandaScore"
 }
