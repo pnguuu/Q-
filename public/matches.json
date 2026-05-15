@@ -40376,16 +40376,16 @@
         "shortName": "PR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1411909",
-      "startTime": "2026-05-15T15:00:00Z",
+      "startTime": "2026-05-15T15:08:45Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "FUT Esports",
@@ -40399,7 +40399,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40582,9 +40582,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Paper Rex",
+        "shortName": "PR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40905,7 +40905,7 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "Esports World Cup",
-      "format": "BO3",
+      "format": "BO5",
       "category": "cn_extended"
     },
     {
@@ -40968,7 +40968,7 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "Esports World Cup",
-      "format": "BO3",
+      "format": "BO5",
       "category": "cn_extended"
     },
     {
@@ -41917,6 +41917,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-15T13:47:36.226Z",
+  "lastUpdated": "2026-05-15T15:58:41.978Z",
   "source": "PandaScore"
 }
