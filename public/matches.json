@@ -40271,9 +40271,9 @@
         "shortName": "FPX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "cn_extended"
@@ -40292,16 +40292,16 @@
         "shortName": "OMG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1480498",
-      "startTime": "2026-05-15T10:00:00Z",
+      "startTime": "2026-05-15T10:08:25Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Global Esports",
@@ -40314,15 +40314,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1413485",
-      "startTime": "2026-05-15T10:15:00Z",
+      "startTime": "2026-05-15T10:16:33Z",
       "region": "LCK",
       "teamA": {
         "name": "HANJIN BRION",
@@ -40334,16 +40334,16 @@
         "shortName": "DNS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1420954",
-      "startTime": "2026-05-15T11:00:00Z",
+      "startTime": "2026-05-15T11:11:43Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -40357,7 +40357,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -40540,9 +40540,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41917,6 +41917,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-15T09:40:58.378Z",
+  "lastUpdated": "2026-05-15T11:49:38.554Z",
   "source": "PandaScore"
 }
