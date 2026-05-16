@@ -40616,7 +40616,7 @@
     },
     {
       "id": "1411911",
-      "startTime": "2026-05-16T16:00:00Z",
+      "startTime": "2026-05-16T16:09:30Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "FUT Esports",
@@ -40630,7 +40630,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
@@ -41917,6 +41917,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-16T15:51:32.154Z",
+  "lastUpdated": "2026-05-16T16:48:59.945Z",
   "source": "PandaScore"
 }
