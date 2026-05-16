@@ -40427,7 +40427,7 @@
     },
     {
       "id": "1413486",
-      "startTime": "2026-05-16T08:00:00Z",
+      "startTime": "2026-05-16T07:59:56Z",
       "region": "LCK",
       "teamA": {
         "name": "Gen.G",
@@ -40439,100 +40439,16 @@
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1420955",
-      "startTime": "2026-05-16T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1486863",
-      "startTime": "2026-05-16T09:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "TEC Esports",
-        "shortName": "TEC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
-      },
-      "teamB": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "Esports World Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
-      "id": "1486862",
-      "startTime": "2026-05-16T09:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "All Gamers",
-        "shortName": "AG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Trace Esports",
-        "shortName": "TE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "Esports World Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
-      "id": "1486861",
-      "startTime": "2026-05-16T09:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "Esports World Cup",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1486860",
-      "startTime": "2026-05-16T09:00:00Z",
+      "startTime": "2026-05-16T09:04:52Z",
       "region": "VCT CN",
       "teamA": {
         "name": "XLG Gaming",
@@ -40546,10 +40462,94 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "cn_extended"
+    },
+    {
+      "id": "1486861",
+      "startTime": "2026-05-16T09:04:55Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TYLOO",
+        "shortName": "TYLOO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
+      },
+      "teamB": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486862",
+      "startTime": "2026-05-16T09:04:58Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "All Gamers",
+        "shortName": "AG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Trace Esports",
+        "shortName": "TE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1486863",
+      "startTime": "2026-05-16T09:05:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TEC Esports",
+        "shortName": "TEC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
+      },
+      "teamB": {
+        "name": "Dragon Ranger Gaming",
+        "shortName": "DRG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1420955",
+      "startTime": "2026-05-16T09:07:05Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "teamB": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
     },
     {
       "id": "1413487",
@@ -41917,6 +41917,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-16T07:53:16.097Z",
+  "lastUpdated": "2026-05-16T09:23:49.882Z",
   "source": "PandaScore"
 }
