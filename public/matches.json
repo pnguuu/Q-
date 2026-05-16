@@ -40608,8 +40608,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -41917,6 +41917,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-16T14:49:28.085Z",
+  "lastUpdated": "2026-05-16T15:51:32.154Z",
   "source": "PandaScore"
 }
