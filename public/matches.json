@@ -3067,6 +3067,27 @@
       "category": "primary"
     },
     {
+      "id": "1146482",
+      "startTime": "2025-04-19T06:00:14Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1138033",
       "startTime": "2025-04-19T08:05:07Z",
       "region": "VCT PAC",
@@ -3088,6 +3109,27 @@
       "category": "primary"
     },
     {
+      "id": "1146483",
+      "startTime": "2025-04-19T08:09:38Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Nongshim Red Force",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1162449",
       "startTime": "2025-04-19T09:06:07Z",
       "region": "VCT CN",
@@ -3105,6 +3147,27 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155380",
+      "startTime": "2025-04-19T09:19:29Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Oh My God",
+        "shortName": "OMG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
+      },
+      "teamB": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -3151,6 +3214,111 @@
       "category": "primary"
     },
     {
+      "id": "1155381",
+      "startTime": "2025-04-19T11:34:50Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "teamB": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148190",
+      "startTime": "2025-04-19T15:03:09Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
+      },
+      "teamB": {
+        "name": "Rogue",
+        "shortName": "RGE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/3983/rogue__28_european_team_29logo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148191",
+      "startTime": "2025-04-19T16:42:52Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "GIANTX",
+        "shortName": "GX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146484",
+      "startTime": "2025-04-20T06:01:09Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
+      },
+      "teamB": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155382",
+      "startTime": "2025-04-20T07:17:09Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "LNG Esports",
+        "shortName": "LNG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
+      },
+      "teamB": {
+        "name": "Ultra Prime",
+        "shortName": "UP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1138035",
       "startTime": "2025-04-20T08:05:23Z",
       "region": "VCT PAC",
@@ -3189,6 +3357,48 @@
       "scoreB": 0,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146485",
+      "startTime": "2025-04-20T09:19:01Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
+      },
+      "teamB": {
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155383",
+      "startTime": "2025-04-20T09:19:54Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "teamB": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -3235,6 +3445,69 @@
       "category": "primary"
     },
     {
+      "id": "1155384",
+      "startTime": "2025-04-20T12:26:23Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
+      },
+      "teamB": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148192",
+      "startTime": "2025-04-20T15:02:04Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
+      },
+      "teamB": {
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148193",
+      "startTime": "2025-04-20T17:06:18Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "teamB": {
+        "name": "BDS",
+        "shortName": "BDS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128267/team_bd_slogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1138038",
       "startTime": "2025-04-21T08:07:10Z",
       "region": "VCT PAC",
@@ -3256,6 +3529,27 @@
       "category": "primary"
     },
     {
+      "id": "1155385",
+      "startTime": "2025-04-21T09:20:34Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1138037",
       "startTime": "2025-04-21T10:05:59Z",
       "region": "VCT PAC",
@@ -3273,6 +3567,195 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155386",
+      "startTime": "2025-04-21T12:39:05Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "teamB": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148194",
+      "startTime": "2025-04-21T15:02:13Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "SK Gaming",
+        "shortName": "SK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "Rogue",
+        "shortName": "RGE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/3983/rogue__28_european_team_29logo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148196",
+      "startTime": "2025-04-21T17:49:43Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Movistar KOI",
+        "shortName": "MKOI",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+      },
+      "teamB": {
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155387",
+      "startTime": "2025-04-22T09:18:04Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "LGD Gaming",
+        "shortName": "LGD",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "Royal Never Give Up",
+        "shortName": "RNG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155388",
+      "startTime": "2025-04-22T11:23:45Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "teamB": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146487",
+      "startTime": "2025-04-23T07:59:53Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
+      },
+      "teamB": {
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155389",
+      "startTime": "2025-04-23T09:19:33Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Oh My God",
+        "shortName": "OMG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
+      },
+      "teamB": {
+        "name": "LNG Esports",
+        "shortName": "LNG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146488",
+      "startTime": "2025-04-23T10:16:34Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Nongshim Red Force",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "BNK FEARX",
+        "shortName": "BFX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155390",
+      "startTime": "2025-04-23T11:20:09Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "teamB": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -3319,6 +3802,90 @@
       "category": "primary"
     },
     {
+      "id": "1146489",
+      "startTime": "2025-04-24T08:00:47Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155391",
+      "startTime": "2025-04-24T09:20:18Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "teamB": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146490",
+      "startTime": "2025-04-24T10:13:00Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+      },
+      "teamB": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155392",
+      "startTime": "2025-04-24T12:44:10Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1139939",
       "startTime": "2025-04-24T15:02:36Z",
       "region": "VCT EMEA",
@@ -3361,6 +3928,111 @@
       "category": "primary"
     },
     {
+      "id": "1146491",
+      "startTime": "2025-04-25T08:00:27Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
+      },
+      "teamB": {
+        "name": "Nongshim Red Force",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155393",
+      "startTime": "2025-04-25T09:18:28Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "teamB": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146492",
+      "startTime": "2025-04-25T10:12:53Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+      },
+      "teamB": {
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155394",
+      "startTime": "2025-04-25T12:22:50Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "teamB": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146493",
+      "startTime": "2025-04-26T06:01:16Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
+      },
+      "teamB": {
+        "name": "BNK FEARX",
+        "shortName": "BFX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1163868",
       "startTime": "2025-04-26T08:12:26Z",
       "region": "VCT PAC",
@@ -3378,6 +4050,48 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146494",
+      "startTime": "2025-04-26T09:10:56Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
+      },
+      "teamB": {
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155395",
+      "startTime": "2025-04-26T09:18:35Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "teamB": {
+        "name": "Ultra Prime",
+        "shortName": "UP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -3403,6 +4117,111 @@
       "category": "primary"
     },
     {
+      "id": "1155396",
+      "startTime": "2025-04-26T12:21:22Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148197",
+      "startTime": "2025-04-26T13:26:46Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "teamB": {
+        "name": "GIANTX",
+        "shortName": "GX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148198",
+      "startTime": "2025-04-26T16:47:03Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Movistar KOI",
+        "shortName": "MKOI",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+      },
+      "teamB": {
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146495",
+      "startTime": "2025-04-27T06:00:37Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
+      },
+      "teamB": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155398",
+      "startTime": "2025-04-27T07:19:39Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "teamB": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1163871",
       "startTime": "2025-04-27T08:05:12Z",
       "region": "VCT PAC",
@@ -3420,6 +4239,48 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146496",
+      "startTime": "2025-04-27T09:06:53Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
+      },
+      "teamB": {
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155399",
+      "startTime": "2025-04-27T10:07:46Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "teamB": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -3445,6 +4306,384 @@
       "category": "primary"
     },
     {
+      "id": "1155400",
+      "startTime": "2025-04-27T13:13:21Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "teamB": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148199",
+      "startTime": "2025-04-27T13:14:49Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "teamB": {
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148200",
+      "startTime": "2025-04-27T16:38:33Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Movistar KOI",
+        "shortName": "MKOI",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+      },
+      "teamB": {
+        "name": "GIANTX",
+        "shortName": "GX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155401",
+      "startTime": "2025-04-28T09:14:32Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "LNG Esports",
+        "shortName": "LNG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
+      },
+      "teamB": {
+        "name": "Royal Never Give Up",
+        "shortName": "RNG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155402",
+      "startTime": "2025-04-28T11:22:08Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
+      },
+      "teamB": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148201",
+      "startTime": "2025-04-28T15:02:04Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
+      },
+      "teamB": {
+        "name": "SK Gaming",
+        "shortName": "SK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148203",
+      "startTime": "2025-04-28T17:02:10Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
+      },
+      "teamB": {
+        "name": "BDS",
+        "shortName": "BDS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128267/team_bd_slogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155403",
+      "startTime": "2025-04-29T09:19:35Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "teamB": {
+        "name": "LGD Gaming",
+        "shortName": "LGD",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155404",
+      "startTime": "2025-04-29T12:58:16Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "teamB": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146498",
+      "startTime": "2025-04-30T08:00:38Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Nongshim Red Force",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155406",
+      "startTime": "2025-04-30T09:16:07Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "teamB": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146499",
+      "startTime": "2025-04-30T11:13:20Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "BNK FEARX",
+        "shortName": "BFX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
+      },
+      "teamB": {
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155407",
+      "startTime": "2025-04-30T11:26:57Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146500",
+      "startTime": "2025-05-01T08:00:17Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155414",
+      "startTime": "2025-05-01T09:19:08Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
+      },
+      "teamB": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146501",
+      "startTime": "2025-05-01T10:10:39Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
+      },
+      "teamB": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155417",
+      "startTime": "2025-05-01T11:33:40Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146502",
+      "startTime": "2025-05-02T08:00:04Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+      },
+      "teamB": {
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1162451",
       "startTime": "2025-05-02T09:08:22Z",
       "region": "VCT CN",
@@ -3466,6 +4705,48 @@
       "category": "primary"
     },
     {
+      "id": "1155418",
+      "startTime": "2025-05-02T09:15:55Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Oh My God",
+        "shortName": "OMG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
+      },
+      "teamB": {
+        "name": "Royal Never Give Up",
+        "shortName": "RNG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146503",
+      "startTime": "2025-05-02T10:07:26Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+      },
+      "teamB": {
+        "name": "Nongshim Red Force",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1162454",
       "startTime": "2025-05-02T11:46:23Z",
       "region": "VCT CN",
@@ -3483,6 +4764,27 @@
       "scoreB": 1,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155419",
+      "startTime": "2025-05-02T12:05:11Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "teamB": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -3529,6 +4831,48 @@
       "category": "primary"
     },
     {
+      "id": "1146505",
+      "startTime": "2025-05-03T06:00:54Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155420",
+      "startTime": "2025-05-03T07:15:12Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "teamB": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1163879",
       "startTime": "2025-05-03T08:05:25Z",
       "region": "VCT PAC",
@@ -3546,6 +4890,27 @@
       "scoreB": 1,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146506",
+      "startTime": "2025-05-03T08:21:55Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
+      },
+      "teamB": {
+        "name": "BNK FEARX",
+        "shortName": "BFX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -3571,6 +4936,27 @@
       "category": "primary"
     },
     {
+      "id": "1155421",
+      "startTime": "2025-05-03T09:31:22Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "teamB": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1163880",
       "startTime": "2025-05-03T11:22:30Z",
       "region": "VCT PAC",
@@ -3588,6 +4974,90 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155422",
+      "startTime": "2025-05-03T13:02:18Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "teamB": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148204",
+      "startTime": "2025-05-03T15:04:18Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
+      },
+      "teamB": {
+        "name": "BDS",
+        "shortName": "BDS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128267/team_bd_slogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148206",
+      "startTime": "2025-05-03T17:05:06Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+      },
+      "teamB": {
+        "name": "Rogue",
+        "shortName": "RGE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/3983/rogue__28_european_team_29logo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146510",
+      "startTime": "2025-05-04T06:01:05Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
+      },
+      "teamB": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -3613,6 +5083,27 @@
       "category": "primary"
     },
     {
+      "id": "1146512",
+      "startTime": "2025-05-04T08:15:44Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
+      },
+      "teamB": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1162456",
       "startTime": "2025-05-04T09:10:44Z",
       "region": "VCT CN",
@@ -3634,6 +5125,27 @@
       "category": "primary"
     },
     {
+      "id": "1155423",
+      "startTime": "2025-05-04T09:15:38Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Ultra Prime",
+        "shortName": "UP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
+      },
+      "teamB": {
+        "name": "Oh My God",
+        "shortName": "OMG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1163878",
       "startTime": "2025-05-04T10:28:03Z",
       "region": "VCT PAC",
@@ -3651,6 +5163,279 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155424",
+      "startTime": "2025-05-04T12:20:19Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148207",
+      "startTime": "2025-05-04T15:01:42Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "GIANTX",
+        "shortName": "GX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "BDS",
+        "shortName": "BDS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128267/team_bd_slogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148208",
+      "startTime": "2025-05-04T17:02:41Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "teamB": {
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155425",
+      "startTime": "2025-05-05T09:18:56Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
+      },
+      "teamB": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155426",
+      "startTime": "2025-05-05T11:24:09Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "teamB": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148209",
+      "startTime": "2025-05-05T15:01:52Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
+      },
+      "teamB": {
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148210",
+      "startTime": "2025-05-05T16:39:43Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Movistar KOI",
+        "shortName": "MKOI",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+      },
+      "teamB": {
+        "name": "SK Gaming",
+        "shortName": "SK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155427",
+      "startTime": "2025-05-06T09:13:44Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155428",
+      "startTime": "2025-05-06T12:46:16Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146514",
+      "startTime": "2025-05-07T07:58:55Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "BNK FEARX",
+        "shortName": "BFX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
+      },
+      "teamB": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155429",
+      "startTime": "2025-05-07T09:20:25Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "teamB": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146515",
+      "startTime": "2025-05-07T10:55:34Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
+      },
+      "teamB": {
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155430",
+      "startTime": "2025-05-07T11:38:23Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -3697,6 +5482,27 @@
       "category": "cn_extended"
     },
     {
+      "id": "1146516",
+      "startTime": "2025-05-08T08:00:57Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+      },
+      "teamB": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1174896",
       "startTime": "2025-05-08T08:53:29Z",
       "region": "VCT CN",
@@ -3718,6 +5524,48 @@
       "category": "cn_extended"
     },
     {
+      "id": "1155431",
+      "startTime": "2025-05-08T09:20:44Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "teamB": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146517",
+      "startTime": "2025-05-08T10:11:03Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Nongshim Red Force",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1174897",
       "startTime": "2025-05-08T10:23:14Z",
       "region": "VCT CN",
@@ -3737,6 +5585,27 @@
       "league": "China Evolution Series",
       "format": "BO3",
       "category": "cn_extended"
+    },
+    {
+      "id": "1155434",
+      "startTime": "2025-05-08T11:26:09Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "teamB": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
     },
     {
       "id": "1163885",
@@ -3844,6 +5713,27 @@
       "category": "primary"
     },
     {
+      "id": "1146519",
+      "startTime": "2025-05-09T08:05:15Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
+      },
+      "teamB": {
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1174901",
       "startTime": "2025-05-09T08:46:35Z",
       "region": "VCT CN",
@@ -3863,6 +5753,48 @@
       "league": "China Evolution Series",
       "format": "BO3",
       "category": "cn_extended"
+    },
+    {
+      "id": "1155437",
+      "startTime": "2025-05-09T09:15:54Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
+      },
+      "teamB": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146520",
+      "startTime": "2025-05-09T10:00:34Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
+      },
+      "teamB": {
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
     },
     {
       "id": "1163876",
@@ -3907,6 +5839,27 @@
       "category": "cn_extended"
     },
     {
+      "id": "1155438",
+      "startTime": "2025-05-09T12:52:29Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1163897",
       "startTime": "2025-05-09T15:13:23Z",
       "region": "VCT EMEA",
@@ -3949,6 +5902,48 @@
       "category": "primary"
     },
     {
+      "id": "1146521",
+      "startTime": "2025-05-10T05:59:28Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
+      },
+      "teamB": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155439",
+      "startTime": "2025-05-10T07:20:27Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Royal Never Give Up",
+        "shortName": "RNG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
+      },
+      "teamB": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1163875",
       "startTime": "2025-05-10T08:05:59Z",
       "region": "VCT PAC",
@@ -3967,6 +5962,27 @@
       "status": "已结束",
       "league": "VCT",
       "format": "BO5",
+      "category": "primary"
+    },
+    {
+      "id": "1146522",
+      "startTime": "2025-05-10T08:07:06Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "BNK FEARX",
+        "shortName": "BFX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
       "category": "primary"
     },
     {
@@ -3991,6 +6007,27 @@
       "category": "cn_extended"
     },
     {
+      "id": "1155440",
+      "startTime": "2025-05-10T10:18:37Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "teamB": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1174904",
       "startTime": "2025-05-10T11:14:00Z",
       "region": "VCT CN",
@@ -4010,6 +6047,48 @@
       "league": "China Evolution Series",
       "format": "BO3",
       "category": "cn_extended"
+    },
+    {
+      "id": "1155441",
+      "startTime": "2025-05-10T12:30:18Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "teamB": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148212",
+      "startTime": "2025-05-10T15:05:34Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "teamB": {
+        "name": "SK Gaming",
+        "shortName": "SK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
     },
     {
       "id": "1163887",
@@ -4050,6 +6129,69 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148216",
+      "startTime": "2025-05-10T18:17:39Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+      },
+      "teamB": {
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1146523",
+      "startTime": "2025-05-11T06:00:25Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Nongshim Red Force",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155443",
+      "startTime": "2025-05-11T07:18:36Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Ultra Prime",
+        "shortName": "UP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
+      },
+      "teamB": {
+        "name": "LGD Gaming",
+        "shortName": "LGD",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -4096,6 +6238,69 @@
       "category": "cn_extended"
     },
     {
+      "id": "1146525",
+      "startTime": "2025-05-11T09:14:49Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+      },
+      "teamB": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155444",
+      "startTime": "2025-05-11T10:23:15Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "teamB": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155445",
+      "startTime": "2025-05-11T13:23:42Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1163896",
       "startTime": "2025-05-11T15:05:38Z",
       "region": "VCT EMEA",
@@ -4113,6 +6318,48 @@
       "scoreB": 1,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148221",
+      "startTime": "2025-05-11T15:08:16Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
+      },
+      "teamB": {
+        "name": "SK Gaming",
+        "shortName": "SK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148222",
+      "startTime": "2025-05-11T17:17:12Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+      },
+      "teamB": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
@@ -4157,6 +6404,153 @@
       "league": "China Evolution Series",
       "format": "BO5",
       "category": "cn_extended"
+    },
+    {
+      "id": "1155446",
+      "startTime": "2025-05-12T09:15:01Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "teamB": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155448",
+      "startTime": "2025-05-12T11:27:27Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "teamB": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148224",
+      "startTime": "2025-05-12T15:01:41Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
+      },
+      "teamB": {
+        "name": "GIANTX",
+        "shortName": "GX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1148227",
+      "startTime": "2025-05-12T16:47:12Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Movistar KOI",
+        "shortName": "MKOI",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+      },
+      "teamB": {
+        "name": "Rogue",
+        "shortName": "RGE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/3983/rogue__28_european_team_29logo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155449",
+      "startTime": "2025-05-13T09:13:22Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "teamB": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1155450",
+      "startTime": "2025-05-13T12:20:52Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1178817",
+      "startTime": "2025-05-13T18:01:03Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
+      },
+      "teamB": {
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO1",
+      "category": "primary"
     },
     {
       "id": "1146526",
@@ -38361,8 +40755,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "scoreA": 2,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 3,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
@@ -39607,6 +42001,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-17T20:03:03.645Z",
+  "lastUpdated": "2026-05-17T21:46:29.686Z",
   "source": "PandaScore"
 }
