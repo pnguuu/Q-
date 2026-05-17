@@ -40637,7 +40637,7 @@
     },
     {
       "id": "1413488",
-      "startTime": "2026-05-17T08:00:00Z",
+      "startTime": "2026-05-17T08:00:09Z",
       "region": "LCK",
       "teamA": {
         "name": "Hanwha Life Esports",
@@ -40650,8 +40650,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -41917,6 +41917,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-17T06:15:16.462Z",
+  "lastUpdated": "2026-05-17T08:59:05.536Z",
   "source": "PandaScore"
 }
