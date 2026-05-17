@@ -40742,7 +40742,7 @@
     },
     {
       "id": "1411910",
-      "startTime": "2026-05-17T16:00:00Z",
+      "startTime": "2026-05-17T16:11:16Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Team Vitality",
@@ -40756,7 +40756,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
@@ -42001,6 +42001,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-17T15:52:31.258Z",
+  "lastUpdated": "2026-05-17T16:49:07.758Z",
   "source": "PandaScore"
 }
