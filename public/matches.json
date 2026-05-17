@@ -40734,8 +40734,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 3,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
@@ -40754,7 +40754,7 @@
         "shortName": "BRO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
@@ -40763,7 +40763,7 @@
     },
     {
       "id": "1420958",
-      "startTime": "2026-05-17T12:20:00Z",
+      "startTime": "2026-05-17T12:25:58Z",
       "region": "LPL",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -40777,7 +40777,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -42043,6 +42043,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-17T11:55:53.111Z",
+  "lastUpdated": "2026-05-17T13:03:05.637Z",
   "source": "PandaScore"
 }
