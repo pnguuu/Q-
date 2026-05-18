@@ -40775,9 +40775,9 @@
         "shortName": "TEC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
-      "scoreA": 2,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO5",
       "category": "cn_extended"
@@ -40817,9 +40817,9 @@
         "shortName": "TYLOO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "cn_extended"
@@ -40834,9 +40834,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "All Gamers",
+        "shortName": "AG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40871,9 +40871,9 @@
       "startTime": "2026-05-20T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "TEC Esports",
+        "shortName": "TEC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42001,6 +42001,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-18T11:00:54.016Z",
+  "lastUpdated": "2026-05-18T14:33:45.967Z",
   "source": "PandaScore"
 }
