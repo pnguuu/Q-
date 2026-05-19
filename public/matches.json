@@ -40826,7 +40826,7 @@
     },
     {
       "id": "1486868",
-      "startTime": "2026-05-19T09:00:00Z",
+      "startTime": "2026-05-19T09:06:48Z",
       "region": "VCT CN",
       "teamA": {
         "name": "FunPlus Phoenix",
@@ -40839,8 +40839,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "cn_extended"
@@ -40876,9 +40876,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "All Gamers",
+        "shortName": "AG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42001,6 +42001,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-19T07:38:19.786Z",
+  "lastUpdated": "2026-05-19T10:55:39.737Z",
   "source": "PandaScore"
 }
