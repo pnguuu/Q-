@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1122362",
-      "startTime": "2025-02-14T09:04:51Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "China Evolution Series",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1122363",
       "startTime": "2025-02-14T11:11:13Z",
       "region": "VCT CN",
@@ -42001,6 +41980,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-19T20:26:40.474Z",
+  "lastUpdated": "2026-05-19T22:09:32.102Z",
   "source": "PandaScore"
 }
