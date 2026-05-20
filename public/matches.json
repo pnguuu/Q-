@@ -3025,27 +3025,6 @@
       "category": "primary"
     },
     {
-      "id": "1146483",
-      "startTime": "2025-04-19T08:09:38Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Nongshim Red Force",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1162449",
       "startTime": "2025-04-19T09:06:07Z",
       "region": "VCT CN",
@@ -3063,27 +3042,6 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1155380",
-      "startTime": "2025-04-19T09:19:29Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Oh My God",
-        "shortName": "OMG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -40797,15 +40755,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 3,
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO5",
       "category": "cn_extended"
     },
     {
       "id": "1413491",
-      "startTime": "2026-05-20T11:00:00Z",
+      "startTime": "2026-05-20T10:55:00Z",
       "region": "LCK",
       "teamA": {
         "name": "Nongshim Red Force",
@@ -40817,9 +40775,9 @@
         "shortName": "KT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40867,27 +40825,6 @@
       "category": "primary"
     },
     {
-      "id": "1413493",
-      "startTime": "2026-05-21T08:00:00Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
-      },
-      "teamB": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1413492",
       "startTime": "2026-05-21T08:00:00Z",
       "region": "LCK",
@@ -40928,6 +40865,27 @@
       "league": "China Evolution Series",
       "format": "BO3",
       "category": "cn_extended"
+    },
+    {
+      "id": "1413493",
+      "startTime": "2026-05-21T10:00:00Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
+      },
+      "teamB": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
     },
     {
       "id": "1500819",
@@ -42253,6 +42211,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-20T10:20:59.586Z",
+  "lastUpdated": "2026-05-20T13:33:57.084Z",
   "source": "PandaScore"
 }
