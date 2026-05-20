@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1122365",
-      "startTime": "2025-02-15T09:04:38Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 3,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "China Evolution Series",
-      "format": "BO5",
-      "category": "cn_extended"
-    },
-    {
       "id": "1123567",
       "startTime": "2025-02-15T16:07:31Z",
       "region": "VCT EMEA",
@@ -41959,6 +41938,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-19T23:56:41.473Z",
+  "lastUpdated": "2026-05-20T02:45:50.869Z",
   "source": "PandaScore"
 }
