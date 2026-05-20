@@ -40784,7 +40784,7 @@
     },
     {
       "id": "1496626",
-      "startTime": "2026-05-20T15:00:00Z",
+      "startTime": "2026-05-20T15:04:26Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX GC",
@@ -40796,9 +40796,9 @@
         "shortName": "TMO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136929/600px_twisted_minds_2023_full_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42211,6 +42211,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-20T13:33:57.084Z",
+  "lastUpdated": "2026-05-20T16:48:34.526Z",
   "source": "PandaScore"
 }
