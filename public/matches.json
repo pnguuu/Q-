@@ -1,69 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123567",
-      "startTime": "2025-02-15T16:07:31Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "G2 Gozen",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
-      },
-      "teamB": {
-        "name": "BLVKHVND",
-        "shortName": "BLV",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136527/171px_blvkhvnd_2023_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1123568",
-      "startTime": "2025-02-15T16:15:08Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "HEROIC Valkyries",
-        "shortName": "HV",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134991/600px_heroic_2023_allmode.png"
-      },
-      "teamB": {
-        "name": "GIANTX GC",
-        "shortName": "GX GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1123569",
-      "startTime": "2025-02-15T18:09:53Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "ZERANCE Mint",
-        "shortName": "ZER.M",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136526/600px_zerance_mint_allmode.png"
-      },
-      "teamB": {
-        "name": "Lunar",
-        "shortName": "Lun",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136528/171px_lunar__valorant__allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1123570",
       "startTime": "2025-02-15T18:34:56Z",
       "region": "VCT EMEA",
@@ -42148,6 +42085,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-20T19:15:45.849Z",
+  "lastUpdated": "2026-05-20T21:45:09.165Z",
   "source": "PandaScore"
 }
