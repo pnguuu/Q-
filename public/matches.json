@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123573",
-      "startTime": "2025-02-16T18:33:12Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "ZERANCE Mint",
-        "shortName": "ZER.M",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136526/600px_zerance_mint_allmode.png"
-      },
-      "teamB": {
-        "name": "HEROIC Valkyries",
-        "shortName": "HV",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134991/600px_heroic_2023_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1123575",
       "startTime": "2025-02-17T16:05:53Z",
       "region": "VCT EMEA",
@@ -3021,48 +3000,6 @@
       "scoreB": 1,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1148192",
-      "startTime": "2025-04-20T15:02:04Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
-      },
-      "teamB": {
-        "name": "Team Vitality",
-        "shortName": "VIT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1148193",
-      "startTime": "2025-04-20T17:06:18Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "teamB": {
-        "name": "BDS",
-        "shortName": "BDS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128267/team_bd_slogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
@@ -40607,16 +40544,16 @@
         "shortName": "GX GC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1496629",
-      "startTime": "2026-05-21T18:00:00Z",
+      "startTime": "2026-05-21T17:56:52Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "SK Nebula",
@@ -40629,8 +40566,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40724,9 +40661,9 @@
       "startTime": "2026-05-22T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40745,9 +40682,9 @@
       "startTime": "2026-05-22T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41896,6 +41833,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-21T16:39:08.348Z",
+  "lastUpdated": "2026-05-21T18:55:21.869Z",
   "source": "PandaScore"
 }
