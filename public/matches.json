@@ -40595,7 +40595,7 @@
     },
     {
       "id": "1496628",
-      "startTime": "2026-05-21T15:00:00Z",
+      "startTime": "2026-05-21T15:03:14Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates GC",
@@ -40607,9 +40607,9 @@
         "shortName": "GX GC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41896,6 +41896,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-21T13:58:28.899Z",
+  "lastUpdated": "2026-05-21T16:39:08.348Z",
   "source": "PandaScore"
 }
