@@ -2983,48 +2983,6 @@
       "category": "primary"
     },
     {
-      "id": "1146484",
-      "startTime": "2025-04-20T06:01:09Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
-      },
-      "teamB": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1155382",
-      "startTime": "2025-04-20T07:17:09Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "teamB": {
-        "name": "Ultra Prime",
-        "shortName": "UP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138035",
       "startTime": "2025-04-20T08:05:23Z",
       "region": "VCT PAC",
@@ -42043,6 +42001,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-21T02:36:10.372Z",
+  "lastUpdated": "2026-05-21T06:45:36.998Z",
   "source": "PandaScore"
 }
