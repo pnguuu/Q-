@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123570",
-      "startTime": "2025-02-15T18:34:56Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Karmine Corp GC",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
-      },
-      "teamB": {
-        "name": "ALTERNATE aTTaX Ruby",
-        "shortName": "AAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1122364",
-      "startTime": "2025-02-16T09:07:03Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Wolves Esports",
-        "shortName": "WOL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
-      },
-      "scoreA": 3,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "China Evolution Series",
-      "format": "BO5",
-      "category": "cn_extended"
-    },
-    {
       "id": "1123571",
       "startTime": "2025-02-16T16:03:03Z",
       "region": "VCT EMEA",
@@ -42085,6 +42043,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-20T23:06:58.057Z",
+  "lastUpdated": "2026-05-21T02:36:10.372Z",
   "source": "PandaScore"
 }
