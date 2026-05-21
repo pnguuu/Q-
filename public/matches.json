@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123572",
-      "startTime": "2025-02-16T16:03:08Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "GIANTX GC",
-        "shortName": "GX GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
-      },
-      "teamB": {
-        "name": "BLVKHVND",
-        "shortName": "BLV",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136527/171px_blvkhvnd_2023_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1123573",
       "startTime": "2025-02-16T18:33:12Z",
       "region": "VCT EMEA",
@@ -3042,27 +3021,6 @@
       "scoreB": 1,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1155384",
-      "startTime": "2025-04-20T12:26:23Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
-      },
-      "teamB": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -40607,16 +40565,16 @@
         "shortName": "BRO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1500819",
-      "startTime": "2026-05-21T11:00:00Z",
+      "startTime": "2026-05-21T10:51:48Z",
       "region": "VCT CN",
       "teamA": {
         "name": "FunPlus Phoenix",
@@ -40628,9 +40586,9 @@
         "shortName": "WOL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "China Evolution Series",
       "format": "BO3",
       "category": "cn_extended"
@@ -41149,9 +41107,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41938,6 +41896,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-21T10:34:04.140Z",
+  "lastUpdated": "2026-05-21T13:58:28.899Z",
   "source": "PandaScore"
 }
