@@ -40502,16 +40502,16 @@
         "shortName": "G2",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1496630",
-      "startTime": "2026-05-22T18:00:00Z",
+      "startTime": "2026-05-22T17:43:33Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX GC",
@@ -40525,7 +40525,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40682,9 +40682,9 @@
       "startTime": "2026-05-23T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40850,9 +40850,9 @@
       "startTime": "2026-05-24T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/gentle_mates_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41665,6 +41665,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-22T16:17:15.629Z",
+  "lastUpdated": "2026-05-22T18:30:43.188Z",
   "source": "PandaScore"
 }
