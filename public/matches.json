@@ -40481,16 +40481,16 @@
         "shortName": "WBG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128956/696px_weibo_gaming_full_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "China Evolution Series",
       "format": "BO3",
       "category": "cn_extended"
     },
     {
       "id": "1496633",
-      "startTime": "2026-05-22T15:00:00Z",
+      "startTime": "2026-05-22T15:05:47Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates GC",
@@ -40502,9 +40502,9 @@
         "shortName": "G2",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40897,9 +40897,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "TEC Esports",
+        "shortName": "TEC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41665,6 +41665,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-22T13:25:35.200Z",
+  "lastUpdated": "2026-05-22T16:17:15.629Z",
   "source": "PandaScore"
 }
