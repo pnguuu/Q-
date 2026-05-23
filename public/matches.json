@@ -2962,27 +2962,6 @@
       "category": "primary"
     },
     {
-      "id": "1155387",
-      "startTime": "2025-04-22T09:18:04Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "Royal Never Give Up",
-        "shortName": "RNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1155388",
       "startTime": "2025-04-22T11:23:45Z",
       "region": "LPL",
@@ -40565,9 +40544,9 @@
         "shortName": "BFX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40586,16 +40565,16 @@
         "shortName": "XLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "China Evolution Series",
       "format": "BO3",
       "category": "cn_extended"
     },
     {
       "id": "1422507",
-      "startTime": "2026-05-23T10:45:00Z",
+      "startTime": "2026-05-23T10:49:30Z",
       "region": "LPL",
       "teamA": {
         "name": "Invictus Gaming",
@@ -40608,15 +40587,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1413497",
-      "startTime": "2026-05-23T11:00:00Z",
+      "startTime": "2026-05-23T11:09:07Z",
       "region": "LCK",
       "teamA": {
         "name": "Nongshim Red Force",
@@ -40628,16 +40607,16 @@
         "shortName": "HLE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1500823",
-      "startTime": "2026-05-23T11:00:00Z",
+      "startTime": "2026-05-23T12:00:00Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Nova Esports",
@@ -40934,9 +40913,9 @@
       "startTime": "2026-05-26T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41770,6 +41749,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-23T10:27:10.141Z",
+  "lastUpdated": "2026-05-23T11:55:56.016Z",
   "source": "PandaScore"
 }
