@@ -40565,8 +40565,8 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 2,
       "status": "进行中",
       "league": "LPL",
       "format": "BO5",
@@ -40574,7 +40574,7 @@
     },
     {
       "id": "1413498",
-      "startTime": "2026-05-24T08:00:00Z",
+      "startTime": "2026-05-24T08:01:01Z",
       "region": "LCK",
       "teamA": {
         "name": "DN SOOPers",
@@ -40587,15 +40587,36 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1500824",
+      "startTime": "2026-05-24T09:02:14Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TYLOO",
+        "shortName": "TYLOO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
+      },
+      "teamB": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1422509",
-      "startTime": "2026-05-24T09:00:00Z",
+      "startTime": "2026-05-24T10:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Weibo Gaming",
@@ -40613,27 +40634,6 @@
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
-    },
-    {
-      "id": "1500824",
-      "startTime": "2026-05-24T09:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "China Evolution Series",
-      "format": "BO3",
-      "category": "cn_extended"
     },
     {
       "id": "1413499",
@@ -41623,6 +41623,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-24T06:30:40.796Z",
+  "lastUpdated": "2026-05-24T09:15:44.768Z",
   "source": "PandaScore"
 }
