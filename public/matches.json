@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123903",
-      "startTime": "2025-02-21T12:28:06Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
-      },
-      "teamB": {
-        "name": "Trace Esports",
-        "shortName": "TE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
-      "id": "1123584",
-      "startTime": "2025-02-21T16:13:15Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "HEROIC Valkyries",
-        "shortName": "HV",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134991/600px_heroic_2023_allmode.png"
-      },
-      "teamB": {
-        "name": "G2 Gozen",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1123585",
       "startTime": "2025-02-21T16:16:32Z",
       "region": "VCT EMEA",
@@ -40565,9 +40523,9 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 3,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40587,8 +40545,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40607,6 +40565,48 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
       },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1413499",
+      "startTime": "2026-05-24T10:03:36Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
+      },
+      "teamB": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+      },
+      "scoreA": 0,
+      "scoreB": 1,
+      "status": "进行中",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1500825",
+      "startTime": "2026-05-24T10:37:32Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Unsettled Resentment",
+        "shortName": "UR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/138700/775px_unsettled_resentment_2026_allmode.png"
+      },
       "scoreA": 0,
       "scoreB": 0,
       "status": "进行中",
@@ -40616,7 +40616,7 @@
     },
     {
       "id": "1422509",
-      "startTime": "2026-05-24T10:00:00Z",
+      "startTime": "2026-05-24T11:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Weibo Gaming",
@@ -40634,48 +40634,6 @@
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
-    },
-    {
-      "id": "1413499",
-      "startTime": "2026-05-24T10:00:00Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/brio_nlogo_profile.png"
-      },
-      "teamB": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1500825",
-      "startTime": "2026-05-24T11:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Unsettled Resentment",
-        "shortName": "UR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/138700/775px_unsettled_resentment_2026_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "China Evolution Series",
-      "format": "BO3",
-      "category": "cn_extended"
     },
     {
       "id": "1486130",
@@ -40808,9 +40766,9 @@
       "startTime": "2026-05-26T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "TYLOO",
+        "shortName": "TYLOO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41623,6 +41581,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-24T09:15:44.768Z",
+  "lastUpdated": "2026-05-24T11:09:48.444Z",
   "source": "PandaScore"
 }
