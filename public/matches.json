@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123592",
-      "startTime": "2025-02-22T18:10:47Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "SK Nebula",
-        "shortName": "SK.N",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "Lunar",
-        "shortName": "Lun",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136528/171px_lunar__valorant__allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1123591",
       "startTime": "2025-02-22T19:13:42Z",
       "region": "VCT EMEA",
@@ -40524,8 +40503,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 2,
-      "status": "进行中",
+      "scoreB": 3,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO5",
       "category": "primary"
@@ -40545,8 +40524,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 3,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
@@ -40603,9 +40582,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Movistar KOI",
+        "shortName": "MKOI",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40960,9 +40939,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41455,6 +41434,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-24T17:00:39.201Z",
+  "lastUpdated": "2026-05-24T18:01:33.926Z",
   "source": "PandaScore"
 }
