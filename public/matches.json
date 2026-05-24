@@ -40553,7 +40553,7 @@
     },
     {
       "id": "1422508",
-      "startTime": "2026-05-24T06:00:00Z",
+      "startTime": "2026-05-24T06:03:21Z",
       "region": "LPL",
       "teamA": {
         "name": "Ninjas in Pyjamas",
@@ -40567,7 +40567,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -41623,6 +41623,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-24T02:32:49.540Z",
+  "lastUpdated": "2026-05-24T06:30:40.796Z",
   "source": "PandaScore"
 }
