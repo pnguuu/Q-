@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123597",
-      "startTime": "2025-02-25T19:21:06Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "ZERANCE Mint",
-        "shortName": "ZER.M",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136526/600px_zerance_mint_allmode.png"
-      },
-      "teamB": {
-        "name": "ALTERNATE aTTaX Ruby",
-        "shortName": "AAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1123600",
       "startTime": "2025-02-26T16:06:11Z",
       "region": "VCT EMEA",
@@ -2559,48 +2538,6 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1146488",
-      "startTime": "2025-04-23T10:16:34Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Nongshim Red Force",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "BNK FEARX",
-        "shortName": "BFX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1155390",
-      "startTime": "2025-04-23T11:20:09Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "teamB": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -41287,6 +41224,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-25T19:17:27.392Z",
+  "lastUpdated": "2026-05-25T20:58:06.196Z",
   "source": "PandaScore"
 }
