@@ -40657,27 +40657,6 @@
       "category": "primary"
     },
     {
-      "id": "1422510",
-      "startTime": "2026-05-28T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1413503",
       "startTime": "2026-05-28T10:00:00Z",
       "region": "LCK",
@@ -40696,6 +40675,27 @@
       "status": "待开始",
       "league": "LCK",
       "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1422510",
+      "startTime": "2026-05-29T06:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
+      "format": "BO5",
       "category": "primary"
     },
     {
@@ -40724,14 +40724,14 @@
       "startTime": "2026-05-29T09:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "LGD Gaming",
+        "shortName": "LGD",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40804,6 +40804,27 @@
       "category": "cn_extended"
     },
     {
+      "id": "1422512",
+      "startTime": "2026-05-30T06:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
+      "format": "BO5",
+      "category": "primary"
+    },
+    {
       "id": "1413506",
       "startTime": "2026-05-30T08:00:00Z",
       "region": "LCK",
@@ -40825,18 +40846,18 @@
       "category": "primary"
     },
     {
-      "id": "1422512",
+      "id": "1422513",
       "startTime": "2026-05-30T09:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40930,7 +40951,7 @@
       "category": "primary"
     },
     {
-      "id": "1422513",
+      "id": "1422516",
       "startTime": "2026-05-31T09:00:00Z",
       "region": "LPL",
       "teamA": {
@@ -41014,6 +41035,27 @@
       "category": "primary"
     },
     {
+      "id": "1422517",
+      "startTime": "2026-06-01T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
+      "format": "BO5",
+      "category": "primary"
+    },
+    {
       "id": "1486135",
       "startTime": "2026-06-01T15:00:00Z",
       "region": "LEC",
@@ -41035,7 +41077,7 @@
       "category": "primary"
     },
     {
-      "id": "1422516",
+      "id": "1422514",
       "startTime": "2026-06-02T09:00:00Z",
       "region": "LPL",
       "teamA": {
@@ -41056,7 +41098,7 @@
       "category": "primary"
     },
     {
-      "id": "1422517",
+      "id": "1422515",
       "startTime": "2026-06-03T09:00:00Z",
       "region": "LPL",
       "teamA": {
@@ -41077,7 +41119,7 @@
       "category": "primary"
     },
     {
-      "id": "1422514",
+      "id": "1422518",
       "startTime": "2026-06-05T09:00:00Z",
       "region": "LPL",
       "teamA": {
@@ -41119,7 +41161,7 @@
       "category": "primary"
     },
     {
-      "id": "1422515",
+      "id": "1422519",
       "startTime": "2026-06-06T09:00:00Z",
       "region": "LPL",
       "teamA": {
@@ -41182,6 +41224,27 @@
       "category": "primary"
     },
     {
+      "id": "1422521",
+      "startTime": "2026-06-07T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
+      "format": "BO5",
+      "category": "primary"
+    },
+    {
       "id": "1486138",
       "startTime": "2026-06-07T15:00:00Z",
       "region": "LEC",
@@ -41203,50 +41266,8 @@
       "category": "primary"
     },
     {
-      "id": "1422518",
+      "id": "1422520",
       "startTime": "2026-06-08T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
-      "id": "1422519",
-      "startTime": "2026-06-09T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
-      "id": "1422521",
-      "startTime": "2026-06-10T09:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "TBD",
@@ -41283,27 +41304,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
-      "id": "1422520",
-      "startTime": "2026-06-12T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
       "format": "BO5",
       "category": "primary"
     },
@@ -41392,6 +41392,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-25T02:41:10.667Z",
+  "lastUpdated": "2026-05-25T07:06:13.501Z",
   "source": "PandaScore"
 }
