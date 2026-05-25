@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123596",
-      "startTime": "2025-02-25T16:08:12Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "NASR Ignite",
-        "shortName": "NASR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133593/440px_nasr_esports_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "HEROIC Valkyries",
-        "shortName": "HV",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134991/600px_heroic_2023_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1123595",
       "startTime": "2025-02-25T16:08:16Z",
       "region": "VCT EMEA",
@@ -40524,8 +40503,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "China Evolution Series",
       "format": "BO3",
       "category": "cn_extended"
@@ -40750,9 +40729,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "TEC Esports",
+        "shortName": "TEC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41392,6 +41371,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-25T11:45:52.103Z",
+  "lastUpdated": "2026-05-25T14:38:49.527Z",
   "source": "PandaScore"
 }
