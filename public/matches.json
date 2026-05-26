@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123601",
-      "startTime": "2025-02-26T16:07:37Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "SK Nebula",
-        "shortName": "SK.N",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "HEROIC Valkyries",
-        "shortName": "HV",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134991/600px_heroic_2023_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1123603",
       "startTime": "2025-02-26T17:55:30Z",
       "region": "VCT EMEA",
@@ -41203,6 +41182,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-25T23:58:34.487Z",
+  "lastUpdated": "2026-05-26T03:33:56.170Z",
   "source": "PandaScore"
 }
