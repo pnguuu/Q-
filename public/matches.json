@@ -40972,6 +40972,27 @@
       "category": "primary"
     },
     {
+      "id": "1510127",
+      "startTime": "2026-06-06T14:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "XLG Gaming",
+        "shortName": "XLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+      },
+      "teamB": {
+        "name": "NRG",
+        "shortName": "NRG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1486136",
       "startTime": "2026-06-06T15:00:00Z",
       "region": "LEC",
@@ -40991,6 +41012,27 @@
       "league": "LEC",
       "format": "BO5",
       "category": "primary"
+    },
+    {
+      "id": "1510128",
+      "startTime": "2026-06-06T17:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+      },
+      "teamB": {
+        "name": "Dragon Ranger Gaming",
+        "shortName": "DRG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "cn_extended"
     },
     {
       "id": "1505697",
@@ -41182,6 +41224,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-26T03:33:56.170Z",
+  "lastUpdated": "2026-05-26T07:37:52.962Z",
   "source": "PandaScore"
 }
