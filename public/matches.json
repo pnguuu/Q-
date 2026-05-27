@@ -40217,7 +40217,7 @@
     },
     {
       "id": "1413500",
-      "startTime": "2026-05-27T08:00:00Z",
+      "startTime": "2026-05-27T07:59:56Z",
       "region": "LCK",
       "teamA": {
         "name": "Gen.G",
@@ -40229,16 +40229,16 @@
         "shortName": "HLE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1413501",
-      "startTime": "2026-05-27T10:00:00Z",
+      "startTime": "2026-05-27T11:15:00Z",
       "region": "LCK",
       "teamA": {
         "name": "BNK FEARX",
@@ -41056,6 +41056,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-27T06:57:42.088Z",
+  "lastUpdated": "2026-05-27T10:54:54.659Z",
   "source": "PandaScore"
 }
