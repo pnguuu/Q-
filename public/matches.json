@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123895",
-      "startTime": "2025-03-01T10:09:23Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
-      },
-      "scoreA": 1,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO5",
-      "category": "cn_extended"
-    },
-    {
       "id": "1123608",
       "startTime": "2025-03-03T16:09:14Z",
       "region": "VCT EMEA",
@@ -41077,6 +41056,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-27T02:40:27.286Z",
+  "lastUpdated": "2026-05-27T06:57:42.088Z",
   "source": "PandaScore"
 }
