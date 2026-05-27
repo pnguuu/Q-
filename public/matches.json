@@ -1,90 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123605",
-      "startTime": "2025-02-27T16:07:43Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Karmine Corp GC",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
-      },
-      "teamB": {
-        "name": "BLVKHVND",
-        "shortName": "BLV",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136527/171px_blvkhvnd_2023_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1123604",
-      "startTime": "2025-02-27T16:12:46Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "SK Nebula",
-        "shortName": "SK.N",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "GIANTX GC",
-        "shortName": "GX GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1123606",
-      "startTime": "2025-02-27T19:25:32Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Lunar",
-        "shortName": "Lun",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136528/171px_lunar__valorant__allmode.png"
-      },
-      "teamB": {
-        "name": "HEROIC Valkyries",
-        "shortName": "HV",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134991/600px_heroic_2023_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1123893",
-      "startTime": "2025-02-28T10:06:36Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "cn_extended"
-    },
-    {
       "id": "1123895",
       "startTime": "2025-03-01T10:09:23Z",
       "region": "VCT PAC",
@@ -41161,6 +41077,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-26T23:03:15.497Z",
+  "lastUpdated": "2026-05-27T02:40:27.286Z",
   "source": "PandaScore"
 }
