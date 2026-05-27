@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123610",
-      "startTime": "2025-03-03T19:17:01Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "NASR Ignite",
-        "shortName": "NASR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133593/440px_nasr_esports_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "G2 Gozen",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1123609",
       "startTime": "2025-03-03T19:39:04Z",
       "region": "VCT EMEA",
@@ -40930,6 +40909,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-27T22:26:47.472Z",
+  "lastUpdated": "2026-05-27T23:55:51.496Z",
   "source": "PandaScore"
 }
