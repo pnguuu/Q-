@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123609",
-      "startTime": "2025-03-03T19:39:04Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Lunar",
-        "shortName": "Lun",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136528/171px_lunar__valorant__allmode.png"
-      },
-      "teamB": {
-        "name": "ALTERNATE aTTaX Ruby",
-        "shortName": "AAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1123612",
       "startTime": "2025-03-04T16:08:44Z",
       "region": "VCT EMEA",
@@ -40909,6 +40888,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-27T23:55:51.496Z",
+  "lastUpdated": "2026-05-28T02:31:24.511Z",
   "source": "PandaScore"
 }
