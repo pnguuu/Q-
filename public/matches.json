@@ -40070,7 +40070,7 @@
     },
     {
       "id": "1422510",
-      "startTime": "2026-05-29T06:00:00Z",
+      "startTime": "2026-05-29T06:08:43Z",
       "region": "LPL",
       "teamA": {
         "name": "JD Gaming",
@@ -40082,16 +40082,37 @@
         "shortName": "TT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 3,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
     },
     {
+      "id": "1500830",
+      "startTime": "2026-05-29T07:11:37Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "All Gamers",
+        "shortName": "AG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
+      },
+      "teamB": {
+        "name": "TEC Esports",
+        "shortName": "TEC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1413504",
-      "startTime": "2026-05-29T08:00:00Z",
+      "startTime": "2026-05-29T08:01:49Z",
       "region": "LCK",
       "teamA": {
         "name": "Dplus KIA",
@@ -40103,16 +40124,16 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1422511",
-      "startTime": "2026-05-29T09:00:00Z",
+      "startTime": "2026-05-29T10:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -40130,27 +40151,6 @@
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
-    },
-    {
-      "id": "1500830",
-      "startTime": "2026-05-29T09:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "All Gamers",
-        "shortName": "AG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
-      },
-      "teamB": {
-        "name": "TEC Esports",
-        "shortName": "TEC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "China Evolution Series",
-      "format": "BO3",
-      "category": "cn_extended"
     },
     {
       "id": "1413505",
@@ -40175,7 +40175,7 @@
     },
     {
       "id": "1500831",
-      "startTime": "2026-05-29T11:00:00Z",
+      "startTime": "2026-05-29T10:30:00Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Nova Esports",
@@ -40346,9 +40346,9 @@
       "startTime": "2026-05-31T09:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40472,9 +40472,9 @@
       "startTime": "2026-06-02T09:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40825,6 +40825,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-29T05:08:15.177Z",
+  "lastUpdated": "2026-05-29T09:39:25.322Z",
   "source": "PandaScore"
 }
