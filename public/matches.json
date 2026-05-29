@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1123616",
-      "startTime": "2025-03-05T18:03:18Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "ZERANCE Mint",
-        "shortName": "ZER.M",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136526/600px_zerance_mint_allmode.png"
-      },
-      "teamB": {
-        "name": "G2 Gozen",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1123617",
       "startTime": "2025-03-05T18:22:40Z",
       "region": "VCT EMEA",
@@ -40720,6 +40699,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-29T21:47:35.119Z",
+  "lastUpdated": "2026-05-29T23:06:34.264Z",
   "source": "PandaScore"
 }
