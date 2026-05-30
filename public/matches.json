@@ -40145,9 +40145,9 @@
         "shortName": "Navi",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
-      "scoreA": 2,
+      "scoreA": 3,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO5",
       "category": "primary"
@@ -40283,9 +40283,9 @@
       "startTime": "2026-06-01T15:00:00Z",
       "region": "LEC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40657,6 +40657,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-30T17:58:47.464Z",
+  "lastUpdated": "2026-05-30T19:17:19.945Z",
   "source": "PandaScore"
 }
