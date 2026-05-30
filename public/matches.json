@@ -40049,7 +40049,7 @@
     },
     {
       "id": "1422512",
-      "startTime": "2026-05-30T06:00:00Z",
+      "startTime": "2026-05-30T06:11:47Z",
       "region": "LPL",
       "teamA": {
         "name": "Anyone's Legend",
@@ -40063,7 +40063,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40678,6 +40678,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-30T02:26:23.312Z",
+  "lastUpdated": "2026-05-30T06:17:33.005Z",
   "source": "PandaScore"
 }
