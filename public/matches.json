@@ -40061,9 +40061,9 @@
         "shortName": "DNS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40083,7 +40083,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "China Evolution Series",
       "format": "BO5",
@@ -40091,7 +40091,7 @@
     },
     {
       "id": "1422513",
-      "startTime": "2026-05-30T09:30:00Z",
+      "startTime": "2026-05-30T09:44:30Z",
       "region": "LPL",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -40104,15 +40104,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1413507",
-      "startTime": "2026-05-30T10:00:00Z",
+      "startTime": "2026-05-30T10:15:11Z",
       "region": "LCK",
       "teamA": {
         "name": "BNK FEARX",
@@ -40125,8 +40125,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40657,6 +40657,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-30T09:10:50.012Z",
+  "lastUpdated": "2026-05-30T11:14:43.552Z",
   "source": "PandaScore"
 }
