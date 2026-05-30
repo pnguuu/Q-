@@ -40145,8 +40145,8 @@
         "shortName": "Navi",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
+      "scoreA": 2,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO5",
@@ -40657,6 +40657,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-30T16:07:56.160Z",
+  "lastUpdated": "2026-05-30T17:58:47.464Z",
   "source": "PandaScore"
 }
