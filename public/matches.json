@@ -2185,27 +2185,6 @@
       "category": "primary"
     },
     {
-      "id": "1155394",
-      "startTime": "2025-04-25T12:22:50Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1146493",
       "startTime": "2025-04-26T06:01:16Z",
       "region": "LCK",
@@ -40061,16 +40040,16 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1413506",
-      "startTime": "2026-05-30T08:00:00Z",
+      "startTime": "2026-05-30T07:59:50Z",
       "region": "LCK",
       "teamA": {
         "name": "KT Rolster",
@@ -40082,16 +40061,37 @@
         "shortName": "DNS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1500833",
+      "startTime": "2026-05-30T09:09:23Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "All Gamers",
+        "shortName": "AG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
+      },
+      "teamB": {
+        "name": "TYLOO",
+        "shortName": "TYLOO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "China Evolution Series",
+      "format": "BO5",
+      "category": "cn_extended"
+    },
+    {
       "id": "1422513",
-      "startTime": "2026-05-30T09:00:00Z",
+      "startTime": "2026-05-30T09:30:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -40109,27 +40109,6 @@
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
-    },
-    {
-      "id": "1500833",
-      "startTime": "2026-05-30T09:00:00Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "All Gamers",
-        "shortName": "AG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
-      },
-      "teamB": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "China Evolution Series",
-      "format": "BO5",
-      "category": "cn_extended"
     },
     {
       "id": "1413507",
@@ -40283,9 +40262,9 @@
       "startTime": "2026-06-01T09:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40346,9 +40325,9 @@
       "startTime": "2026-06-03T09:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40678,6 +40657,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-30T06:17:33.005Z",
+  "lastUpdated": "2026-05-30T09:10:50.012Z",
   "source": "PandaScore"
 }
