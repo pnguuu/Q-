@@ -40154,7 +40154,7 @@
     },
     {
       "id": "1413508",
-      "startTime": "2026-05-31T08:00:00Z",
+      "startTime": "2026-05-31T08:00:09Z",
       "region": "LCK",
       "teamA": {
         "name": "HANJIN BRION",
@@ -40167,36 +40167,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1422516",
-      "startTime": "2026-05-31T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1500832",
-      "startTime": "2026-05-31T09:00:00Z",
+      "startTime": "2026-05-31T09:07:53Z",
       "region": "VCT CN",
       "teamA": {
         "name": "TEC Esports",
@@ -40210,14 +40189,35 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "China Evolution Series",
       "format": "BO5",
       "category": "cn_extended"
     },
     {
+      "id": "1422516",
+      "startTime": "2026-05-31T09:10:39Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
+      "format": "BO5",
+      "category": "primary"
+    },
+    {
       "id": "1413509",
-      "startTime": "2026-05-31T10:00:00Z",
+      "startTime": "2026-05-31T10:10:00Z",
       "region": "LCK",
       "teamA": {
         "name": "Nongshim Red Force",
@@ -40657,6 +40657,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-31T06:53:11.136Z",
+  "lastUpdated": "2026-05-31T09:44:31.404Z",
   "source": "PandaScore"
 }
