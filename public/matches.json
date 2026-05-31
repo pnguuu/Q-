@@ -40188,8 +40188,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
       },
       "scoreA": 2,
-      "scoreB": 2,
-      "status": "进行中",
+      "scoreB": 3,
+      "status": "已结束",
       "league": "China Evolution Series",
       "format": "BO5",
       "category": "cn_extended"
@@ -40238,7 +40238,7 @@
     },
     {
       "id": "1486133",
-      "startTime": "2026-05-31T15:00:00Z",
+      "startTime": "2026-05-31T15:02:22Z",
       "region": "LEC",
       "teamA": {
         "name": "Team Vitality",
@@ -40252,7 +40252,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO5",
       "category": "primary"
@@ -40657,6 +40657,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-31T13:19:41.298Z",
+  "lastUpdated": "2026-05-31T15:14:22.661Z",
   "source": "PandaScore"
 }
