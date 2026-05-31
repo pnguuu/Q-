@@ -40251,7 +40251,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 2,
       "status": "进行中",
       "league": "LEC",
       "format": "BO5",
@@ -40657,6 +40657,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-05-31T15:14:22.661Z",
+  "lastUpdated": "2026-05-31T16:59:02.193Z",
   "source": "PandaScore"
 }
