@@ -40238,7 +40238,7 @@
     },
     {
       "id": "1422517",
-      "startTime": "2026-06-01T09:00:00Z",
+      "startTime": "2026-06-01T09:10:19Z",
       "region": "LPL",
       "teamA": {
         "name": "Anyone's Legend",
@@ -40251,8 +40251,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40636,6 +40636,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-06-01T04:43:35.735Z",
+  "lastUpdated": "2026-06-01T10:12:58.638Z",
   "source": "PandaScore"
 }
