@@ -2206,27 +2206,6 @@
       "category": "primary"
     },
     {
-      "id": "1146494",
-      "startTime": "2025-04-26T09:10:56Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
-      },
-      "teamB": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/500px_gen.g_esports_2019_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1155395",
       "startTime": "2025-04-26T09:18:35Z",
       "region": "LPL",
@@ -40251,15 +40230,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 3,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1486135",
-      "startTime": "2026-06-01T15:00:00Z",
+      "startTime": "2026-06-01T15:03:09Z",
       "region": "LEC",
       "teamA": {
         "name": "Karmine Corp",
@@ -40271,9 +40250,9 @@
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO5",
       "category": "primary"
@@ -40325,9 +40304,9 @@
       "startTime": "2026-06-05T09:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40477,9 +40456,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40636,6 +40615,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-06-01T10:12:58.638Z",
+  "lastUpdated": "2026-06-01T16:32:58.378Z",
   "source": "PandaScore"
 }
