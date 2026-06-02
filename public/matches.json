@@ -40250,9 +40250,9 @@
         "shortName": "LGD",
         "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 3,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40288,9 +40288,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "LGD Gaming",
+        "shortName": "LGD",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40594,6 +40594,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-06-02T10:08:19.784Z",
+  "lastUpdated": "2026-06-02T14:46:13.037Z",
   "source": "PandaScore"
 }
