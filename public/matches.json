@@ -2227,27 +2227,6 @@
       "category": "primary"
     },
     {
-      "id": "1148197",
-      "startTime": "2025-04-26T13:26:46Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "teamB": {
-        "name": "GIANTX",
-        "shortName": "GX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1148198",
       "startTime": "2025-04-26T16:47:03Z",
       "region": "LEC",
@@ -40573,6 +40552,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-06-02T21:43:30.664Z",
+  "lastUpdated": "2026-06-02T23:28:53.370Z",
   "source": "PandaScore"
 }
