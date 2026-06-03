@@ -40217,7 +40217,7 @@
     },
     {
       "id": "1422515",
-      "startTime": "2026-06-03T09:00:00Z",
+      "startTime": "2026-06-03T09:11:31Z",
       "region": "LPL",
       "teamA": {
         "name": "EDward Gaming",
@@ -40230,8 +40230,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 3,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40288,9 +40288,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40552,6 +40552,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-06-03T08:13:42.910Z",
+  "lastUpdated": "2026-06-03T13:10:32.431Z",
   "source": "PandaScore"
 }
