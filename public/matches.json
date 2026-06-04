@@ -2206,27 +2206,6 @@
       "category": "primary"
     },
     {
-      "id": "1155398",
-      "startTime": "2025-04-27T07:19:39Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1163871",
       "startTime": "2025-04-27T08:05:12Z",
       "region": "VCT PAC",
@@ -40699,6 +40678,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-04T19:15:09.837Z",
+  "lastUpdated": "2026-06-04T21:25:36.153Z",
   "source": "PandaScore"
 }
