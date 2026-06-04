@@ -40487,8 +40487,218 @@
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
+    },
+    {
+      "id": "1524754",
+      "startTime": "2026-06-28T03:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
+      "id": "1524755",
+      "startTime": "2026-06-28T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
+      "id": "1524756",
+      "startTime": "2026-06-29T03:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
+      "id": "1524758",
+      "startTime": "2026-06-29T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
+      "id": "1524759",
+      "startTime": "2026-06-30T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
+      "id": "1524757",
+      "startTime": "2026-07-01T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
+      "id": "1524760",
+      "startTime": "2026-07-03T03:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
+      "id": "1524761",
+      "startTime": "2026-07-03T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
+      "id": "1524762",
+      "startTime": "2026-07-04T03:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
+      "id": "1524763",
+      "startTime": "2026-07-04T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-04T13:56:45.544Z",
+  "lastUpdated": "2026-06-04T16:50:22.734Z",
   "source": "PandaScore"
 }
