@@ -2227,27 +2227,6 @@
       "category": "primary"
     },
     {
-      "id": "1155399",
-      "startTime": "2025-04-27T10:07:46Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "teamB": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1163872",
       "startTime": "2025-04-27T10:11:05Z",
       "region": "VCT PAC",
@@ -40657,6 +40636,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-05T13:50:40.278Z",
+  "lastUpdated": "2026-06-05T16:27:36.313Z",
   "source": "PandaScore"
 }
