@@ -2227,27 +2227,6 @@
       "category": "primary"
     },
     {
-      "id": "1146496",
-      "startTime": "2025-04-27T09:06:53Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/dplus_ki_alogo_profile.png"
-      },
-      "teamB": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1155399",
       "startTime": "2025-04-27T10:07:46Z",
       "region": "LPL",
@@ -40678,6 +40657,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-04T23:03:00.042Z",
+  "lastUpdated": "2026-06-05T02:39:33.647Z",
   "source": "PandaScore"
 }
