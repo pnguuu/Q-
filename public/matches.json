@@ -40145,9 +40145,9 @@
         "shortName": "LGD",
         "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
       },
-      "scoreA": 2,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40325,9 +40325,9 @@
       "startTime": "2026-06-08T09:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40657,6 +40657,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-05T10:52:06.554Z",
+  "lastUpdated": "2026-06-05T13:50:40.278Z",
   "source": "PandaScore"
 }
