@@ -40112,7 +40112,7 @@
     },
     {
       "id": "1510127",
-      "startTime": "2026-06-06T14:00:00Z",
+      "startTime": "2026-06-06T14:11:24Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "XLG Gaming",
@@ -40125,8 +40125,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "cn_extended"
@@ -40573,6 +40573,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-06T13:13:36.526Z",
+  "lastUpdated": "2026-06-06T15:07:43.922Z",
   "source": "PandaScore"
 }
