@@ -40125,15 +40125,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "cn_extended"
     },
     {
       "id": "1486136",
-      "startTime": "2026-06-06T15:00:00Z",
+      "startTime": "2026-06-06T15:08:16Z",
       "region": "LEC",
       "teamA": {
         "name": "Movistar KOI",
@@ -40146,15 +40146,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 2,
+      "status": "进行中",
       "league": "LEC",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1510128",
-      "startTime": "2026-06-06T17:00:00Z",
+      "startTime": "2026-06-06T16:33:53Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Team Vitality",
@@ -40168,7 +40168,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "cn_extended"
@@ -40573,6 +40573,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-06T15:07:43.922Z",
+  "lastUpdated": "2026-06-06T17:02:26.821Z",
   "source": "PandaScore"
 }
