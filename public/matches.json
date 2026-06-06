@@ -40133,7 +40133,7 @@
     },
     {
       "id": "1505696",
-      "startTime": "2026-06-06T08:00:00Z",
+      "startTime": "2026-06-06T08:05:32Z",
       "region": "LCK",
       "teamA": {
         "name": "Dplus KIA",
@@ -40145,16 +40145,16 @@
         "shortName": "BRO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1422519",
-      "startTime": "2026-06-06T09:00:00Z",
+      "startTime": "2026-06-06T09:08:37Z",
       "region": "LPL",
       "teamA": {
         "name": "JD Gaming",
@@ -40168,7 +40168,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40636,6 +40636,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-06T07:41:54.467Z",
+  "lastUpdated": "2026-06-06T09:56:16.106Z",
   "source": "PandaScore"
 }
