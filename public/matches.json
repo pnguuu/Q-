@@ -2248,27 +2248,6 @@
       "category": "primary"
     },
     {
-      "id": "1155400",
-      "startTime": "2025-04-27T13:13:21Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1148199",
       "startTime": "2025-04-27T13:14:49Z",
       "region": "LEC",
@@ -40145,9 +40124,9 @@
         "shortName": "BRO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
       },
-      "scoreA": 2,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
@@ -40166,8 +40145,8 @@
         "shortName": "BLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO5",
@@ -40246,9 +40225,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40636,6 +40615,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-06T09:56:16.106Z",
+  "lastUpdated": "2026-06-06T11:19:52.613Z",
   "source": "PandaScore"
 }
