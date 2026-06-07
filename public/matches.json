@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127045",
-      "startTime": "2025-03-14T11:06:38Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Trace Esports",
-        "shortName": "TE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
-      },
-      "teamB": {
-        "name": "All Gamers",
-        "shortName": "AG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127046",
       "startTime": "2025-03-15T09:06:04Z",
       "region": "VCT CN",
@@ -40217,7 +40196,7 @@
     },
     {
       "id": "1486138",
-      "startTime": "2026-06-07T15:00:00Z",
+      "startTime": "2026-06-07T15:28:13Z",
       "region": "LEC",
       "teamA": {
         "name": "G2 Esports",
@@ -40231,7 +40210,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO5",
       "category": "primary"
@@ -40573,6 +40552,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-07T14:48:16.964Z",
+  "lastUpdated": "2026-06-07T16:08:20.353Z",
   "source": "PandaScore"
 }
