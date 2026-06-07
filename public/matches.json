@@ -40187,7 +40187,7 @@
         "shortName": "DK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 2,
       "status": "进行中",
       "league": "LCK",
@@ -40208,9 +40208,9 @@
         "shortName": "WE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40304,9 +40304,9 @@
       "startTime": "2026-06-13T09:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40346,9 +40346,9 @@
       "startTime": "2026-06-14T09:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40573,6 +40573,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-07T10:22:54.774Z",
+  "lastUpdated": "2026-06-07T12:17:43.921Z",
   "source": "PandaScore"
 }
