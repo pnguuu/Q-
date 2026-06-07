@@ -40187,9 +40187,9 @@
         "shortName": "DK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
-      "scoreA": 2,
+      "scoreA": 3,
       "scoreB": 2,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
@@ -40288,9 +40288,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40573,6 +40573,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-07T12:17:43.921Z",
+  "lastUpdated": "2026-06-07T14:48:16.964Z",
   "source": "PandaScore"
 }
