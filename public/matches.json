@@ -2227,27 +2227,6 @@
       "category": "primary"
     },
     {
-      "id": "1148201",
-      "startTime": "2025-04-28T15:02:04Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
-      },
-      "teamB": {
-        "name": "SK Gaming",
-        "shortName": "SK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1148203",
       "startTime": "2025-04-28T17:02:10Z",
       "region": "LEC",
@@ -40531,6 +40510,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-08T00:02:39.884Z",
+  "lastUpdated": "2026-06-08T05:24:18.151Z",
   "source": "PandaScore"
 }
