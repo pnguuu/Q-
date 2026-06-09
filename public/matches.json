@@ -40028,7 +40028,7 @@
     },
     {
       "id": "1510133",
-      "startTime": "2026-06-09T14:00:00Z",
+      "startTime": "2026-06-09T14:09:19Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Dragon Ranger Gaming",
@@ -40040,9 +40040,9 @@
         "shortName": "XLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "cn_extended"
@@ -40363,6 +40363,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-09T13:39:23.431Z",
+  "lastUpdated": "2026-06-09T16:27:26.833Z",
   "source": "PandaScore"
 }
