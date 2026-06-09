@@ -40048,6 +40048,27 @@
       "category": "cn_extended"
     },
     {
+      "id": "1510136",
+      "startTime": "2026-06-10T17:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Global Esports",
+        "shortName": "GE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
+      },
+      "teamB": {
+        "name": "XLG Gaming",
+        "shortName": "XLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1505698",
       "startTime": "2026-06-12T08:00:00Z",
       "region": "LCK",
@@ -40363,6 +40384,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-09T19:09:16.753Z",
+  "lastUpdated": "2026-06-09T21:42:54.735Z",
   "source": "PandaScore"
 }
