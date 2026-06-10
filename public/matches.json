@@ -40091,7 +40091,7 @@
     },
     {
       "id": "1505699",
-      "startTime": "2026-06-13T08:00:00Z",
+      "startTime": "2026-06-13T06:00:00Z",
       "region": "LCK",
       "teamA": {
         "name": "Gen.G",
@@ -40133,7 +40133,7 @@
     },
     {
       "id": "1505700",
-      "startTime": "2026-06-14T08:00:00Z",
+      "startTime": "2026-06-14T06:00:00Z",
       "region": "LCK",
       "teamA": {
         "name": "TBD",
@@ -40384,6 +40384,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-10T02:39:39.349Z",
+  "lastUpdated": "2026-06-10T07:01:20.523Z",
   "source": "PandaScore"
 }
