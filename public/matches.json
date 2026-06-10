@@ -40062,8 +40062,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "cn_extended"
@@ -40130,6 +40130,48 @@
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
+    },
+    {
+      "id": "1510139",
+      "startTime": "2026-06-13T14:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "teamB": {
+        "name": "FUT Esports",
+        "shortName": "FUT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1510138",
+      "startTime": "2026-06-13T17:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+      },
+      "teamB": {
+        "name": "XLG Gaming",
+        "shortName": "XLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "cn_extended"
     },
     {
       "id": "1505700",
@@ -40384,6 +40426,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-10T20:16:17.925Z",
+  "lastUpdated": "2026-06-10T22:48:44.671Z",
   "source": "PandaScore"
 }
