@@ -2227,48 +2227,6 @@
       "category": "primary"
     },
     {
-      "id": "1146500",
-      "startTime": "2025-05-01T08:00:17Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
-      },
-      "teamB": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1155414",
-      "startTime": "2025-05-01T09:19:08Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
-      },
-      "teamB": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1146501",
       "startTime": "2025-05-01T10:10:39Z",
       "region": "LCK",
@@ -40426,6 +40384,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-11T05:23:21.317Z",
+  "lastUpdated": "2026-06-11T10:10:28.364Z",
   "source": "PandaScore"
 }
