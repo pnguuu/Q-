@@ -39998,9 +39998,9 @@
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
-      "scoreA": 2,
+      "scoreA": 3,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
@@ -40094,9 +40094,9 @@
       "startTime": "2026-06-14T06:00:00Z",
       "region": "LCK",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
       "teamB": {
         "name": "TBD",
@@ -40342,6 +40342,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-12T11:38:08.153Z",
+  "lastUpdated": "2026-06-12T14:39:41.884Z",
   "source": "PandaScore"
 }
