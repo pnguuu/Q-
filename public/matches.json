@@ -39986,7 +39986,7 @@
     },
     {
       "id": "1505698",
-      "startTime": "2026-06-12T08:00:00Z",
+      "startTime": "2026-06-12T08:18:28Z",
       "region": "LCK",
       "teamA": {
         "name": "Hanwha Life Esports",
@@ -39998,9 +39998,9 @@
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
@@ -40342,6 +40342,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-12T07:16:28.603Z",
+  "lastUpdated": "2026-06-12T11:38:08.153Z",
   "source": "PandaScore"
 }
