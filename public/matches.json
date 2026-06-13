@@ -2206,27 +2206,6 @@
       "category": "primary"
     },
     {
-      "id": "1146502",
-      "startTime": "2025-05-02T08:00:04Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "teamB": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1162451",
       "startTime": "2025-05-02T09:08:22Z",
       "region": "VCT CN",
@@ -2244,27 +2223,6 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1155418",
-      "startTime": "2025-05-02T09:15:55Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Oh My God",
-        "shortName": "OMG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
-      },
-      "teamB": {
-        "name": "Royal Never Give Up",
-        "shortName": "RNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/74/royal-never-give-up-cyacqft1.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -40061,8 +40019,8 @@
         "shortName": "XLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -40342,6 +40300,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-13T17:14:46.480Z",
+  "lastUpdated": "2026-06-13T19:11:48.050Z",
   "source": "PandaScore"
 }
