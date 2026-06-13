@@ -40007,7 +40007,7 @@
     },
     {
       "id": "1505699",
-      "startTime": "2026-06-13T06:00:00Z",
+      "startTime": "2026-06-13T06:17:00Z",
       "region": "LCK",
       "teamA": {
         "name": "Gen.G",
@@ -40021,7 +40021,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
@@ -40342,6 +40342,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-13T02:38:33.903Z",
+  "lastUpdated": "2026-06-13T06:52:59.044Z",
   "source": "PandaScore"
 }
