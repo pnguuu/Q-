@@ -40019,16 +40019,16 @@
         "shortName": "KT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1422522",
-      "startTime": "2026-06-13T09:00:00Z",
+      "startTime": "2026-06-13T08:25:15Z",
       "region": "LPL",
       "teamA": {
         "name": "Team WE",
@@ -40041,8 +40041,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40099,9 +40099,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40112,7 +40112,7 @@
     },
     {
       "id": "1422523",
-      "startTime": "2026-06-14T09:00:00Z",
+      "startTime": "2026-06-14T08:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -40342,6 +40342,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-13T06:52:59.044Z",
+  "lastUpdated": "2026-06-13T09:53:06.372Z",
   "source": "PandaScore"
 }
