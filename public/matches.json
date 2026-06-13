@@ -40049,7 +40049,7 @@
     },
     {
       "id": "1510139",
-      "startTime": "2026-06-13T14:00:00Z",
+      "startTime": "2026-06-13T14:09:13Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "EDward Gaming",
@@ -40062,8 +40062,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "cn_extended"
@@ -40342,6 +40342,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-13T13:30:40.034Z",
+  "lastUpdated": "2026-06-13T15:27:33.024Z",
   "source": "PandaScore"
 }
