@@ -40041,8 +40041,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 2,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 3,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40120,9 +40120,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40342,6 +40342,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-13T11:49:24.101Z",
+  "lastUpdated": "2026-06-13T13:30:40.034Z",
   "source": "PandaScore"
 }
