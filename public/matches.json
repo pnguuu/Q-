@@ -2227,27 +2227,6 @@
       "category": "primary"
     },
     {
-      "id": "1146503",
-      "startTime": "2025-05-02T10:07:26Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "teamB": {
-        "name": "Nongshim Red Force",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1162454",
       "startTime": "2025-05-02T11:46:23Z",
       "region": "VCT CN",
@@ -40020,8 +39999,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "cn_extended"
@@ -40078,9 +40057,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "XLG Gaming",
+        "shortName": "XLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40300,6 +40279,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-13T19:11:48.050Z",
+  "lastUpdated": "2026-06-13T21:05:32.909Z",
   "source": "PandaScore"
 }
