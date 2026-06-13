@@ -2248,27 +2248,6 @@
       "category": "primary"
     },
     {
-      "id": "1155419",
-      "startTime": "2025-05-02T12:05:11Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "teamB": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139940",
       "startTime": "2025-05-02T15:01:24Z",
       "region": "VCT EMEA",
@@ -40052,14 +40031,14 @@
       "startTime": "2026-06-15T14:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
         "name": "XLG Gaming",
         "shortName": "XLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+      },
+      "teamB": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40279,6 +40258,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-13T21:05:32.909Z",
+  "lastUpdated": "2026-06-13T22:56:35.463Z",
   "source": "PandaScore"
 }
