@@ -39986,7 +39986,7 @@
     },
     {
       "id": "1505700",
-      "startTime": "2026-06-14T06:00:00Z",
+      "startTime": "2026-06-14T06:19:56Z",
       "region": "LCK",
       "teamA": {
         "name": "T1",
@@ -39998,16 +39998,16 @@
         "shortName": "GEN",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1422523",
-      "startTime": "2026-06-14T08:00:00Z",
+      "startTime": "2026-06-14T08:13:30Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -40020,8 +40020,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40258,6 +40258,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-14T05:25:51.185Z",
+  "lastUpdated": "2026-06-14T09:21:18.357Z",
   "source": "PandaScore"
 }
