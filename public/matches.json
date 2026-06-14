@@ -39998,9 +39998,9 @@
         "shortName": "GEN",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreA": 3,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
@@ -40020,8 +40020,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 3,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
@@ -40258,6 +40258,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-14T09:21:18.357Z",
+  "lastUpdated": "2026-06-14T11:49:56.789Z",
   "source": "PandaScore"
 }
