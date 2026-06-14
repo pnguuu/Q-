@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127048",
-      "startTime": "2025-03-15T11:12:59Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1128111",
       "startTime": "2025-03-15T16:10:31Z",
       "region": "VCT EMEA",
@@ -40258,6 +40237,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-14T15:44:20.757Z",
+  "lastUpdated": "2026-06-14T17:12:17.569Z",
   "source": "PandaScore"
 }
