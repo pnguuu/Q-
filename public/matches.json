@@ -40048,29 +40048,8 @@
       "category": "cn_extended"
     },
     {
-      "id": "1524754",
-      "startTime": "2026-06-28T03:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Karmine Corp",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
-      },
-      "teamB": {
-        "name": "Deep Cross Gaming",
-        "shortName": "DCG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130356/800px_deep_cross_gaming_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "Mid-Season Invitational",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
       "id": "1524755",
-      "startTime": "2026-06-28T08:00:00Z",
+      "startTime": "2026-06-28T03:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "T1",
@@ -40081,6 +40060,27 @@
         "name": "Team Liquid",
         "shortName": "TL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/390/463px_team_liquid_2024_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
+      "id": "1524754",
+      "startTime": "2026-06-28T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+      },
+      "teamB": {
+        "name": "Deep Cross Gaming",
+        "shortName": "DCG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130356/800px_deep_cross_gaming_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40468,6 +40468,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-16T00:25:24.738Z",
+  "lastUpdated": "2026-06-16T06:27:12.180Z",
   "source": "PandaScore"
 }
