@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1128114",
-      "startTime": "2025-03-17T16:11:47Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "G2 Gozen",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
-      },
-      "teamB": {
-        "name": "Karmine Corp GC",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1128115",
       "startTime": "2025-03-17T18:34:49Z",
       "region": "VCT EMEA",
@@ -40363,6 +40342,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-18T13:58:23.337Z",
+  "lastUpdated": "2026-06-18T16:56:34.161Z",
   "source": "PandaScore"
 }
