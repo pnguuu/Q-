@@ -39873,10 +39873,31 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1510145",
+      "startTime": "2026-06-20T13:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO5",
       "category": "cn_extended"
     },
     {
@@ -40300,6 +40321,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-19T15:57:15.053Z",
+  "lastUpdated": "2026-06-19T17:53:30.134Z",
   "source": "PandaScore"
 }
