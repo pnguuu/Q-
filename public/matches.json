@@ -2101,27 +2101,6 @@
       "category": "primary"
     },
     {
-      "id": "1146505",
-      "startTime": "2025-05-03T06:00:54Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
-      },
-      "teamB": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1155420",
       "startTime": "2025-05-03T07:15:12Z",
       "region": "LPL",
@@ -39881,7 +39860,7 @@
     },
     {
       "id": "1510143",
-      "startTime": "2026-06-19T13:00:00Z",
+      "startTime": "2026-06-19T13:07:53Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "EDward Gaming",
@@ -39893,9 +39872,9 @@
         "shortName": "PR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "cn_extended"
@@ -40321,6 +40300,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-19T12:51:06.473Z",
+  "lastUpdated": "2026-06-19T15:57:15.053Z",
   "source": "PandaScore"
 }
