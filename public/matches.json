@@ -39889,9 +39889,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Leviatán Esports",
+        "shortName": "LEV",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40321,6 +40321,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-19T17:53:30.134Z",
+  "lastUpdated": "2026-06-19T19:28:18.657Z",
   "source": "PandaScore"
 }
