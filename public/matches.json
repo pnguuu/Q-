@@ -39873,8 +39873,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 2,
-      "status": "进行中",
+      "scoreB": 3,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO5",
       "category": "cn_extended"
@@ -40300,6 +40300,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-20T15:29:52.743Z",
+  "lastUpdated": "2026-06-20T17:17:38.624Z",
   "source": "PandaScore"
 }
