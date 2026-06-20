@@ -2101,27 +2101,6 @@
       "category": "primary"
     },
     {
-      "id": "1155420",
-      "startTime": "2025-05-03T07:15:12Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Team WE",
-        "shortName": "WE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
-      },
-      "teamB": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1163879",
       "startTime": "2025-05-03T08:05:25Z",
       "region": "VCT PAC",
@@ -39881,7 +39860,7 @@
     },
     {
       "id": "1510145",
-      "startTime": "2026-06-20T13:00:00Z",
+      "startTime": "2026-06-20T13:08:43Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "EDward Gaming",
@@ -39894,8 +39873,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO5",
       "category": "cn_extended"
@@ -40321,6 +40300,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-20T11:10:21.546Z",
+  "lastUpdated": "2026-06-20T13:43:35.745Z",
   "source": "PandaScore"
 }
