@@ -2122,27 +2122,6 @@
       "category": "primary"
     },
     {
-      "id": "1146506",
-      "startTime": "2025-05-03T08:21:55Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
-      },
-      "teamB": {
-        "name": "BNK FEARX",
-        "shortName": "BFX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/bnk_fear_xlogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1162455",
       "startTime": "2025-05-03T09:08:10Z",
       "region": "VCT CN",
@@ -40300,6 +40279,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-21T12:06:45.241Z",
+  "lastUpdated": "2026-06-21T15:08:10.938Z",
   "source": "PandaScore"
 }
