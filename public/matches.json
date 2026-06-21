@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1128116",
-      "startTime": "2025-03-18T16:23:32Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "G2 Gozen",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
-      },
-      "teamB": {
-        "name": "GIANTX GC",
-        "shortName": "GX GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
-      },
-      "scoreA": 1,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1128117",
       "startTime": "2025-03-19T16:11:55Z",
       "region": "VCT EMEA",
@@ -40279,6 +40258,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-21T17:21:28.337Z",
+  "lastUpdated": "2026-06-21T19:18:53.918Z",
   "source": "PandaScore"
 }
