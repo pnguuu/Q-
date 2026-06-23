@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1128117",
-      "startTime": "2025-03-19T16:11:55Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Karmine Corp GC",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
-      },
-      "teamB": {
-        "name": "GIANTX GC",
-        "shortName": "GX GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
-      },
-      "scoreA": 3,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1127052",
       "startTime": "2025-03-20T11:07:34Z",
       "region": "VCT CN",
@@ -40258,6 +40237,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-23T21:25:44.353Z",
+  "lastUpdated": "2026-06-23T23:01:42.071Z",
   "source": "PandaScore"
 }
