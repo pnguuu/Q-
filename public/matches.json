@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127053",
-      "startTime": "2025-03-21T11:06:16Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "teamB": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138006",
       "startTime": "2025-03-22T08:10:58Z",
       "region": "VCT PAC",
@@ -40216,6 +40195,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-25T19:48:04.098Z",
+  "lastUpdated": "2026-06-25T21:24:23.562Z",
   "source": "PandaScore"
 }
