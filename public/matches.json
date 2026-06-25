@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127052",
-      "startTime": "2025-03-20T11:07:34Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127053",
       "startTime": "2025-03-21T11:06:16Z",
       "region": "VCT CN",
@@ -40237,6 +40216,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-24T22:09:39.139Z",
+  "lastUpdated": "2026-06-25T00:01:22.348Z",
   "source": "PandaScore"
 }
