@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127054",
-      "startTime": "2025-03-22T09:06:48Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "XLG Gaming",
-        "shortName": "XLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
-      },
-      "teamB": {
-        "name": "All Gamers",
-        "shortName": "AG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138007",
       "startTime": "2025-03-22T10:45:20Z",
       "region": "VCT PAC",
@@ -40132,6 +40111,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-27T20:04:45.527Z",
+  "lastUpdated": "2026-06-27T21:56:44.564Z",
   "source": "PandaScore"
 }
