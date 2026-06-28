@@ -39695,14 +39695,14 @@
       "startTime": "2026-06-29T08:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
-      },
-      "teamB": {
         "name": "Deep Cross Gaming",
         "shortName": "DCG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130356/800px_deep_cross_gaming_lightmode.png"
+      },
+      "teamB": {
+        "name": "Team Liquid",
+        "shortName": "TL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -39754,6 +39754,27 @@
       "category": "international"
     },
     {
+      "id": "1561289",
+      "startTime": "2026-07-02T11:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "teamB": {
+        "name": "BBL Esports",
+        "shortName": "BBL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1524760",
       "startTime": "2026-07-03T03:00:00Z",
       "region": "LPL",
@@ -39794,6 +39815,27 @@
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
+    },
+    {
+      "id": "1561300",
+      "startTime": "2026-07-03T13:45:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Gentle Mates",
+        "shortName": "GM",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/gentle_mates_allmode.png"
+      },
+      "teamB": {
+        "name": "XLG Gaming",
+        "shortName": "XLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
     },
     {
       "id": "1524762",
@@ -40048,6 +40090,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-28T08:42:26.603Z",
+  "lastUpdated": "2026-06-28T11:01:07.607Z",
   "source": "PandaScore"
 }
