@@ -39650,7 +39650,7 @@
     },
     {
       "id": "1524755",
-      "startTime": "2026-06-28T03:00:00Z",
+      "startTime": "2026-06-28T03:12:04Z",
       "region": "LPL",
       "teamA": {
         "name": "T1",
@@ -39662,9 +39662,9 @@
         "shortName": "TL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
@@ -40069,6 +40069,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-28T00:03:19.756Z",
+  "lastUpdated": "2026-06-28T05:12:20.749Z",
   "source": "PandaScore"
 }
