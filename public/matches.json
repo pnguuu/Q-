@@ -1996,27 +1996,6 @@
       "category": "primary"
     },
     {
-      "id": "1148204",
-      "startTime": "2025-05-03T15:04:18Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
-      },
-      "teamB": {
-        "name": "BDS",
-        "shortName": "BDS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128267/team_bd_slogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1148206",
       "startTime": "2025-05-03T17:05:06Z",
       "region": "LEC",
@@ -39662,16 +39641,16 @@
         "shortName": "TL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
       },
-      "scoreA": 2,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
     },
     {
       "id": "1524754",
-      "startTime": "2026-06-28T08:00:00Z",
+      "startTime": "2026-06-28T05:56:39Z",
       "region": "LPL",
       "teamA": {
         "name": "Karmine Corp",
@@ -39683,9 +39662,9 @@
         "shortName": "DCG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130356/800px_deep_cross_gaming_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
@@ -39695,14 +39674,14 @@
       "startTime": "2026-06-29T03:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -39716,14 +39695,14 @@
       "startTime": "2026-06-29T08:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Liquid",
+        "shortName": "TL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Deep Cross Gaming",
+        "shortName": "DCG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130356/800px_deep_cross_gaming_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40069,6 +40048,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-06-28T05:12:20.749Z",
+  "lastUpdated": "2026-06-28T08:42:26.603Z",
   "source": "PandaScore"
 }
