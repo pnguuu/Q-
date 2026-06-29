@@ -39863,14 +39863,14 @@
       "startTime": "2026-07-04T08:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -40720,6 +40720,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-06-29T14:43:20.044Z",
+  "lastUpdated": "2026-06-29T17:29:56.006Z",
   "source": "PandaScore"
 }
