@@ -1996,27 +1996,6 @@
       "category": "primary"
     },
     {
-      "id": "1146510",
-      "startTime": "2025-05-04T06:01:05Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "teamB": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1163877",
       "startTime": "2025-05-04T08:05:38Z",
       "region": "VCT PAC",
@@ -2034,27 +2013,6 @@
       "scoreB": 0,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1146512",
-      "startTime": "2025-05-04T08:15:44Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "teamB": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -2077,27 +2035,6 @@
       "status": "已结束",
       "league": "VCT",
       "format": "BO5",
-      "category": "primary"
-    },
-    {
-      "id": "1155423",
-      "startTime": "2025-05-04T09:15:38Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ultra Prime",
-        "shortName": "UP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
-      },
-      "teamB": {
-        "name": "Oh My God",
-        "shortName": "OMG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
       "category": "primary"
     },
     {
@@ -41665,6 +41602,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-06-30T16:17:41.570Z",
+  "lastUpdated": "2026-06-30T18:30:37.875Z",
   "source": "PandaScore"
 }
