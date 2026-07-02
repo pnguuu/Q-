@@ -1,69 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138008",
-      "startTime": "2025-03-23T08:05:01Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
-      },
-      "teamB": {
-        "name": "Paper Rex",
-        "shortName": "PR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1127056",
-      "startTime": "2025-03-23T09:06:42Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "TEC Esports",
-        "shortName": "TEC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
-      },
-      "teamB": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1138009",
-      "startTime": "2025-03-23T11:09:32Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Talon Esports",
-        "shortName": "TLN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132132/600px_t1_allmode.png"
-      },
-      "teamB": {
-        "name": "Team Secret",
-        "shortName": "TS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129537/600px_team_secret.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127057",
       "startTime": "2025-03-23T12:12:30Z",
       "region": "VCT CN",
@@ -39737,14 +39674,14 @@
       "startTime": "2026-07-04T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
+        "name": "Rex Regum Qeon",
+        "shortName": "RRQ",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
+      },
+      "teamB": {
         "name": "EDward Gaming",
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41539,6 +41476,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-02T15:07:57.821Z",
+  "lastUpdated": "2026-07-02T17:32:28.653Z",
   "source": "PandaScore"
 }
