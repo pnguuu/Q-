@@ -39608,7 +39608,7 @@
     },
     {
       "id": "1561289",
-      "startTime": "2026-07-02T11:00:00Z",
+      "startTime": "2026-07-02T11:42:38Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "EDward Gaming",
@@ -39622,7 +39622,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "cn_extended"
@@ -41518,6 +41518,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-02T09:54:26.250Z",
+  "lastUpdated": "2026-07-02T12:04:20.029Z",
   "source": "PandaScore"
 }
