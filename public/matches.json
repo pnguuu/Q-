@@ -1975,27 +1975,6 @@
       "category": "primary"
     },
     {
-      "id": "1148210",
-      "startTime": "2025-05-05T16:39:43Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Movistar KOI",
-        "shortName": "MKOI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
-      },
-      "teamB": {
-        "name": "SK Gaming",
-        "shortName": "SK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1155427",
       "startTime": "2025-05-06T09:13:44Z",
       "region": "LPL",
@@ -42232,6 +42211,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-02T22:03:44.971Z",
+  "lastUpdated": "2026-07-02T23:57:41.153Z",
   "source": "PandaScore"
 }
