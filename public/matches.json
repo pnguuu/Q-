@@ -39515,9 +39515,9 @@
         "shortName": "XLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "cn_extended"
@@ -39626,6 +39626,27 @@
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
+    },
+    {
+      "id": "1561302",
+      "startTime": "2026-07-05T13:45:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "XLG Gaming",
+        "shortName": "XLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+      },
+      "teamB": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
     },
     {
       "id": "1541771",
@@ -42211,6 +42232,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-03T15:04:00.468Z",
+  "lastUpdated": "2026-07-03T17:15:53.222Z",
   "source": "PandaScore"
 }
