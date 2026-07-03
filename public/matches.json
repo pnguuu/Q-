@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138011",
-      "startTime": "2025-03-24T10:48:26Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Nongshim RedForce",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "Rex Regum Qeon",
-        "shortName": "RRQ",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139906",
       "startTime": "2025-03-26T16:05:42Z",
       "region": "VCT EMEA",
@@ -42211,6 +42190,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-03T21:59:17.335Z",
+  "lastUpdated": "2026-07-03T23:06:16.564Z",
   "source": "PandaScore"
 }
