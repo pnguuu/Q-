@@ -39494,8 +39494,8 @@
         "shortName": "TES",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 1,
+      "scoreA": 2,
+      "scoreB": 2,
       "status": "进行中",
       "league": "Mid-Season Invitational",
       "format": "BO5",
@@ -42211,6 +42211,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-03T06:23:36.364Z",
+  "lastUpdated": "2026-07-03T09:51:27.435Z",
   "source": "PandaScore"
 }
