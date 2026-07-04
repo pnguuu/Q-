@@ -39586,29 +39586,8 @@
       "category": "cn_extended"
     },
     {
-      "id": "1541771",
-      "startTime": "2026-07-06T03:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "teamB": {
-        "name": "LYON",
-        "shortName": "LY",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "Mid-Season Invitational",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
       "id": "1541775",
-      "startTime": "2026-07-06T08:00:00Z",
+      "startTime": "2026-07-06T03:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "T1",
@@ -39628,6 +39607,27 @@
       "category": "international"
     },
     {
+      "id": "1541771",
+      "startTime": "2026-07-06T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "teamB": {
+        "name": "LYON",
+        "shortName": "LY",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
       "id": "1561293",
       "startTime": "2026-07-06T11:00:00Z",
       "region": "VCT PAC",
@@ -39637,9 +39637,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "BBL Esports",
+        "shortName": "BBL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42190,6 +42190,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-04T13:05:09.628Z",
+  "lastUpdated": "2026-07-04T14:59:21.246Z",
   "source": "PandaScore"
 }
