@@ -39516,8 +39516,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "cn_extended"
@@ -39626,6 +39626,27 @@
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
+    },
+    {
+      "id": "1561293",
+      "startTime": "2026-07-06T11:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "cn_extended"
     },
     {
       "id": "1541776",
@@ -42169,6 +42190,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-04T11:19:58.130Z",
+  "lastUpdated": "2026-07-04T13:05:09.628Z",
   "source": "PandaScore"
 }
