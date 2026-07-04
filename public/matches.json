@@ -39775,6 +39775,258 @@
       "category": "international"
     },
     {
+      "id": "1572108",
+      "startTime": "2026-07-15T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
+      },
+      "teamB": {
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572107",
+      "startTime": "2026-07-15T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Team Secret ",
+        "shortName": "TS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/127030/220px_team_secret__vietnamese_team_logo_square.png"
+      },
+      "teamB": {
+        "name": "Sentinels",
+        "shortName": "SEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137683/600px_sentinels_2020_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572113",
+      "startTime": "2026-07-15T10:10:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+      },
+      "teamB": {
+        "name": "GAM Esports",
+        "shortName": "GAM",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/124414/Adonis_Marineslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572112",
+      "startTime": "2026-07-15T10:10:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "teamB": {
+        "name": "Movistar KOI",
+        "shortName": "MKOI",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572103",
+      "startTime": "2026-07-15T11:20:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "AG.AL",
+        "shortName": "AG.AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137193/ag.a_llogo_square.png"
+      },
+      "teamB": {
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572102",
+      "startTime": "2026-07-15T11:20:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "teamB": {
+        "name": "FURIA Esports",
+        "shortName": "FUR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126688/220px_furia_uppercutlogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572118",
+      "startTime": "2026-07-15T12:30:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "LYON",
+        "shortName": "LY",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+      },
+      "teamB": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572117",
+      "startTime": "2026-07-15T12:30:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+      },
+      "teamB": {
+        "name": "MIBR.LOS",
+        "shortName": "MILO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/138896/ezgif_54ad665c6720df10.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572115",
+      "startTime": "2026-07-15T13:40:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
+      "id": "1572110",
+      "startTime": "2026-07-15T13:40:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
+      "id": "1572120",
+      "startTime": "2026-07-15T16:10:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
+      "id": "1572105",
+      "startTime": "2026-07-15T16:10:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
       "id": "1561465",
       "startTime": "2026-07-16T08:00:00Z",
       "region": "VCT PAC",
@@ -39794,6 +40046,174 @@
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
+    },
+    {
+      "id": "1572119",
+      "startTime": "2026-07-16T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572114",
+      "startTime": "2026-07-16T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572109",
+      "startTime": "2026-07-16T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572104",
+      "startTime": "2026-07-16T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572121",
+      "startTime": "2026-07-16T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
+      "id": "1572116",
+      "startTime": "2026-07-16T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
+      "id": "1572111",
+      "startTime": "2026-07-16T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
+      "id": "1572106",
+      "startTime": "2026-07-16T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
     },
     {
       "id": "1561466",
@@ -39838,6 +40258,48 @@
       "category": "primary"
     },
     {
+      "id": "1572123",
+      "startTime": "2026-07-17T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
+      "id": "1572122",
+      "startTime": "2026-07-17T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
       "id": "1561468",
       "startTime": "2026-07-17T11:00:00Z",
       "region": "VCT PAC",
@@ -39857,6 +40319,48 @@
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
+    },
+    {
+      "id": "1572125",
+      "startTime": "2026-07-17T13:30:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
+      "id": "1572124",
+      "startTime": "2026-07-17T13:30:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
     },
     {
       "id": "1561469",
@@ -39880,6 +40384,27 @@
       "category": "primary"
     },
     {
+      "id": "1572126",
+      "startTime": "2026-07-18T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
       "id": "1561470",
       "startTime": "2026-07-18T11:00:00Z",
       "region": "VCT PAC",
@@ -39899,6 +40424,27 @@
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
+    },
+    {
+      "id": "1572127",
+      "startTime": "2026-07-18T13:30:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
     },
     {
       "id": "1561471",
@@ -39922,6 +40468,27 @@
       "category": "primary"
     },
     {
+      "id": "1572128",
+      "startTime": "2026-07-19T10:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO3",
+      "category": "international"
+    },
+    {
       "id": "1561472",
       "startTime": "2026-07-19T11:00:00Z",
       "region": "VCT PAC",
@@ -39941,6 +40508,27 @@
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
+    },
+    {
+      "id": "1572129",
+      "startTime": "2026-07-19T12:30:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Esports World Cup",
+      "format": "BO5",
+      "category": "international"
     },
     {
       "id": "1561473",
@@ -42190,6 +42778,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-04T14:59:21.246Z",
+  "lastUpdated": "2026-07-04T16:04:24.843Z",
   "source": "PandaScore"
 }
