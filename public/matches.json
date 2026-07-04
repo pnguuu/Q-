@@ -1933,27 +1933,6 @@
       "category": "primary"
     },
     {
-      "id": "1155428",
-      "startTime": "2025-05-06T12:46:16Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1146514",
       "startTime": "2025-05-07T07:58:55Z",
       "region": "LCK",
@@ -42778,6 +42757,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-04T22:50:34.677Z",
+  "lastUpdated": "2026-07-04T23:55:17.818Z",
   "source": "PandaScore"
 }
