@@ -39524,7 +39524,7 @@
     },
     {
       "id": "1541770",
-      "startTime": "2026-07-05T07:00:00Z",
+      "startTime": "2026-07-05T06:45:40Z",
       "region": "LPL",
       "teamA": {
         "name": "Hanwha Life Esports",
@@ -39536,9 +39536,9 @@
         "shortName": "G2",
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
-      "scoreA": 0,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
@@ -39653,9 +39653,9 @@
       "startTime": "2026-07-08T08:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "teamB": {
         "name": "TBD",
@@ -39674,9 +39674,9 @@
       "startTime": "2026-07-09T08:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42757,6 +42757,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-05T06:32:52.376Z",
+  "lastUpdated": "2026-07-05T09:36:25.291Z",
   "source": "PandaScore"
 }
