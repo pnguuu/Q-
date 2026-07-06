@@ -39599,16 +39599,16 @@
         "shortName": "FUR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126688/220px_furia_uppercutlogo_square.png"
       },
-      "scoreA": 2,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
     },
     {
       "id": "1561293",
-      "startTime": "2026-07-06T11:00:00Z",
+      "startTime": "2026-07-06T11:11:21Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "EDward Gaming",
@@ -39621,36 +39621,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "cn_extended"
     },
     {
-      "id": "1541777",
-      "startTime": "2026-07-08T03:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "Mid-Season Invitational",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
       "id": "1541776",
-      "startTime": "2026-07-08T08:00:00Z",
+      "startTime": "2026-07-08T03:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "LYON",
@@ -39661,6 +39640,27 @@
         "name": "Team Secret Whales",
         "shortName": "TSW",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136073/1200px_secret_whales_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Mid-Season Invitational",
+      "format": "BO5",
+      "category": "international"
+    },
+    {
+      "id": "1541777",
+      "startTime": "2026-07-08T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "teamB": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42757,6 +42757,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-06T08:12:43.702Z",
+  "lastUpdated": "2026-07-06T12:38:59.485Z",
   "source": "PandaScore"
 }
