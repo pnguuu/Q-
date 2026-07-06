@@ -39566,7 +39566,7 @@
     },
     {
       "id": "1541771",
-      "startTime": "2026-07-06T03:00:00Z",
+      "startTime": "2026-07-06T03:05:55Z",
       "region": "LPL",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -39578,9 +39578,9 @@
         "shortName": "LY",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
@@ -42757,6 +42757,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-05T23:59:43.200Z",
+  "lastUpdated": "2026-07-06T03:49:36.312Z",
   "source": "PandaScore"
 }
