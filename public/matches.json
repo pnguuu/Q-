@@ -1933,27 +1933,6 @@
       "category": "primary"
     },
     {
-      "id": "1146514",
-      "startTime": "2025-05-07T07:58:55Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "BNK FEARX",
-        "shortName": "BFX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/fear_xlogo_profile.png"
-      },
-      "teamB": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1155429",
       "startTime": "2025-05-07T09:20:25Z",
       "region": "LPL",
@@ -42757,6 +42736,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-07T20:46:54.229Z",
+  "lastUpdated": "2026-07-07T22:06:35.577Z",
   "source": "PandaScore"
 }
