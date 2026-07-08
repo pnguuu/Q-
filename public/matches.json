@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1139906",
-      "startTime": "2025-03-26T16:05:42Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Team Vitality",
-        "shortName": "VIT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
-      },
-      "teamB": {
-        "name": "GIANTX",
-        "shortName": "GX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139924",
       "startTime": "2025-03-26T18:19:27Z",
       "region": "VCT EMEA",
@@ -42715,6 +42694,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-08T12:15:59.993Z",
+  "lastUpdated": "2026-07-08T15:11:50.200Z",
   "source": "PandaScore"
 }
