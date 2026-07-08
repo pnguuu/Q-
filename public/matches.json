@@ -1933,27 +1933,6 @@
       "category": "primary"
     },
     {
-      "id": "1155429",
-      "startTime": "2025-05-07T09:20:25Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "teamB": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1146515",
       "startTime": "2025-05-07T10:55:34Z",
       "region": "LCK",
@@ -39641,9 +39620,9 @@
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 3,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
@@ -39679,9 +39658,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42736,6 +42715,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-08T08:11:35.921Z",
+  "lastUpdated": "2026-07-08T10:55:58.100Z",
   "source": "PandaScore"
 }
