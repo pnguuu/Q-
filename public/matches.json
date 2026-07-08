@@ -39620,16 +39620,16 @@
         "shortName": "TSW",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136073/1200px_secret_whales_lightmode.png"
       },
-      "scoreA": 2,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
     },
     {
       "id": "1541777",
-      "startTime": "2026-07-08T08:00:00Z",
+      "startTime": "2026-07-08T05:46:25Z",
       "region": "LPL",
       "teamA": {
         "name": "G2 Esports",
@@ -39641,9 +39641,9 @@
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Mid-Season Invitational",
       "format": "BO5",
       "category": "international"
@@ -39674,9 +39674,9 @@
       "startTime": "2026-07-10T08:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "LYON",
+        "shortName": "LY",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42736,6 +42736,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-08T05:14:39.536Z",
+  "lastUpdated": "2026-07-08T08:11:35.921Z",
   "source": "PandaScore"
 }
