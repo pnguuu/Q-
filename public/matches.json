@@ -39653,14 +39653,14 @@
       "startTime": "2026-07-10T08:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "LYON",
-        "shortName": "LY",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
-      },
-      "teamB": {
         "name": "G2 Esports",
         "shortName": "G2",
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "teamB": {
+        "name": "LYON",
+        "shortName": "LY",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42715,6 +42715,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-08T10:55:58.100Z",
+  "lastUpdated": "2026-07-08T12:15:59.993Z",
   "source": "PandaScore"
 }
