@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127058",
-      "startTime": "2025-03-27T11:06:33Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Trace Esports",
-        "shortName": "TE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139907",
       "startTime": "2025-03-27T16:04:18Z",
       "region": "VCT EMEA",
@@ -43261,6 +43240,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-09T17:14:00.160Z",
+  "lastUpdated": "2026-07-09T19:25:37.321Z",
   "source": "PandaScore"
 }
