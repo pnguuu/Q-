@@ -1912,48 +1912,6 @@
       "category": "cn_extended"
     },
     {
-      "id": "1155431",
-      "startTime": "2025-05-08T09:20:44Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "teamB": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1146517",
-      "startTime": "2025-05-08T10:11:03Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Nongshim Red Force",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1174897",
       "startTime": "2025-05-08T10:23:14Z",
       "region": "VCT CN",
@@ -43198,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-09T23:04:26.257Z",
+  "lastUpdated": "2026-07-10T02:07:49.846Z",
   "source": "PandaScore"
 }
