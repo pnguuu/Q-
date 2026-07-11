@@ -39453,7 +39453,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 2,
       "status": "进行中",
       "league": "Mid-Season Invitational",
       "format": "BO5",
@@ -43114,6 +43114,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-11T09:19:37.607Z",
+  "lastUpdated": "2026-07-11T10:57:07.644Z",
   "source": "PandaScore"
 }
