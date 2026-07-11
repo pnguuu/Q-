@@ -39452,7 +39452,7 @@
         "shortName": "LY",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 2,
       "status": "进行中",
       "league": "Mid-Season Invitational",
@@ -43114,6 +43114,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-11T10:57:07.644Z",
+  "lastUpdated": "2026-07-11T11:49:36.462Z",
   "source": "PandaScore"
 }
