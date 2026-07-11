@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1139927",
-      "startTime": "2025-03-28T18:28:44Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Gentle Mates",
-        "shortName": "M8",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138012",
       "startTime": "2025-03-29T08:05:12Z",
       "region": "VCT PAC",
@@ -43072,6 +43051,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-11T16:45:08.426Z",
+  "lastUpdated": "2026-07-11T17:47:14.790Z",
   "source": "PandaScore"
 }
