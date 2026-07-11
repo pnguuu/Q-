@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127059",
-      "startTime": "2025-03-28T11:06:32Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Wolves Esports",
-        "shortName": "WOL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
-      },
-      "teamB": {
-        "name": "XLG Gaming",
-        "shortName": "XLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1139908",
-      "startTime": "2025-03-28T16:07:37Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
-      },
-      "teamB": {
-        "name": "Natus Vincere",
-        "shortName": "NAVI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139927",
       "startTime": "2025-03-28T18:28:44Z",
       "region": "VCT EMEA",
@@ -43114,6 +43072,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-11T12:59:53.259Z",
+  "lastUpdated": "2026-07-11T14:23:34.593Z",
   "source": "PandaScore"
 }
