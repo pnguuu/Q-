@@ -39410,8 +39410,8 @@
         "shortName": "HLE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 2,
+      "scoreB": 1,
       "status": "进行中",
       "league": "Mid-Season Invitational",
       "format": "BO5",
@@ -43051,6 +43051,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-12T08:03:33.934Z",
+  "lastUpdated": "2026-07-12T10:19:41.248Z",
   "source": "PandaScore"
 }
