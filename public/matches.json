@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127061",
-      "startTime": "2025-03-29T12:27:38Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138015",
       "startTime": "2025-03-30T08:12:18Z",
       "region": "VCT PAC",
@@ -44416,6 +44395,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-14T09:49:03.444Z",
+  "lastUpdated": "2026-07-14T11:19:51.597Z",
   "source": "PandaScore"
 }
