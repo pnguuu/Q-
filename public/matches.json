@@ -39251,7 +39251,7 @@
     },
     {
       "id": "1572108",
-      "startTime": "2026-07-15T09:00:00Z",
+      "startTime": "2026-07-15T09:36:20Z",
       "region": "LPL",
       "teamA": {
         "name": "Gen.G",
@@ -39265,14 +39265,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO1",
       "category": "international"
     },
     {
       "id": "1572107",
-      "startTime": "2026-07-15T09:00:00Z",
+      "startTime": "2026-07-15T09:46:26Z",
       "region": "LPL",
       "teamA": {
         "name": "Team Secret ",
@@ -39286,7 +39286,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO1",
       "category": "international"
@@ -39314,7 +39314,7 @@
     },
     {
       "id": "1572112",
-      "startTime": "2026-07-15T10:10:00Z",
+      "startTime": "2026-07-15T10:25:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -45256,6 +45256,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-15T07:08:23.289Z",
+  "lastUpdated": "2026-07-15T09:53:05.152Z",
   "source": "PandaScore"
 }
