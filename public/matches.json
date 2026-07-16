@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138016",
-      "startTime": "2025-03-30T10:54:38Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
-      },
-      "teamB": {
-        "name": "DetonatioN FocusMe",
-        "shortName": "DFM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127064",
       "startTime": "2025-03-30T11:34:00Z",
       "region": "VCT CN",
@@ -2078,27 +2057,6 @@
       "league": "China Evolution Series",
       "format": "BO5",
       "category": "cn_extended"
-    },
-    {
-      "id": "1155444",
-      "startTime": "2025-05-11T10:23:15Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "teamB": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
     },
     {
       "id": "1155445",
@@ -39537,8 +39495,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -45004,6 +44962,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-16T18:58:51.248Z",
+  "lastUpdated": "2026-07-16T20:03:08.504Z",
   "source": "PandaScore"
 }
