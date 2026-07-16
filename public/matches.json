@@ -2017,27 +2017,6 @@
       "category": "cn_extended"
     },
     {
-      "id": "1155440",
-      "startTime": "2025-05-10T10:18:37Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1174904",
       "startTime": "2025-05-10T11:14:00Z",
       "region": "VCT CN",
@@ -39482,7 +39461,7 @@
     },
     {
       "id": "1561465",
-      "startTime": "2026-07-16T08:00:00Z",
+      "startTime": "2026-07-16T08:08:27Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Gen.G Esports",
@@ -39494,37 +39473,16 @@
         "shortName": "ZETA",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1572114",
-      "startTime": "2026-07-16T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "teamB": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "Esports World Cup",
-      "format": "BO1",
-      "category": "international"
-    },
-    {
       "id": "1572109",
-      "startTime": "2026-07-16T09:00:00Z",
+      "startTime": "2026-07-16T09:03:28Z",
       "region": "LPL",
       "teamA": {
         "name": "Sentinels",
@@ -39537,8 +39495,29 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
       "scoreA": 0,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "Esports World Cup",
+      "format": "BO1",
+      "category": "international"
+    },
+    {
+      "id": "1572114",
+      "startTime": "2026-07-16T09:09:47Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "teamB": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+      },
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO1",
       "category": "international"
@@ -39616,9 +39595,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/124414/Adonis_Marineslogo_square.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -39637,9 +39616,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Sentinels",
+        "shortName": "SEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137683/600px_sentinels_2020_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -45193,6 +45172,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-16T07:18:11.545Z",
+  "lastUpdated": "2026-07-16T09:59:59.285Z",
   "source": "PandaScore"
 }
