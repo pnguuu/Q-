@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138015",
-      "startTime": "2025-03-30T08:12:18Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Gen.G Esports",
-        "shortName": "Gen.G",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128473/699px_gen.g_esports_2026_allmode.png"
-      },
-      "teamB": {
-        "name": "Paper Rex",
-        "shortName": "PR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127062",
       "startTime": "2025-03-30T09:06:46Z",
       "region": "VCT CN",
@@ -2036,27 +2015,6 @@
       "league": "China Evolution Series",
       "format": "BO3",
       "category": "cn_extended"
-    },
-    {
-      "id": "1148212",
-      "startTime": "2025-05-10T15:05:34Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "teamB": {
-        "name": "SK Gaming",
-        "shortName": "SK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
     },
     {
       "id": "1163887",
@@ -39579,8 +39537,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39620,16 +39578,16 @@
         "shortName": "MILO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/138896/ezgif_54ad665c6720df10.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "international"
     },
     {
       "id": "1572106",
-      "startTime": "2026-07-16T13:50:00Z",
+      "startTime": "2026-07-16T13:40:08Z",
       "region": "LPL",
       "teamA": {
         "name": "G2 Esports",
@@ -39642,15 +39600,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "international"
     },
     {
       "id": "1579650",
-      "startTime": "2026-07-16T15:00:00Z",
+      "startTime": "2026-07-16T15:05:27Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Fnatic",
@@ -39664,7 +39622,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -45151,6 +45109,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-16T13:24:49.586Z",
+  "lastUpdated": "2026-07-16T15:28:01.859Z",
   "source": "PandaScore"
 }
