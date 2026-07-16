@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127062",
-      "startTime": "2025-03-30T09:06:46Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "teamB": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138016",
       "startTime": "2025-03-30T10:54:38Z",
       "region": "VCT PAC",
@@ -2059,27 +2038,6 @@
       "category": "primary"
     },
     {
-      "id": "1155443",
-      "startTime": "2025-05-11T07:18:36Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ultra Prime",
-        "shortName": "UP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
-      },
-      "teamB": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1163874",
       "startTime": "2025-05-11T08:12:22Z",
       "region": "VCT PAC",
@@ -2120,27 +2078,6 @@
       "league": "China Evolution Series",
       "format": "BO5",
       "category": "cn_extended"
-    },
-    {
-      "id": "1146525",
-      "startTime": "2025-05-11T09:14:49Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "teamB": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
     },
     {
       "id": "1155444",
@@ -39578,16 +39515,16 @@
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1579629",
-      "startTime": "2026-07-16T18:00:00Z",
+      "startTime": "2026-07-16T17:36:22Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Pcific Esports",
@@ -39599,9 +39536,9 @@
         "shortName": "M8",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -45067,6 +45004,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-16T17:06:33.023Z",
+  "lastUpdated": "2026-07-16T18:58:51.248Z",
   "source": "PandaScore"
 }
