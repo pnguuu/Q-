@@ -2059,27 +2059,6 @@
       "category": "primary"
     },
     {
-      "id": "1148222",
-      "startTime": "2025-05-11T17:17:12Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Karmine Corp",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
-      },
-      "teamB": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1163895",
       "startTime": "2025-05-11T18:51:06Z",
       "region": "VCT EMEA",
@@ -39537,8 +39516,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "international"
@@ -39566,7 +39545,7 @@
     },
     {
       "id": "1579651",
-      "startTime": "2026-07-17T15:00:00Z",
+      "startTime": "2026-07-17T15:07:07Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Karmine Corp",
@@ -39578,9 +39557,9 @@
         "shortName": "EF",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39679,9 +39658,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -44899,6 +44878,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-17T15:07:34.390Z",
+  "lastUpdated": "2026-07-17T17:03:19.185Z",
   "source": "PandaScore"
 }
