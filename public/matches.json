@@ -39494,16 +39494,16 @@
         "shortName": "NS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1572124",
-      "startTime": "2026-07-17T11:00:00Z",
+      "startTime": "2026-07-17T11:03:14Z",
       "region": "LPL",
       "teamA": {
         "name": "Gen.G",
@@ -39517,14 +39517,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "international"
     },
     {
       "id": "1572122",
-      "startTime": "2026-07-17T11:00:00Z",
+      "startTime": "2026-07-17T11:06:37Z",
       "region": "LPL",
       "teamA": {
         "name": "Hanwha Life Esports",
@@ -39538,14 +39538,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "international"
     },
     {
       "id": "1561468",
-      "startTime": "2026-07-17T11:00:00Z",
+      "startTime": "2026-07-17T11:06:37Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -39559,7 +39559,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44941,6 +44941,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-17T09:49:23.902Z",
+  "lastUpdated": "2026-07-17T11:16:14.501Z",
   "source": "PandaScore"
 }
