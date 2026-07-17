@@ -39502,18 +39502,18 @@
       "category": "primary"
     },
     {
-      "id": "1572123",
+      "id": "1572124",
       "startTime": "2026-07-17T11:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "AG.AL",
-        "shortName": "AG.AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137193/ag.a_llogo_square.png"
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
       "teamB": {
-        "name": "Karmine Corp",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -39586,18 +39586,18 @@
       "category": "international"
     },
     {
-      "id": "1572124",
+      "id": "1572123",
       "startTime": "2026-07-17T13:30:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
+        "name": "AG.AL",
+        "shortName": "AG.AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137193/ag.a_llogo_square.png"
       },
       "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -44941,6 +44941,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-17T01:55:40.099Z",
+  "lastUpdated": "2026-07-17T04:57:33.540Z",
   "source": "PandaScore"
 }
