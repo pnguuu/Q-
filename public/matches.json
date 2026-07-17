@@ -39482,7 +39482,7 @@
     },
     {
       "id": "1561467",
-      "startTime": "2026-07-17T08:00:00Z",
+      "startTime": "2026-07-17T08:05:37Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "FULL SENSE",
@@ -39494,9 +39494,9 @@
         "shortName": "NS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44941,6 +44941,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-17T07:14:31.566Z",
+  "lastUpdated": "2026-07-17T09:49:23.902Z",
   "source": "PandaScore"
 }
