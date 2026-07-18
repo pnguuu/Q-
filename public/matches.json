@@ -39524,7 +39524,7 @@
     },
     {
       "id": "1561469",
-      "startTime": "2026-07-18T08:00:00Z",
+      "startTime": "2026-07-18T08:05:21Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Rex Regum Qeon",
@@ -39538,7 +39538,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44815,6 +44815,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-18T06:54:53.388Z",
+  "lastUpdated": "2026-07-18T08:44:18.997Z",
   "source": "PandaScore"
 }
