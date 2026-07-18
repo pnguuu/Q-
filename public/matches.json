@@ -39579,8 +39579,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44752,6 +44752,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-18T18:51:36.604Z",
+  "lastUpdated": "2026-07-18T19:59:55.843Z",
   "source": "PandaScore"
 }
