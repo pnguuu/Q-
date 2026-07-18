@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138018",
-      "startTime": "2025-03-31T10:11:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "BOOM Esports",
-        "shortName": "BOOM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128744/600px_boom_esports_logo.png"
-      },
-      "teamB": {
-        "name": "Global Esports",
-        "shortName": "GE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139929",
       "startTime": "2025-04-02T15:05:17Z",
       "region": "VCT EMEA",
@@ -44836,6 +44815,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-18T01:45:45.995Z",
+  "lastUpdated": "2026-07-18T04:41:56.315Z",
   "source": "PandaScore"
 }
