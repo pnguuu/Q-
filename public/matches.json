@@ -39536,7 +39536,7 @@
         "shortName": "DK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "Esports World Cup",
@@ -39558,7 +39558,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -44752,6 +44752,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-18T15:46:41.579Z",
+  "lastUpdated": "2026-07-18T16:46:24.575Z",
   "source": "PandaScore"
 }
