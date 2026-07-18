@@ -39537,7 +39537,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO3",
@@ -39545,7 +39545,7 @@
     },
     {
       "id": "1579631",
-      "startTime": "2026-07-18T15:00:00Z",
+      "startTime": "2026-07-18T15:06:58Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates",
@@ -39559,7 +39559,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44752,6 +44752,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-18T14:17:54.014Z",
+  "lastUpdated": "2026-07-18T15:46:41.579Z",
   "source": "PandaScore"
 }
