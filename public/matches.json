@@ -2080,27 +2080,6 @@
       "category": "cn_extended"
     },
     {
-      "id": "1155446",
-      "startTime": "2025-05-12T09:15:01Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1155448",
       "startTime": "2025-05-12T11:27:27Z",
       "region": "LPL",
@@ -44857,6 +44836,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-17T23:44:40.403Z",
+  "lastUpdated": "2026-07-18T01:45:45.995Z",
   "source": "PandaScore"
 }
