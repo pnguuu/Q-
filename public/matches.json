@@ -2059,27 +2059,6 @@
       "category": "cn_extended"
     },
     {
-      "id": "1148224",
-      "startTime": "2025-05-12T15:01:41Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
-      },
-      "teamB": {
-        "name": "GIANTX",
-        "shortName": "GX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1148227",
       "startTime": "2025-05-12T16:47:12Z",
       "region": "LEC",
@@ -39536,8 +39515,8 @@
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -39558,7 +39537,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO3",
@@ -44794,6 +44773,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-18T11:46:19.613Z",
+  "lastUpdated": "2026-07-18T12:56:11.853Z",
   "source": "PandaScore"
 }
