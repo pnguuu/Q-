@@ -39537,8 +39537,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44815,6 +44815,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-18T08:44:18.997Z",
+  "lastUpdated": "2026-07-18T10:12:20.624Z",
   "source": "PandaScore"
 }
