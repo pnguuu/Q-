@@ -39566,7 +39566,7 @@
     },
     {
       "id": "1561471",
-      "startTime": "2026-07-19T08:00:00Z",
+      "startTime": "2026-07-19T08:05:23Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Nongshim RedForce",
@@ -39578,16 +39578,16 @@
         "shortName": "Gen.G",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128473/699px_gen.g_esports_2026_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1572128",
-      "startTime": "2026-07-19T10:00:00Z",
+      "startTime": "2026-07-19T10:06:53Z",
       "region": "LPL",
       "teamA": {
         "name": "T1",
@@ -39601,7 +39601,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO3",
       "category": "international"
@@ -44731,6 +44731,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-19T08:02:57.601Z",
+  "lastUpdated": "2026-07-19T10:20:54.089Z",
   "source": "PandaScore"
 }
