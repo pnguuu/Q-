@@ -39642,7 +39642,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -44689,6 +44689,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-19T16:47:59.875Z",
+  "lastUpdated": "2026-07-19T17:52:02.474Z",
   "source": "PandaScore"
 }
