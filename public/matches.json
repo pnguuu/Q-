@@ -39608,7 +39608,7 @@
     },
     {
       "id": "1572129",
-      "startTime": "2026-07-19T13:00:00Z",
+      "startTime": "2026-07-19T13:18:39Z",
       "region": "LPL",
       "teamA": {
         "name": "Karmine Corp",
@@ -39621,15 +39621,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "Esports World Cup",
       "format": "BO5",
       "category": "international"
     },
     {
       "id": "1579658",
-      "startTime": "2026-07-19T15:00:00Z",
+      "startTime": "2026-07-19T14:12:46Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX",
@@ -39643,14 +39643,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1579632",
-      "startTime": "2026-07-19T18:00:00Z",
+      "startTime": "2026-07-19T17:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Team Vitality",
@@ -44710,6 +44710,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-19T12:58:44.637Z",
+  "lastUpdated": "2026-07-19T14:23:43.262Z",
   "source": "PandaScore"
 }
