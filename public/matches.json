@@ -39565,29 +39565,8 @@
       "category": "primary"
     },
     {
-      "id": "1588032",
-      "startTime": "2026-07-20T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "SK Nebula",
-        "shortName": "SK.N",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "GIANTX GC",
-        "shortName": "GX GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1588031",
-      "startTime": "2026-07-20T15:00:00Z",
+      "startTime": "2026-07-20T15:04:25Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates GC",
@@ -39599,16 +39578,37 @@
         "shortName": "G2",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1588032",
+      "startTime": "2026-07-20T15:25:54Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "SK Nebula",
+        "shortName": "SK.N",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1588033",
-      "startTime": "2026-07-20T18:00:00Z",
+      "startTime": "2026-07-20T17:30:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Twisted Minds Orchid",
@@ -44605,6 +44605,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-20T15:03:55.366Z",
+  "lastUpdated": "2026-07-20T17:27:44.285Z",
   "source": "PandaScore"
 }
