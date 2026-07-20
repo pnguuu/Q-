@@ -39608,7 +39608,7 @@
     },
     {
       "id": "1588033",
-      "startTime": "2026-07-20T17:30:00Z",
+      "startTime": "2026-07-20T17:41:21Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Twisted Minds Orchid",
@@ -39622,7 +39622,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44605,6 +44605,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-20T17:27:44.285Z",
+  "lastUpdated": "2026-07-20T19:27:59.845Z",
   "source": "PandaScore"
 }
