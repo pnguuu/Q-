@@ -39515,9 +39515,9 @@
         "shortName": "BAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39536,16 +39536,16 @@
         "shortName": "HBS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/138941/habos_babos_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1588037",
-      "startTime": "2026-07-21T18:00:00Z",
+      "startTime": "2026-07-21T17:00:47Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "SK Nebula",
@@ -39558,15 +39558,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137995/621px_gentle_mates_2024_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1588036",
-      "startTime": "2026-07-21T18:00:00Z",
+      "startTime": "2026-07-21T18:15:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Twisted Minds Orchid",
@@ -44479,6 +44479,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-21T16:21:21.907Z",
+  "lastUpdated": "2026-07-21T18:11:27.197Z",
   "source": "PandaScore"
 }
