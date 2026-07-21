@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1139929",
-      "startTime": "2025-04-02T15:05:17Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "BBL Esports",
-        "shortName": "BBL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1139909",
-      "startTime": "2025-04-02T17:48:02Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Apeks",
-        "shortName": "APEKS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132560/1200px_apeks_2021_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Natus Vincere",
-        "shortName": "NAVI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127065",
       "startTime": "2025-04-03T11:06:59Z",
       "region": "VCT CN",
@@ -44605,6 +44563,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-20T23:50:41.214Z",
+  "lastUpdated": "2026-07-21T01:53:49.660Z",
   "source": "PandaScore"
 }
