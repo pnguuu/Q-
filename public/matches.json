@@ -39578,9 +39578,9 @@
         "shortName": "FKS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44479,6 +44479,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-21T20:15:41.398Z",
+  "lastUpdated": "2026-07-21T21:57:31.627Z",
   "source": "PandaScore"
 }
