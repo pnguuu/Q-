@@ -2059,27 +2059,6 @@
       "category": "international"
     },
     {
-      "id": "1146528",
-      "startTime": "2025-05-15T08:00:37Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "teamB": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1173746",
       "startTime": "2025-05-15T09:08:02Z",
       "region": "VCT PAC",
@@ -44563,6 +44542,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-21T08:11:13.937Z",
+  "lastUpdated": "2026-07-21T10:59:09.202Z",
   "source": "PandaScore"
 }
