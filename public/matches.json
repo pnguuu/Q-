@@ -39545,7 +39545,7 @@
     },
     {
       "id": "1585249",
-      "startTime": "2026-07-22T09:00:00Z",
+      "startTime": "2026-07-22T09:08:35Z",
       "region": "LPL",
       "teamA": {
         "name": "LGD Gaming",
@@ -39557,16 +39557,16 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1585250",
-      "startTime": "2026-07-22T11:00:00Z",
+      "startTime": "2026-07-22T11:25:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -44437,6 +44437,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-22T08:11:33.629Z",
+  "lastUpdated": "2026-07-22T11:00:13.002Z",
   "source": "PandaScore"
 }
