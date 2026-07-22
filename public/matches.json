@@ -39544,29 +39544,8 @@
       "category": "primary"
     },
     {
-      "id": "1588039",
-      "startTime": "2026-07-22T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "GIANTX GC",
-        "shortName": "GX GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
-      },
-      "teamB": {
-        "name": "FOKUS Sakura",
-        "shortName": "FKS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1588038",
-      "startTime": "2026-07-22T15:00:00Z",
+      "startTime": "2026-07-22T15:01:45Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "SK Nebula",
@@ -39578,16 +39557,37 @@
         "shortName": "BAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1588039",
+      "startTime": "2026-07-22T15:03:29Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 0,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1579633",
-      "startTime": "2026-07-22T15:00:00Z",
+      "startTime": "2026-07-22T15:05:26Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "FUT Esports",
@@ -39599,9 +39599,9 @@
         "shortName": "PCFIC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44395,6 +44395,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-22T14:58:52.730Z",
+  "lastUpdated": "2026-07-22T16:19:58.158Z",
   "source": "PandaScore"
 }
