@@ -39566,7 +39566,7 @@
     },
     {
       "id": "1585250",
-      "startTime": "2026-07-22T11:25:00Z",
+      "startTime": "2026-07-22T11:47:08Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -39580,7 +39580,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -44437,6 +44437,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-22T11:00:13.002Z",
+  "lastUpdated": "2026-07-22T12:27:45.288Z",
   "source": "PandaScore"
 }
