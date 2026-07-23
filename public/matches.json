@@ -39461,7 +39461,7 @@
     },
     {
       "id": "1561473",
-      "startTime": "2026-07-23T08:00:00Z",
+      "startTime": "2026-07-23T08:04:59Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Global Esports",
@@ -39475,7 +39475,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44185,6 +44185,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-23T05:30:00.600Z",
+  "lastUpdated": "2026-07-23T08:14:50.499Z",
   "source": "PandaScore"
 }
