@@ -39473,16 +39473,16 @@
         "shortName": "FS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1585251",
-      "startTime": "2026-07-23T09:00:00Z",
+      "startTime": "2026-07-23T09:07:42Z",
       "region": "LPL",
       "teamA": {
         "name": "JD Gaming",
@@ -39494,16 +39494,37 @@
         "shortName": "AL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1561474",
+      "startTime": "2026-07-23T10:04:51Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+      },
+      "teamB": {
+        "name": "VARREL",
+        "shortName": "VAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 1,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1585252",
-      "startTime": "2026-07-23T11:00:00Z",
+      "startTime": "2026-07-23T12:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -39519,27 +39540,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1561474",
-      "startTime": "2026-07-23T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
-      },
-      "teamB": {
-        "name": "VARREL",
-        "shortName": "VAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -44185,6 +44185,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-23T08:14:50.499Z",
+  "lastUpdated": "2026-07-23T11:02:16.547Z",
   "source": "PandaScore"
 }
