@@ -39557,9 +39557,9 @@
         "shortName": "HBS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/138941/habos_babos_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39578,7 +39578,7 @@
         "shortName": "FKS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -39600,8 +39600,50 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1588044",
+      "startTime": "2026-07-23T16:49:50Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "teamB": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
+      },
+      "scoreA": 0,
       "scoreB": 0,
       "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1579634",
+      "startTime": "2026-07-23T17:30:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates",
+        "shortName": "M8",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
+      },
+      "teamB": {
+        "name": "Natus Vincere",
+        "shortName": "NAVI",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39619,48 +39661,6 @@
         "name": "Twisted Minds Orchid",
         "shortName": "TMO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136929/800px_twisted_minds_2023_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1588044",
-      "startTime": "2026-07-23T18:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Karmine Corp GC",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
-      },
-      "teamB": {
-        "name": "ALTERNATE aTTaX Ruby",
-        "shortName": "AAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1579634",
-      "startTime": "2026-07-23T18:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Gentle Mates",
-        "shortName": "M8",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
-      },
-      "teamB": {
-        "name": "Natus Vincere",
-        "shortName": "NAVI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -44185,6 +44185,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-23T15:48:57.502Z",
+  "lastUpdated": "2026-07-23T17:11:38.583Z",
   "source": "PandaScore"
 }
