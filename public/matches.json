@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127067",
-      "startTime": "2025-04-05T09:06:29Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "All Gamers",
-        "shortName": "AG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
-      },
-      "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1138021",
-      "startTime": "2025-04-05T09:53:02Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Rex Regum Qeon",
-        "shortName": "RRQ",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
-      },
-      "teamB": {
-        "name": "ZETA DIVISION",
-        "shortName": "ZETA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127068",
       "startTime": "2025-04-05T11:36:23Z",
       "region": "VCT CN",
@@ -39558,15 +39516,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1585255",
-      "startTime": "2026-07-24T12:15:00Z",
+      "startTime": "2026-07-24T12:16:31Z",
       "region": "LPL",
       "teamA": {
         "name": "EDward Gaming",
@@ -39578,16 +39536,16 @@
         "shortName": "BLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1564638",
-      "startTime": "2026-07-24T14:00:00Z",
+      "startTime": "2026-07-24T14:41:01Z",
       "region": "LEC",
       "teamA": {
         "name": "G2 Esports",
@@ -39601,7 +39559,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43996,6 +43954,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-24T12:14:18.877Z",
+  "lastUpdated": "2026-07-24T14:47:11.236Z",
   "source": "PandaScore"
 }
