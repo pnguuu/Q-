@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138019",
-      "startTime": "2025-04-05T08:05:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Gen.G Esports",
-        "shortName": "Gen.G",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128473/699px_gen.g_esports_2026_allmode.png"
-      },
-      "teamB": {
-        "name": "DetonatioN FocusMe",
-        "shortName": "DFM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127067",
       "startTime": "2025-04-05T09:06:29Z",
       "region": "VCT CN",
@@ -2119,27 +2098,6 @@
       "status": "已结束",
       "league": "VCT",
       "format": "BO5",
-      "category": "primary"
-    },
-    {
-      "id": "1155466",
-      "startTime": "2025-05-20T11:48:52Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
       "category": "primary"
     },
     {
@@ -39578,9 +39536,9 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39600,7 +39558,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -39608,7 +39566,7 @@
     },
     {
       "id": "1585255",
-      "startTime": "2026-07-24T11:15:00Z",
+      "startTime": "2026-07-24T12:15:00Z",
       "region": "LPL",
       "teamA": {
         "name": "EDward Gaming",
@@ -44038,6 +43996,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-24T10:55:43.367Z",
+  "lastUpdated": "2026-07-24T12:14:18.877Z",
   "source": "PandaScore"
 }
