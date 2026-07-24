@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127068",
-      "startTime": "2025-04-05T11:36:23Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "TEC Esports",
-        "shortName": "TEC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138022",
       "startTime": "2025-04-06T08:05:14Z",
       "region": "VCT PAC",
@@ -39557,9 +39536,9 @@
         "shortName": "MKOI",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -39578,16 +39557,16 @@
         "shortName": "BBL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1564639",
-      "startTime": "2026-07-24T17:00:00Z",
+      "startTime": "2026-07-24T17:58:51Z",
       "region": "LEC",
       "teamA": {
         "name": "Team Vitality",
@@ -39601,14 +39580,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1579668",
-      "startTime": "2026-07-24T18:00:00Z",
+      "startTime": "2026-07-24T18:30:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Team Liquid",
@@ -43954,6 +43933,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-24T16:36:01.725Z",
+  "lastUpdated": "2026-07-24T18:12:49.243Z",
   "source": "PandaScore"
 }
