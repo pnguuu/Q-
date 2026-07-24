@@ -39579,15 +39579,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1579668",
-      "startTime": "2026-07-24T18:30:00Z",
+      "startTime": "2026-07-24T18:21:51Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Team Liquid",
@@ -39599,9 +39599,9 @@
         "shortName": "FNC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43933,6 +43933,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-24T18:12:49.243Z",
+  "lastUpdated": "2026-07-24T20:12:40.040Z",
   "source": "PandaScore"
 }
