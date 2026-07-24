@@ -39536,9 +39536,9 @@
         "shortName": "LGD",
         "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39558,15 +39558,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1585254",
-      "startTime": "2026-07-24T09:00:00Z",
+      "startTime": "2026-07-24T09:14:24Z",
       "region": "LPL",
       "teamA": {
         "name": "Team WE",
@@ -39578,16 +39578,37 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1561476",
+      "startTime": "2026-07-24T10:08:04Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "DetonatioN FocusMe",
+        "shortName": "DFM",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
+      },
+      "teamB": {
+        "name": "Paper Rex",
+        "shortName": "PR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1585255",
-      "startTime": "2026-07-24T11:00:00Z",
+      "startTime": "2026-07-24T11:15:00Z",
       "region": "LPL",
       "teamA": {
         "name": "EDward Gaming",
@@ -39603,27 +39624,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1561476",
-      "startTime": "2026-07-24T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "DetonatioN FocusMe",
-        "shortName": "DFM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
-      },
-      "teamB": {
-        "name": "Paper Rex",
-        "shortName": "PR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -44038,6 +44038,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-24T08:10:47.648Z",
+  "lastUpdated": "2026-07-24T10:55:43.367Z",
   "source": "PandaScore"
 }
