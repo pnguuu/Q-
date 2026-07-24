@@ -39524,7 +39524,7 @@
     },
     {
       "id": "1585253",
-      "startTime": "2026-07-24T07:00:00Z",
+      "startTime": "2026-07-24T07:08:01Z",
       "region": "LPL",
       "teamA": {
         "name": "Anyone's Legend",
@@ -39536,16 +39536,16 @@
         "shortName": "LGD",
         "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1561475",
-      "startTime": "2026-07-24T08:00:00Z",
+      "startTime": "2026-07-24T08:07:14Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Rex Regum Qeon",
@@ -39559,7 +39559,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44038,6 +44038,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-24T05:42:24.030Z",
+  "lastUpdated": "2026-07-24T08:10:47.648Z",
   "source": "PandaScore"
 }
