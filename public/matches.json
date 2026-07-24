@@ -39537,8 +39537,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39557,8 +39557,8 @@
         "shortName": "MKOI",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -39566,7 +39566,7 @@
     },
     {
       "id": "1579635",
-      "startTime": "2026-07-24T15:00:00Z",
+      "startTime": "2026-07-24T15:05:17Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "FUT Esports",
@@ -39579,8 +39579,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43954,6 +43954,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-24T14:47:11.236Z",
+  "lastUpdated": "2026-07-24T16:36:01.725Z",
   "source": "PandaScore"
 }
