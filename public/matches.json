@@ -39683,7 +39683,7 @@
         "shortName": "MKOI",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LEC",
@@ -39692,7 +39692,7 @@
     },
     {
       "id": "1579669",
-      "startTime": "2026-07-25T17:00:00Z",
+      "startTime": "2026-07-25T17:05:01Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Eternal Fire",
@@ -39705,8 +39705,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43849,6 +43849,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-25T16:57:15.281Z",
+  "lastUpdated": "2026-07-25T17:55:33.198Z",
   "source": "PandaScore"
 }
