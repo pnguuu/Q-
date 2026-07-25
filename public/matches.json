@@ -39683,9 +39683,9 @@
         "shortName": "MKOI",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -39705,8 +39705,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43849,6 +43849,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-25T17:55:33.198Z",
+  "lastUpdated": "2026-07-25T18:55:34.115Z",
   "source": "PandaScore"
 }
