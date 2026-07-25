@@ -39642,8 +39642,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -39663,15 +39663,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1564641",
-      "startTime": "2026-07-25T17:00:00Z",
+      "startTime": "2026-07-25T16:32:21Z",
       "region": "LEC",
       "teamA": {
         "name": "Karmine Corp",
@@ -39685,14 +39685,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1579669",
-      "startTime": "2026-07-25T18:00:00Z",
+      "startTime": "2026-07-25T17:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Eternal Fire",
@@ -43849,6 +43849,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-25T15:58:50.893Z",
+  "lastUpdated": "2026-07-25T16:57:15.281Z",
   "source": "PandaScore"
 }
