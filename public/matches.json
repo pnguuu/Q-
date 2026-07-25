@@ -2038,48 +2038,6 @@
       "category": "primary"
     },
     {
-      "id": "1146539",
-      "startTime": "2025-05-21T11:18:21Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "teamB": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1155468",
-      "startTime": "2025-05-21T11:31:40Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1146540",
       "startTime": "2025-05-22T08:00:22Z",
       "region": "LCK",
@@ -39662,16 +39620,16 @@
         "shortName": "TT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1564640",
-      "startTime": "2026-07-25T14:00:00Z",
+      "startTime": "2026-07-25T14:44:50Z",
       "region": "LEC",
       "teamA": {
         "name": "Team Vitality",
@@ -39685,7 +39643,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43891,6 +43849,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-25T13:22:35.760Z",
+  "lastUpdated": "2026-07-25T14:56:08.099Z",
   "source": "PandaScore"
 }
