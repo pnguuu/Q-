@@ -39726,8 +39726,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39746,16 +39746,16 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1585260",
-      "startTime": "2026-07-26T09:00:00Z",
+      "startTime": "2026-07-26T09:17:46Z",
       "region": "LPL",
       "teamA": {
         "name": "ThunderTalk Gaming",
@@ -39767,16 +39767,37 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1561480",
+      "startTime": "2026-07-26T09:49:50Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Gen.G Esports",
+        "shortName": "Gen.G",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128473/699px_gen.g_esports_2026_allmode.png"
+      },
+      "teamB": {
+        "name": "Rex Regum Qeon",
+        "shortName": "RRQ",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1585261",
-      "startTime": "2026-07-26T11:00:00Z",
+      "startTime": "2026-07-26T11:30:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Anyone's Legend",
@@ -39792,27 +39813,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1561480",
-      "startTime": "2026-07-26T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Gen.G Esports",
-        "shortName": "Gen.G",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128473/699px_gen.g_esports_2026_allmode.png"
-      },
-      "teamB": {
-        "name": "Rex Regum Qeon",
-        "shortName": "RRQ",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -43849,6 +43849,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-26T08:11:11.252Z",
+  "lastUpdated": "2026-07-26T10:37:24.629Z",
   "source": "PandaScore"
 }
