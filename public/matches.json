@@ -2038,27 +2038,6 @@
       "category": "primary"
     },
     {
-      "id": "1146540",
-      "startTime": "2025-05-22T08:00:22Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
-      },
-      "teamB": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1155469",
       "startTime": "2025-05-22T09:15:41Z",
       "region": "LPL",
@@ -39788,9 +39767,9 @@
         "shortName": "RRQ",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39810,7 +39789,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
@@ -43849,6 +43828,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-26T11:56:26.112Z",
+  "lastUpdated": "2026-07-26T13:05:27.086Z",
   "source": "PandaScore"
 }
