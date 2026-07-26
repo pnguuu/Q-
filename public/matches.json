@@ -39713,7 +39713,7 @@
     },
     {
       "id": "1585259",
-      "startTime": "2026-07-26T07:00:00Z",
+      "startTime": "2026-07-26T07:08:17Z",
       "region": "LPL",
       "teamA": {
         "name": "LNG Esports",
@@ -39726,15 +39726,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1561479",
-      "startTime": "2026-07-26T08:00:00Z",
+      "startTime": "2026-07-26T08:05:16Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Paper Rex",
@@ -39748,7 +39748,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39818,7 +39818,7 @@
     },
     {
       "id": "1564642",
-      "startTime": "2026-07-26T14:00:00Z",
+      "startTime": "2026-07-26T14:30:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Movistar KOI",
@@ -39860,7 +39860,7 @@
     },
     {
       "id": "1564643",
-      "startTime": "2026-07-26T17:00:00Z",
+      "startTime": "2026-07-26T17:30:00Z",
       "region": "LEC",
       "teamA": {
         "name": "G2 Esports",
@@ -43849,6 +43849,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-26T05:34:44.152Z",
+  "lastUpdated": "2026-07-26T08:11:11.252Z",
   "source": "PandaScore"
 }
