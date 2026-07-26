@@ -39767,9 +39767,9 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39788,8 +39788,8 @@
         "shortName": "RRQ",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -39797,7 +39797,7 @@
     },
     {
       "id": "1585261",
-      "startTime": "2026-07-26T11:30:00Z",
+      "startTime": "2026-07-26T11:28:03Z",
       "region": "LPL",
       "teamA": {
         "name": "Anyone's Legend",
@@ -39811,7 +39811,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43849,6 +43849,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-26T10:37:24.629Z",
+  "lastUpdated": "2026-07-26T11:56:26.112Z",
   "source": "PandaScore"
 }
