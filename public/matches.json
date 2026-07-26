@@ -39789,8 +39789,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -39809,8 +39809,8 @@
         "shortName": "NAVI",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -43807,6 +43807,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-26T15:59:30.968Z",
+  "lastUpdated": "2026-07-26T17:03:55.039Z",
   "source": "PandaScore"
 }
