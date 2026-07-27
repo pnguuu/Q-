@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138022",
-      "startTime": "2025-04-06T08:05:14Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Paper Rex",
-        "shortName": "PR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
-      },
-      "teamB": {
-        "name": "BOOM Esports",
-        "shortName": "BOOM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128744/600px_boom_esports_logo.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127069",
       "startTime": "2025-04-06T09:06:31Z",
       "region": "VCT CN",
@@ -39830,9 +39809,9 @@
         "shortName": "KC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44353,6 +44332,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-27T18:19:11.479Z",
+  "lastUpdated": "2026-07-27T20:15:31.063Z",
   "source": "PandaScore"
 }
