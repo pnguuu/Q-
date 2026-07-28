@@ -1954,27 +1954,6 @@
       "category": "primary"
     },
     {
-      "id": "1183211",
-      "startTime": "2025-05-26T09:08:50Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Team WE",
-        "shortName": "WE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
-      },
-      "teamB": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "scoreA": 3,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1180023",
       "startTime": "2025-05-26T15:03:17Z",
       "region": "LEC",
@@ -44101,6 +44080,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-28T21:00:44.786Z",
+  "lastUpdated": "2026-07-28T22:10:15.368Z",
   "source": "PandaScore"
 }
