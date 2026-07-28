@@ -39691,8 +39691,29 @@
       "category": "primary"
     },
     {
+      "id": "1588049",
+      "startTime": "2026-07-28T15:04:41Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 1,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1588050",
-      "startTime": "2026-07-28T15:00:00Z",
+      "startTime": "2026-07-28T15:05:33Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Barça eSports GC",
@@ -39706,28 +39727,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1588049",
-      "startTime": "2026-07-28T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "G2 Gozen",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
-      },
-      "teamB": {
-        "name": "FOKUS Sakura",
-        "shortName": "FKS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44206,6 +44206,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-28T13:44:23.434Z",
+  "lastUpdated": "2026-07-28T15:59:58.316Z",
   "source": "PandaScore"
 }
