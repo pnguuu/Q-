@@ -1954,48 +1954,6 @@
       "category": "primary"
     },
     {
-      "id": "1146546",
-      "startTime": "2025-05-24T09:04:51Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "teamB": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1183209",
-      "startTime": "2025-05-24T09:07:02Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 3,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1179862",
       "startTime": "2025-05-24T15:03:25Z",
       "region": "LEC",
@@ -44248,6 +44206,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-28T09:32:01.697Z",
+  "lastUpdated": "2026-07-28T11:51:20.969Z",
   "source": "PandaScore"
 }
