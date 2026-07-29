@@ -39705,8 +39705,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39725,8 +39725,8 @@
         "shortName": "FKS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -39747,8 +39747,29 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
       "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1579638",
+      "startTime": "2026-07-29T17:15:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates",
+        "shortName": "M8",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
+      },
+      "teamB": {
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+      },
+      "scoreA": 0,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "待开始",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39787,27 +39808,6 @@
         "name": "ALTERNATE aTTaX Ruby",
         "shortName": "AAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1579638",
-      "startTime": "2026-07-29T18:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Gentle Mates",
-        "shortName": "M8",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
-      },
-      "teamB": {
-        "name": "Team Vitality",
-        "shortName": "VIT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -44038,6 +44038,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-29T15:45:28.537Z",
+  "lastUpdated": "2026-07-29T17:06:28.209Z",
   "source": "PandaScore"
 }
