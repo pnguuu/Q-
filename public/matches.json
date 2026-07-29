@@ -1954,27 +1954,6 @@
       "category": "primary"
     },
     {
-      "id": "1180023",
-      "startTime": "2025-05-26T15:03:17Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Movistar KOI",
-        "shortName": "MKOI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
-      },
-      "teamB": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "scoreA": 1,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1182510",
       "startTime": "2025-05-26T15:07:29Z",
       "region": "VCT EMEA",
@@ -39650,7 +39629,7 @@
     },
     {
       "id": "1568902",
-      "startTime": "2026-07-29T08:00:00Z",
+      "startTime": "2026-07-29T08:00:38Z",
       "region": "LCK",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -39664,7 +39643,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -44080,6 +44059,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-29T05:14:31.561Z",
+  "lastUpdated": "2026-07-29T08:24:40.080Z",
   "source": "PandaScore"
 }
