@@ -39683,37 +39683,16 @@
         "shortName": "LGD",
         "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1588054",
-      "startTime": "2026-07-29T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Gentle Mates GC",
-        "shortName": "M8.GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/621px_gentle_mates_2024_lightmode.png"
-      },
-      "teamB": {
-        "name": "FOKUS Sakura",
-        "shortName": "FKS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1588053",
-      "startTime": "2026-07-29T15:00:00Z",
+      "startTime": "2026-07-29T15:04:19Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "SK Nebula",
@@ -39727,14 +39706,35 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1588054",
+      "startTime": "2026-07-29T15:04:21Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/621px_gentle_mates_2024_lightmode.png"
+      },
+      "teamB": {
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1579671",
-      "startTime": "2026-07-29T15:00:00Z",
+      "startTime": "2026-07-29T15:04:21Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX",
@@ -39748,7 +39748,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44038,6 +44038,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-29T13:49:58.135Z",
+  "lastUpdated": "2026-07-29T15:45:28.537Z",
   "source": "PandaScore"
 }
