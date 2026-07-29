@@ -39726,8 +39726,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43996,6 +43996,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-29T20:15:21.284Z",
+  "lastUpdated": "2026-07-29T21:52:31.672Z",
   "source": "PandaScore"
 }
