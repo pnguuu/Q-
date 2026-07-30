@@ -2227,27 +2227,6 @@
       "category": "primary"
     },
     {
-      "id": "1182441",
-      "startTime": "2025-05-31T15:03:03Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
-      },
-      "teamB": {
-        "name": "GIANTX",
-        "shortName": "GX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
-      },
-      "scoreA": 3,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LEC",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1182526",
       "startTime": "2025-05-31T15:08:01Z",
       "region": "VCT EMEA",
@@ -43786,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-30T22:04:19.848Z",
+  "lastUpdated": "2026-07-30T23:55:19.623Z",
   "source": "PandaScore"
 }
