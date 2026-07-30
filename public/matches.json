@@ -39789,8 +39789,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39810,8 +39810,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39830,37 +39830,16 @@
         "shortName": "DK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1585266",
-      "startTime": "2026-07-30T11:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1561482",
-      "startTime": "2026-07-30T11:00:00Z",
+      "startTime": "2026-07-30T11:21:00Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "FULL SENSE",
@@ -39872,10 +39851,31 @@
         "shortName": "ZETA",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1585266",
+      "startTime": "2026-07-30T11:27:34Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "teamB": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -43954,6 +43954,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-30T10:14:58.783Z",
+  "lastUpdated": "2026-07-30T12:25:14.324Z",
   "source": "PandaScore"
 }
