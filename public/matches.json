@@ -2227,27 +2227,6 @@
       "category": "primary"
     },
     {
-      "id": "1186044",
-      "startTime": "2025-05-31T10:13:35Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "teamB": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "scoreA": 3,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1182441",
       "startTime": "2025-05-31T15:03:03Z",
       "region": "LEC",
@@ -39809,9 +39788,9 @@
         "shortName": "AAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39830,9 +39809,9 @@
         "shortName": "TMO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136929/800px_twisted_minds_2023_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39851,9 +39830,9 @@
         "shortName": "FNC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43807,6 +43786,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-30T19:12:28.770Z",
+  "lastUpdated": "2026-07-30T20:57:58.622Z",
   "source": "PandaScore"
 }
