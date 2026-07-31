@@ -39894,8 +39894,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43639,6 +43639,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-31T20:55:42.803Z",
+  "lastUpdated": "2026-07-31T21:58:50.646Z",
   "source": "PandaScore"
 }
