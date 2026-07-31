@@ -39872,9 +39872,9 @@
         "shortName": "M8",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39893,8 +39893,8 @@
         "shortName": "SHFT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -39902,7 +39902,7 @@
     },
     {
       "id": "1579673",
-      "startTime": "2026-07-31T18:00:00Z",
+      "startTime": "2026-07-31T19:30:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX",
@@ -43660,6 +43660,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-31T17:22:35.833Z",
+  "lastUpdated": "2026-07-31T19:10:51.696Z",
   "source": "PandaScore"
 }
