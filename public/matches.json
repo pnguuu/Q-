@@ -2290,48 +2290,6 @@
       "category": "primary"
     },
     {
-      "id": "1146559",
-      "startTime": "2025-06-01T05:59:57Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "teamB": {
-        "name": "BNK FEARX",
-        "shortName": "BFX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1186045",
-      "startTime": "2025-06-01T06:08:34Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Team WE",
-        "shortName": "WE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
-      },
-      "scoreA": 3,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1146560",
       "startTime": "2025-06-01T08:01:10Z",
       "region": "LCK",
@@ -39818,7 +39776,7 @@
     },
     {
       "id": "1585267",
-      "startTime": "2026-07-31T07:00:00Z",
+      "startTime": "2026-07-31T07:06:43Z",
       "region": "LPL",
       "teamA": {
         "name": "Anyone's Legend",
@@ -39830,16 +39788,16 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1568905",
-      "startTime": "2026-07-31T08:00:00Z",
+      "startTime": "2026-07-31T07:59:45Z",
       "region": "LCK",
       "teamA": {
         "name": "Gen.G",
@@ -39853,14 +39811,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1561483",
-      "startTime": "2026-07-31T08:00:00Z",
+      "startTime": "2026-07-31T08:05:03Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Team Secret",
@@ -39874,7 +39832,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41039,9 +40997,9 @@
       "startTime": "2026-08-06T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Natus Vincere",
+        "shortName": "NAVI",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41249,9 +41207,9 @@
       "startTime": "2026-08-07T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Pcific Esports",
+        "shortName": "PCFIC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43765,6 +43723,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-31T05:57:43.628Z",
+  "lastUpdated": "2026-07-31T08:45:50.934Z",
   "source": "PandaScore"
 }
