@@ -2374,27 +2374,6 @@
       "category": "primary"
     },
     {
-      "id": "1186047",
-      "startTime": "2025-06-02T09:09:50Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "scoreA": 0,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1182443",
       "startTime": "2025-06-02T15:01:46Z",
       "region": "LEC",
@@ -39893,16 +39872,16 @@
         "shortName": "SHFT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1579673",
-      "startTime": "2026-07-31T19:30:00Z",
+      "startTime": "2026-07-31T19:27:25Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX",
@@ -39915,8 +39894,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43660,6 +43639,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-07-31T19:10:51.696Z",
+  "lastUpdated": "2026-07-31T20:55:42.803Z",
   "source": "PandaScore"
 }
