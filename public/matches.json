@@ -39977,9 +39977,9 @@
         "shortName": "RRQ",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -39999,8 +39999,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43597,6 +43597,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-01T13:01:15.385Z",
+  "lastUpdated": "2026-08-01T14:53:07.342Z",
   "source": "PandaScore"
 }
