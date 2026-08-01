@@ -40061,9 +40061,9 @@
         "shortName": "TL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40082,9 +40082,9 @@
         "shortName": "Navi",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43597,6 +43597,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-01T20:08:12.049Z",
+  "lastUpdated": "2026-08-01T21:46:31.830Z",
   "source": "PandaScore"
 }
