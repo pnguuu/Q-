@@ -39902,7 +39902,7 @@
     },
     {
       "id": "1585269",
-      "startTime": "2026-08-01T07:00:00Z",
+      "startTime": "2026-08-01T07:07:26Z",
       "region": "LPL",
       "teamA": {
         "name": "Anyone's Legend",
@@ -39916,7 +39916,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43639,6 +43639,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-01T04:16:55.228Z",
+  "lastUpdated": "2026-08-01T07:23:57.663Z",
   "source": "PandaScore"
 }
