@@ -2374,27 +2374,6 @@
       "category": "primary"
     },
     {
-      "id": "1186048",
-      "startTime": "2025-06-03T09:11:20Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "scoreA": 3,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1190421",
       "startTime": "2025-06-04T08:01:43Z",
       "region": "LCK",
@@ -39957,8 +39936,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -39978,15 +39957,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1561486",
-      "startTime": "2026-08-01T11:30:00Z",
+      "startTime": "2026-08-01T11:26:19Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "FULL SENSE",
@@ -39999,15 +39978,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1585271",
-      "startTime": "2026-08-01T12:00:00Z",
+      "startTime": "2026-08-01T11:58:26Z",
       "region": "LPL",
       "teamA": {
         "name": "JD Gaming",
@@ -40020,8 +39999,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43618,6 +43597,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-01T11:11:52.024Z",
+  "lastUpdated": "2026-08-01T13:01:15.385Z",
   "source": "PandaScore"
 }
