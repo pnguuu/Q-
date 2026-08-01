@@ -40020,8 +40020,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -40049,7 +40049,7 @@
     },
     {
       "id": "1579674",
-      "startTime": "2026-08-01T18:00:00Z",
+      "startTime": "2026-08-01T18:09:49Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Karmine Corp",
@@ -40063,14 +40063,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1564647",
-      "startTime": "2026-08-01T18:30:00Z",
+      "startTime": "2026-08-01T18:32:36Z",
       "region": "LEC",
       "teamA": {
         "name": "Karmine Corp",
@@ -40084,7 +40084,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43597,6 +43597,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-01T17:54:43.822Z",
+  "lastUpdated": "2026-08-01T18:57:19.430Z",
   "source": "PandaScore"
 }
