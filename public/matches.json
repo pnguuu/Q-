@@ -40196,7 +40196,7 @@
     },
     {
       "id": "1564648",
-      "startTime": "2026-08-02T15:00:00Z",
+      "startTime": "2026-08-02T15:03:04Z",
       "region": "LEC",
       "teamA": {
         "name": "SK Gaming",
@@ -40209,15 +40209,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1579642",
-      "startTime": "2026-08-02T15:00:00Z",
+      "startTime": "2026-08-02T15:07:16Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "BBL Esports",
@@ -40229,9 +40229,9 @@
         "shortName": "PCFIC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43555,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-02T14:55:21.219Z",
+  "lastUpdated": "2026-08-02T15:55:16.756Z",
   "source": "PandaScore"
 }
