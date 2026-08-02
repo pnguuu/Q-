@@ -40146,8 +40146,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40166,9 +40166,9 @@
         "shortName": "HLE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40187,9 +40187,9 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43555,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-02T13:03:39.445Z",
+  "lastUpdated": "2026-08-02T14:55:21.219Z",
   "source": "PandaScore"
 }
