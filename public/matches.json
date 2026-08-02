@@ -40229,9 +40229,9 @@
         "shortName": "PCFIC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40250,7 +40250,7 @@
         "shortName": "MKOI",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
@@ -40259,7 +40259,7 @@
     },
     {
       "id": "1579676",
-      "startTime": "2026-08-02T18:30:00Z",
+      "startTime": "2026-08-02T18:25:16Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Fnatic",
@@ -40273,7 +40273,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43555,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-02T17:55:32.729Z",
+  "lastUpdated": "2026-08-02T18:58:06.629Z",
   "source": "PandaScore"
 }
