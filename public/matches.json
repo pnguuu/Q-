@@ -2374,48 +2374,6 @@
       "category": "primary"
     },
     {
-      "id": "1190421",
-      "startTime": "2025-06-04T08:01:43Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
-      },
-      "teamB": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1186050",
-      "startTime": "2025-06-04T09:08:32Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
-      },
-      "teamB": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1182533",
       "startTime": "2025-06-04T15:07:31Z",
       "region": "VCT EMEA",
@@ -40124,9 +40082,9 @@
         "shortName": "BRO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40145,9 +40103,9 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40167,36 +40125,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1568909",
-      "startTime": "2026-08-02T11:00:00Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "teamB": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1561488",
-      "startTime": "2026-08-02T11:00:00Z",
+      "startTime": "2026-08-02T11:08:03Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "ZETA DIVISION",
@@ -40210,8 +40147,29 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1568909",
+      "startTime": "2026-08-02T11:22:24Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
+      },
+      "teamB": {
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -43597,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-02T10:27:11.621Z",
+  "lastUpdated": "2026-08-02T11:55:55.686Z",
   "source": "PandaScore"
 }
