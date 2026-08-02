@@ -40209,8 +40209,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -40230,7 +40230,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -40238,7 +40238,7 @@
     },
     {
       "id": "1564649",
-      "startTime": "2026-08-02T17:15:00Z",
+      "startTime": "2026-08-02T17:13:39Z",
       "region": "LEC",
       "teamA": {
         "name": "Fnatic",
@@ -40251,15 +40251,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1579676",
-      "startTime": "2026-08-02T18:00:00Z",
+      "startTime": "2026-08-02T18:30:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Fnatic",
@@ -43555,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-02T16:51:20.320Z",
+  "lastUpdated": "2026-08-02T17:55:32.729Z",
   "source": "PandaScore"
 }
