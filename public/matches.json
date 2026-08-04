@@ -2605,48 +2605,6 @@
       "category": "primary"
     },
     {
-      "id": "1175608",
-      "startTime": "2025-06-07T05:59:29Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "teamB": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
-      },
-      "scoreA": 3,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
-      "id": "1186052",
-      "startTime": "2025-06-07T09:08:57Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "teamB": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1182444",
       "startTime": "2025-06-07T15:04:32Z",
       "region": "LEC",
@@ -40440,8 +40398,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/138941/habos_babos_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40461,8 +40419,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/136929/800px_twisted_minds_2023_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44080,6 +44038,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-04T17:36:35.419Z",
+  "lastUpdated": "2026-08-04T19:20:16.983Z",
   "source": "PandaScore"
 }
