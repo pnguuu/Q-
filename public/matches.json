@@ -40385,7 +40385,7 @@
     },
     {
       "id": "1588066",
-      "startTime": "2026-08-04T15:00:00Z",
+      "startTime": "2026-08-04T15:05:57Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "G2 Gozen",
@@ -40399,14 +40399,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1588065",
-      "startTime": "2026-08-04T15:00:00Z",
+      "startTime": "2026-08-04T15:07:20Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Karmine Corp GC",
@@ -40420,7 +40420,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -44080,6 +44080,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-04T12:53:38.296Z",
+  "lastUpdated": "2026-08-04T15:17:23.275Z",
   "source": "PandaScore"
 }
