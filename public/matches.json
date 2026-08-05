@@ -2962,27 +2962,6 @@
       "category": "cn_extended"
     },
     {
-      "id": "1175613",
-      "startTime": "2025-06-15T06:11:16Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "teamB": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "scoreA": 0,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1182556",
       "startTime": "2025-06-15T15:22:38Z",
       "region": "VCT EMEA",
@@ -43786,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-05T20:59:20.727Z",
+  "lastUpdated": "2026-08-05T22:13:25.722Z",
   "source": "PandaScore"
 }
