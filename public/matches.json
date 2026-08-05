@@ -2941,48 +2941,6 @@
       "category": "cn_extended"
     },
     {
-      "id": "1175611",
-      "startTime": "2025-06-14T06:13:12Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "teamB": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "scoreA": 3,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
-      "id": "1186056",
-      "startTime": "2025-06-14T09:13:43Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "scoreA": 3,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1183977",
       "startTime": "2025-06-14T16:07:33Z",
       "region": "VCT PAC",
@@ -40376,9 +40334,9 @@
         "shortName": "AAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43828,6 +43786,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-05T19:17:48.691Z",
+  "lastUpdated": "2026-08-05T20:59:20.727Z",
   "source": "PandaScore"
 }
