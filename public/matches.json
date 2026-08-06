@@ -40377,8 +40377,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40397,8 +40397,8 @@
         "shortName": "NIP",
         "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
@@ -40406,7 +40406,7 @@
     },
     {
       "id": "1585279",
-      "startTime": "2026-08-06T12:00:00Z",
+      "startTime": "2026-08-06T13:20:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Team WE",
@@ -43765,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-06T10:30:48.743Z",
+  "lastUpdated": "2026-08-06T12:51:37.393Z",
   "source": "PandaScore"
 }
