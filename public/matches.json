@@ -40322,7 +40322,7 @@
     },
     {
       "id": "1585277",
-      "startTime": "2026-08-06T07:00:00Z",
+      "startTime": "2026-08-06T07:08:40Z",
       "region": "LPL",
       "teamA": {
         "name": "LGD Gaming",
@@ -40336,7 +40336,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43765,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-06T04:59:14.515Z",
+  "lastUpdated": "2026-08-06T07:40:40.566Z",
   "source": "PandaScore"
 }
