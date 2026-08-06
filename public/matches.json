@@ -40398,15 +40398,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1585279",
-      "startTime": "2026-08-06T13:20:00Z",
+      "startTime": "2026-08-06T13:46:43Z",
       "region": "LPL",
       "teamA": {
         "name": "Team WE",
@@ -40418,16 +40418,16 @@
         "shortName": "AL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1608111",
-      "startTime": "2026-08-06T15:00:00Z",
+      "startTime": "2026-08-06T15:03:46Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX",
@@ -40441,35 +40441,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1588074",
-      "startTime": "2026-08-06T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "GIANTX GC",
-        "shortName": "GX GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
-      },
-      "teamB": {
-        "name": "Karmine Corp GC",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1588073",
-      "startTime": "2026-08-06T15:00:00Z",
+      "startTime": "2026-08-06T15:05:02Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "FOKUS Sakura",
@@ -40483,7 +40462,28 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1588074",
+      "startTime": "2026-08-06T15:07:04Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43765,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-06T12:51:37.393Z",
+  "lastUpdated": "2026-08-06T15:10:42.798Z",
   "source": "PandaScore"
 }
