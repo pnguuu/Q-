@@ -40334,16 +40334,16 @@
         "shortName": "TT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1568914",
-      "startTime": "2026-08-06T08:00:00Z",
+      "startTime": "2026-08-06T08:01:27Z",
       "region": "LCK",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -40355,37 +40355,16 @@
         "shortName": "DNS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1585278",
-      "startTime": "2026-08-06T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1568913",
-      "startTime": "2026-08-06T10:00:00Z",
+      "startTime": "2026-08-06T10:10:56Z",
       "region": "LCK",
       "teamA": {
         "name": "Dplus KIA",
@@ -40399,14 +40378,35 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1585278",
+      "startTime": "2026-08-06T10:16:22Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1585279",
-      "startTime": "2026-08-06T11:00:00Z",
+      "startTime": "2026-08-06T12:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Team WE",
@@ -43765,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-06T07:40:40.566Z",
+  "lastUpdated": "2026-08-06T10:30:48.743Z",
   "source": "PandaScore"
 }
