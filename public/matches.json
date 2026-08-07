@@ -40586,7 +40586,7 @@
         "shortName": "TT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
@@ -40608,7 +40608,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
@@ -40628,7 +40628,7 @@
         "shortName": "FS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -40637,7 +40637,7 @@
     },
     {
       "id": "1585282",
-      "startTime": "2026-08-07T11:30:00Z",
+      "startTime": "2026-08-07T12:30:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -43828,6 +43828,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-07T10:43:56.329Z",
+  "lastUpdated": "2026-08-07T11:39:36.758Z",
   "source": "PandaScore"
 }
