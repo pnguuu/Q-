@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1139913",
-      "startTime": "2025-04-10T16:51:50Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Team Vitality",
-        "shortName": "VIT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
-      },
-      "teamB": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127072",
       "startTime": "2025-04-11T11:06:41Z",
       "region": "VCT CN",
@@ -40692,8 +40671,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40712,9 +40691,9 @@
         "shortName": "FNC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -41254,9 +41233,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Enterprise Esports",
+        "shortName": "EP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41606,9 +41585,9 @@
       "startTime": "2026-08-13T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43807,6 +43786,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-07T19:45:42.937Z",
+  "lastUpdated": "2026-08-07T20:32:13.359Z",
   "source": "PandaScore"
 }
