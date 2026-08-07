@@ -40645,9 +40645,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
       "teamB": {
-        "name": " REBORN",
-        "shortName": "RBN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png"
+        "name": "Fire Flux Esports",
+        "shortName": "FF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
       },
       "scoreA": 0,
       "scoreB": 2,
@@ -40671,15 +40671,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1608114",
-      "startTime": "2026-08-07T17:00:00Z",
+      "startTime": "2026-08-07T17:03:40Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Fnatic",
@@ -40693,14 +40693,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1564653",
-      "startTime": "2026-08-07T17:15:00Z",
+      "startTime": "2026-08-07T17:45:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Team Heretics",
@@ -41191,9 +41191,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "teamB": {
-        "name": " REBORN",
-        "shortName": "RBN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png"
+        "name": "Fire Flux Esports",
+        "shortName": "FF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43807,6 +43807,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-07T16:43:23.715Z",
+  "lastUpdated": "2026-08-07T17:41:46.023Z",
   "source": "PandaScore"
 }
