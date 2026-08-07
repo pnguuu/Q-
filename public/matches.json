@@ -40692,7 +40692,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -40713,7 +40713,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -43807,6 +43807,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-07T18:42:25.829Z",
+  "lastUpdated": "2026-08-07T19:45:42.937Z",
   "source": "PandaScore"
 }
