@@ -40650,8 +40650,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40670,10 +40670,31 @@
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1608114",
+      "startTime": "2026-08-07T17:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
+      },
+      "teamB": {
+        "name": "Enterprise Esports",
+        "shortName": "EP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -40695,27 +40716,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1608114",
-      "startTime": "2026-08-07T18:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
-      },
-      "teamB": {
-        "name": "Enterprise Esports",
-        "shortName": "EP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -41191,9 +41191,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": " REBORN",
+        "shortName": "RBN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41585,9 +41585,9 @@
       "startTime": "2026-08-13T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Pcific Esports",
+        "shortName": "PCFIC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43807,6 +43807,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-07T15:46:07.870Z",
+  "lastUpdated": "2026-08-07T16:43:23.715Z",
   "source": "PandaScore"
 }
