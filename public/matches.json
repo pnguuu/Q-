@@ -40511,7 +40511,7 @@
     },
     {
       "id": "1585280",
-      "startTime": "2026-08-07T07:00:00Z",
+      "startTime": "2026-08-07T07:08:39Z",
       "region": "LPL",
       "teamA": {
         "name": "JD Gaming",
@@ -40525,14 +40525,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1568915",
-      "startTime": "2026-08-07T08:00:00Z",
+      "startTime": "2026-08-07T08:01:25Z",
       "region": "LCK",
       "teamA": {
         "name": "KT Rolster",
@@ -40546,14 +40546,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1561489",
-      "startTime": "2026-08-07T08:00:00Z",
+      "startTime": "2026-08-07T08:07:44Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Team Secret",
@@ -40567,7 +40567,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40962,7 +40962,7 @@
       "teamB": {
         "name": "Lost Puppies GC",
         "shortName": "Los",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139078/580px_lost_puppies_2025_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41228,14 +41228,14 @@
       "startTime": "2026-08-09T17:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "FALKE VENOM",
-        "shortName": "FAL",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FALKE VENOM",
+        "shortName": "FAL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139076/471px_falke_esports_2025_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43828,6 +43828,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-07T06:05:37.793Z",
+  "lastUpdated": "2026-08-07T08:08:22.055Z",
   "source": "PandaScore"
 }
