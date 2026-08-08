@@ -40734,7 +40734,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
@@ -40755,8 +40755,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40776,15 +40776,36 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1561492",
+      "startTime": "2026-08-08T10:11:14Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Global Esports",
+        "shortName": "GE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
+      },
+      "teamB": {
+        "name": "ZETA DIVISION",
+        "shortName": "ZETA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1568918",
-      "startTime": "2026-08-08T10:00:00Z",
+      "startTime": "2026-08-08T11:00:00Z",
       "region": "LCK",
       "teamA": {
         "name": "Nongshim Red Force",
@@ -40800,27 +40821,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1561492",
-      "startTime": "2026-08-08T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Global Esports",
-        "shortName": "GE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
-      },
-      "teamB": {
-        "name": "ZETA DIVISION",
-        "shortName": "ZETA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -43786,6 +43786,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-08T09:29:23.020Z",
+  "lastUpdated": "2026-08-08T10:22:44.666Z",
   "source": "PandaScore"
 }
