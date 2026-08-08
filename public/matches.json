@@ -40901,9 +40901,9 @@
         "shortName": "Los",
         "logo": "https://cdn-api.pandascore.co/images/team/image/139078/580px_lost_puppies_2025_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40922,7 +40922,7 @@
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132476/joblifelogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -40944,7 +40944,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -43765,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-08T18:24:49.529Z",
+  "lastUpdated": "2026-08-08T19:22:43.711Z",
   "source": "PandaScore"
 }
