@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127072",
-      "startTime": "2025-04-11T11:06:41Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "teamB": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139914",
       "startTime": "2025-04-11T15:04:06Z",
       "region": "VCT EMEA",
@@ -40859,7 +40838,7 @@
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -40881,7 +40860,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -40901,9 +40880,9 @@
         "shortName": "JL.GC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137999/565px_joblife_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43786,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-08T15:22:00.835Z",
+  "lastUpdated": "2026-08-08T16:22:26.236Z",
   "source": "PandaScore"
 }
