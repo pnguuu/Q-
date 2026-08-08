@@ -40796,9 +40796,9 @@
         "shortName": "ZETA",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40818,7 +40818,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
@@ -40826,7 +40826,7 @@
     },
     {
       "id": "1585285",
-      "startTime": "2026-08-08T11:30:00Z",
+      "startTime": "2026-08-08T11:48:42Z",
       "region": "LPL",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -40840,7 +40840,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43786,6 +43786,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-08T11:21:24.593Z",
+  "lastUpdated": "2026-08-08T12:30:35.148Z",
   "source": "PandaScore"
 }
