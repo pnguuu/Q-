@@ -40700,7 +40700,7 @@
     },
     {
       "id": "1585283",
-      "startTime": "2026-08-08T07:00:00Z",
+      "startTime": "2026-08-08T07:08:55Z",
       "region": "LPL",
       "teamA": {
         "name": "Weibo Gaming",
@@ -40714,7 +40714,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43786,6 +43786,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-08T06:36:55.386Z",
+  "lastUpdated": "2026-08-08T07:41:53.311Z",
   "source": "PandaScore"
 }
