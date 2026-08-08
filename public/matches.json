@@ -20296,7 +20296,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
       "teamB": {
-        "name": "Joblife GC",
+        "name": "Joblife Nanas",
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137999/565px_joblife_lightmode.png"
       },
@@ -20501,7 +20501,7 @@
       "startTime": "2026-01-27T18:46:34Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Joblife GC",
+        "name": "Joblife Nanas",
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137999/565px_joblife_lightmode.png"
       },
@@ -21052,7 +21052,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137995/621px_gentle_mates_2024_lightmode.png"
       },
       "teamB": {
-        "name": "Joblife GC",
+        "name": "Joblife Nanas",
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137999/565px_joblife_lightmode.png"
       },
@@ -21908,7 +21908,7 @@
       "startTime": "2026-02-02T16:14:30Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Joblife GC",
+        "name": "Joblife Nanas",
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137999/565px_joblife_lightmode.png"
       },
@@ -22228,7 +22228,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
       },
       "teamB": {
-        "name": "Joblife GC",
+        "name": "Joblife Nanas",
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137999/565px_joblife_lightmode.png"
       },
@@ -22417,7 +22417,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
       },
       "teamB": {
-        "name": "Joblife GC",
+        "name": "Joblife Nanas",
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137999/565px_joblife_lightmode.png"
       },
@@ -22669,7 +22669,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
       },
       "teamB": {
-        "name": "Joblife GC",
+        "name": "Joblife Nanas",
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137999/565px_joblife_lightmode.png"
       },
@@ -23782,7 +23782,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
       "teamB": {
-        "name": "Joblife GC",
+        "name": "Joblife Nanas",
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137999/565px_joblife_lightmode.png"
       },
@@ -23929,7 +23929,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
       },
       "teamB": {
-        "name": "Joblife GC",
+        "name": "Joblife Nanas",
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137999/565px_joblife_lightmode.png"
       },
@@ -40712,7 +40712,7 @@
         "shortName": "LNG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LPL",
@@ -40721,7 +40721,7 @@
     },
     {
       "id": "1568917",
-      "startTime": "2026-08-08T08:00:00Z",
+      "startTime": "2026-08-08T08:00:42Z",
       "region": "LCK",
       "teamA": {
         "name": "T1",
@@ -40735,14 +40735,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1561491",
-      "startTime": "2026-08-08T08:00:00Z",
+      "startTime": "2026-08-08T08:04:24Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -40756,7 +40756,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40876,7 +40876,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
       },
       "teamB": {
-        "name": "Joblife GC",
+        "name": "Joblife Nanas",
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137999/565px_joblife_lightmode.png"
       },
@@ -41459,9 +41459,9 @@
       "startTime": "2026-08-13T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "ONSIDE GAMING",
+        "shortName": "OSG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137113/167px_onside_gaming_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41543,9 +41543,9 @@
       "startTime": "2026-08-13T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Sharper Esport",
+        "shortName": "SPE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41648,14 +41648,14 @@
       "startTime": "2026-08-14T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FULL SENSE",
+        "shortName": "FS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "QT DIG∞",
+        "shortName": "QTD",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136807/520px_qt_dig_2025_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41732,9 +41732,9 @@
       "startTime": "2026-08-14T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Xipto Esports",
+        "shortName": "XE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135281/1029px_xipto_esports_2025_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43786,6 +43786,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-08T07:41:53.311Z",
+  "lastUpdated": "2026-08-08T08:30:30.097Z",
   "source": "PandaScore"
 }
