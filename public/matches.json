@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1139914",
-      "startTime": "2025-04-11T15:04:06Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Apeks",
-        "shortName": "APEKS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132560/1200px_apeks_2021_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139934",
       "startTime": "2025-04-11T18:00:00Z",
       "region": "VCT EMEA",
@@ -40922,9 +40901,9 @@
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132476/joblifelogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40944,8 +40923,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -41548,9 +41527,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Joblife",
+        "shortName": "JL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132476/joblifelogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41989,9 +41968,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Eternal Fire",
+        "shortName": "EF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43765,6 +43744,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-08T19:22:43.711Z",
+  "lastUpdated": "2026-08-08T20:19:30.156Z",
   "source": "PandaScore"
 }
