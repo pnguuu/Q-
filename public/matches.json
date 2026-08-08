@@ -40860,8 +40860,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -40901,7 +40901,7 @@
         "shortName": "Los",
         "logo": "https://cdn-api.pandascore.co/images/team/image/139078/580px_lost_puppies_2025_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -40923,7 +40923,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132476/joblifelogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -40931,7 +40931,7 @@
     },
     {
       "id": "1564655",
-      "startTime": "2026-08-08T18:00:00Z",
+      "startTime": "2026-08-08T17:58:47Z",
       "region": "LEC",
       "teamA": {
         "name": "Movistar KOI",
@@ -40945,7 +40945,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43765,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-08T17:22:03.321Z",
+  "lastUpdated": "2026-08-08T18:24:49.529Z",
   "source": "PandaScore"
 }
