@@ -40734,8 +40734,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40776,8 +40776,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -40796,7 +40796,7 @@
         "shortName": "ZETA",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -40805,7 +40805,7 @@
     },
     {
       "id": "1568918",
-      "startTime": "2026-08-08T11:00:00Z",
+      "startTime": "2026-08-08T11:11:34Z",
       "region": "LCK",
       "teamA": {
         "name": "Nongshim Red Force",
@@ -40819,7 +40819,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -43786,6 +43786,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-08T10:22:44.666Z",
+  "lastUpdated": "2026-08-08T11:21:24.593Z",
   "source": "PandaScore"
 }
