@@ -40839,8 +40839,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41023,9 +41023,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Gentle Mates",
+        "shortName": "M8",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41695,9 +41695,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Enterprise Esports",
+        "shortName": "EP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43429,6 +43429,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-09T19:26:13.306Z",
+  "lastUpdated": "2026-08-09T20:21:53.437Z",
   "source": "PandaScore"
 }
