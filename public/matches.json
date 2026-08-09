@@ -3088,27 +3088,6 @@
       "category": "cn_extended"
     },
     {
-      "id": "1197024",
-      "startTime": "2025-06-27T23:59:30Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "teamB": {
-        "name": "GAM Esports",
-        "shortName": "GAM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/124414/Adonis_Marineslogo_square.png"
-      },
-      "scoreA": 3,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "Mid-Season Invitational",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
       "id": "1197025",
       "startTime": "2025-06-28T19:03:08Z",
       "region": "LPL",
@@ -40985,7 +40964,7 @@
         "shortName": "RRQ",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -41006,7 +40985,7 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LCK",
@@ -41015,7 +40994,7 @@
     },
     {
       "id": "1585288",
-      "startTime": "2026-08-09T11:30:00Z",
+      "startTime": "2026-08-09T11:28:48Z",
       "region": "LPL",
       "teamA": {
         "name": "JD Gaming",
@@ -41027,9 +41006,9 @@
         "shortName": "WE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43744,6 +43723,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-09T11:21:41.796Z",
+  "lastUpdated": "2026-08-09T12:32:33.142Z",
   "source": "PandaScore"
 }
