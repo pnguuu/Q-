@@ -3088,27 +3088,6 @@
       "category": "primary"
     },
     {
-      "id": "1199343",
-      "startTime": "2025-07-05T22:49:23Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "scoreA": 3,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "Mid-Season Invitational",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
       "id": "1200571",
       "startTime": "2025-07-06T09:07:40Z",
       "region": "VCT CN",
@@ -41018,14 +40997,14 @@
       "startTime": "2026-08-12T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Eintracht Frankfurt",
-        "shortName": "SGE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
-      },
-      "teamB": {
         "name": "Gentle Mates",
         "shortName": "M8",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
+      },
+      "teamB": {
+        "name": "Eintracht Frankfurt",
+        "shortName": "SGE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43429,6 +43408,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-09T20:21:53.437Z",
+  "lastUpdated": "2026-08-09T21:23:23.848Z",
   "source": "PandaScore"
 }
