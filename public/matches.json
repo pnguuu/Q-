@@ -3067,27 +3067,6 @@
       "category": "primary"
     },
     {
-      "id": "1199336",
-      "startTime": "2025-07-03T19:03:59Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Movistar KOI",
-        "shortName": "MKOI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "scoreA": 1,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "Mid-Season Invitational",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
       "id": "1199339",
       "startTime": "2025-07-03T23:02:01Z",
       "region": "LPL",
@@ -40867,50 +40846,8 @@
       "category": "primary"
     },
     {
-      "id": "1564656",
-      "startTime": "2026-08-09T15:00:00Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
-      },
-      "teamB": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1623533",
-      "startTime": "2026-08-09T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Barça eSports GC",
-        "shortName": "BAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
-      },
-      "teamB": {
-        "name": "Mom Said No",
-        "shortName": "Mom",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1608137",
-      "startTime": "2026-08-09T15:00:00Z",
+      "startTime": "2026-08-09T15:00:26Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Team Heretics",
@@ -40924,7 +40861,49 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1564656",
+      "startTime": "2026-08-09T15:02:18Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
+      },
+      "teamB": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1623533",
+      "startTime": "2026-08-09T15:05:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
+      },
+      "teamB": {
+        "name": "Mom Said No",
+        "shortName": "Mom",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43576,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-09T14:26:16.176Z",
+  "lastUpdated": "2026-08-09T15:23:04.507Z",
   "source": "PandaScore"
 }
