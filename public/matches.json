@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1127074",
-      "startTime": "2025-04-12T12:07:06Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Trace Esports",
-        "shortName": "TE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138029",
       "startTime": "2025-04-13T08:06:35Z",
       "region": "VCT PAC",
@@ -3065,48 +3044,6 @@
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
-    },
-    {
-      "id": "1199340",
-      "startTime": "2025-07-04T19:02:21Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "teamB": {
-        "name": "FlyQuest",
-        "shortName": "FLY",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/311/fly_questlogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "Mid-Season Invitational",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
-      "id": "1199342",
-      "startTime": "2025-07-04T22:01:54Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 3,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "Mid-Season Invitational",
-      "format": "BO5",
-      "category": "international"
     },
     {
       "id": "1200569",
@@ -40818,8 +40755,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40881,8 +40818,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -40901,7 +40838,7 @@
         "shortName": "FAL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/139076/471px_falke_esports_2025_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -40910,7 +40847,7 @@
     },
     {
       "id": "1608138",
-      "startTime": "2026-08-09T18:00:00Z",
+      "startTime": "2026-08-09T18:05:16Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates",
@@ -40924,7 +40861,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41123,14 +41060,14 @@
       "startTime": "2026-08-12T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
+      },
+      "teamB": {
         "name": "Natus Vincere",
         "shortName": "NAVI",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41774,9 +41711,9 @@
       "startTime": "2026-08-15T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Fire Flux Esports",
+        "shortName": "FF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43513,6 +43450,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-09T17:23:22.637Z",
+  "lastUpdated": "2026-08-09T18:27:34.109Z",
   "source": "PandaScore"
 }
