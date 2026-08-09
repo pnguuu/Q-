@@ -40943,9 +40943,9 @@
         "shortName": "KT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40964,9 +40964,9 @@
         "shortName": "PR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40986,15 +40986,36 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1561494",
+      "startTime": "2026-08-09T10:22:33Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Nongshim RedForce",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "Rex Regum Qeon",
+        "shortName": "RRQ",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1568920",
-      "startTime": "2026-08-09T10:00:00Z",
+      "startTime": "2026-08-09T11:00:00Z",
       "region": "LCK",
       "teamA": {
         "name": "BNK FEARX",
@@ -41010,27 +41031,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1561494",
-      "startTime": "2026-08-09T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Nongshim RedForce",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "Rex Regum Qeon",
-        "shortName": "RRQ",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -43765,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-09T09:31:06.460Z",
+  "lastUpdated": "2026-08-09T10:24:29.582Z",
   "source": "PandaScore"
 }
