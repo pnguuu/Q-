@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138028",
-      "startTime": "2025-04-12T10:16:41Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
-      },
-      "teamB": {
-        "name": "BOOM Esports",
-        "shortName": "BOOM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128744/600px_boom_esports_logo.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127074",
       "startTime": "2025-04-12T12:07:06Z",
       "region": "VCT CN",
@@ -3065,27 +3044,6 @@
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
-    },
-    {
-      "id": "1199339",
-      "startTime": "2025-07-03T23:02:01Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "CTBC Flying Oyster",
-        "shortName": "CFO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130355/ctbc_flying_oysterlogo_square.png"
-      },
-      "teamB": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "scoreA": 2,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "Mid-Season Invitational",
-      "format": "BO5",
-      "category": "international"
     },
     {
       "id": "1200526",
@@ -40860,7 +40818,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -40881,8 +40839,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -40901,37 +40859,16 @@
         "shortName": "Mom",
         "logo": "https://picsum.photos/seed/tbd/64/64"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1623534",
-      "startTime": "2026-08-09T17:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "GIANTX GC",
-        "shortName": "GX GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
-      },
-      "teamB": {
-        "name": "FALKE VENOM",
-        "shortName": "FAL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/139076/471px_falke_esports_2025_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1564657",
-      "startTime": "2026-08-09T17:15:00Z",
+      "startTime": "2026-08-09T16:52:14Z",
       "region": "LEC",
       "teamA": {
         "name": "Fnatic",
@@ -40945,8 +40882,29 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1623534",
+      "startTime": "2026-08-09T16:59:20Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "FALKE VENOM",
+        "shortName": "FAL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139076/471px_falke_esports_2025_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -41039,9 +40997,9 @@
       "startTime": "2026-08-10T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Barça eSports GC",
+        "shortName": "BAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43555,6 +43513,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-09T16:24:19.802Z",
+  "lastUpdated": "2026-08-09T17:23:22.637Z",
   "source": "PandaScore"
 }
