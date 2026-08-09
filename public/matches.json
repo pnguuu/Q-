@@ -40910,7 +40910,7 @@
     },
     {
       "id": "1585286",
-      "startTime": "2026-08-09T07:00:00Z",
+      "startTime": "2026-08-09T07:09:03Z",
       "region": "LPL",
       "teamA": {
         "name": "Invictus Gaming",
@@ -40924,7 +40924,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43765,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-09T06:40:47.420Z",
+  "lastUpdated": "2026-08-09T07:46:27.723Z",
   "source": "PandaScore"
 }
