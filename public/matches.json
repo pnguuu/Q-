@@ -40922,9 +40922,9 @@
         "shortName": "LNG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -40943,8 +40943,8 @@
         "shortName": "KT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
@@ -40964,7 +40964,7 @@
         "shortName": "PR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -40973,7 +40973,7 @@
     },
     {
       "id": "1585287",
-      "startTime": "2026-08-09T09:00:00Z",
+      "startTime": "2026-08-09T09:24:05Z",
       "region": "LPL",
       "teamA": {
         "name": "ThunderTalk Gaming",
@@ -40987,7 +40987,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43765,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-09T08:32:25.310Z",
+  "lastUpdated": "2026-08-09T09:31:06.460Z",
   "source": "PandaScore"
 }
