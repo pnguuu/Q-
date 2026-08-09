@@ -41543,14 +41543,14 @@
       "startTime": "2026-08-13T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Pcific Esports",
-        "shortName": "PCFIC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
-      },
-      "teamB": {
         "name": "Joblife",
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132476/joblifelogo_square.png"
+      },
+      "teamB": {
+        "name": "Pcific Esports",
+        "shortName": "PCFIC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41564,14 +41564,14 @@
       "startTime": "2026-08-13T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
-      },
-      "teamB": {
         "name": "GIANTX",
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43765,6 +43765,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-09T05:43:05.790Z",
+  "lastUpdated": "2026-08-09T06:40:47.420Z",
   "source": "PandaScore"
 }
