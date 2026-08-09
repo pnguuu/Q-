@@ -40859,7 +40859,7 @@
         "shortName": "FF",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -40881,7 +40881,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -40901,7 +40901,7 @@
         "shortName": "Mom",
         "logo": "https://picsum.photos/seed/tbd/64/64"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -43555,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-09T15:23:04.507Z",
+  "lastUpdated": "2026-08-09T16:24:19.802Z",
   "source": "PandaScore"
 }
