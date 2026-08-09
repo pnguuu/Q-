@@ -41224,6 +41224,27 @@
       "category": "primary"
     },
     {
+      "id": "1626688",
+      "startTime": "2026-08-10T15:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Karmine Corp GC",
+        "shortName": "KC.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132777/948px_karmine_corp_lightmode_full.png"
+      },
+      "teamB": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1564659",
       "startTime": "2026-08-10T17:15:00Z",
       "region": "LEC",
@@ -41241,6 +41262,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1626689",
+      "startTime": "2026-08-10T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -41417,14 +41459,14 @@
       "startTime": "2026-08-13T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
+      },
+      "teamB": {
         "name": "ONSIDE GAMING",
         "shortName": "OSG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137113/167px_onside_gaming_lightmode.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41690,14 +41732,14 @@
       "startTime": "2026-08-14T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
+        "name": "Team Secret",
+        "shortName": "TS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129537/800px_team_secret_lightmode.png"
+      },
+      "teamB": {
         "name": "Xipto Esports",
         "shortName": "XE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/135281/1029px_xipto_esports_2025_allmode.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43744,6 +43786,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-08T23:19:55.024Z",
+  "lastUpdated": "2026-08-09T01:04:07.492Z",
   "source": "PandaScore"
 }
