@@ -3340,27 +3340,6 @@
       "category": "cn_extended"
     },
     {
-      "id": "1199347",
-      "startTime": "2025-07-11T00:01:51Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 3,
-      "status": "已结束",
-      "league": "Mid-Season Invitational",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
       "id": "1199349",
       "startTime": "2025-07-12T00:01:51Z",
       "region": "LPL",
@@ -43345,6 +43324,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-10T11:00:03.798Z",
+  "lastUpdated": "2026-08-10T11:50:25.591Z",
   "source": "PandaScore"
 }
