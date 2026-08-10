@@ -40742,7 +40742,7 @@
     },
     {
       "id": "1564659",
-      "startTime": "2026-08-10T16:50:00Z",
+      "startTime": "2026-08-10T16:45:51Z",
       "region": "LEC",
       "teamA": {
         "name": "Natus Vincere",
@@ -40755,15 +40755,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1626689",
-      "startTime": "2026-08-10T17:00:00Z",
+      "startTime": "2026-08-10T16:59:22Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Barça eSports GC",
@@ -40777,7 +40777,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43429,6 +43429,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-10T16:44:24.158Z",
+  "lastUpdated": "2026-08-10T17:44:23.794Z",
   "source": "PandaScore"
 }
