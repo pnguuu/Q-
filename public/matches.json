@@ -3298,27 +3298,6 @@
       "category": "cn_extended"
     },
     {
-      "id": "1199348",
-      "startTime": "2025-07-10T00:02:06Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
-      },
-      "teamB": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "scoreA": 3,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "Mid-Season Invitational",
-      "format": "BO5",
-      "category": "international"
-    },
-    {
       "id": "1203056",
       "startTime": "2025-07-10T09:13:02Z",
       "region": "VCT PAC",
@@ -43366,6 +43345,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-10T09:09:21.565Z",
+  "lastUpdated": "2026-08-10T11:00:03.798Z",
   "source": "PandaScore"
 }
