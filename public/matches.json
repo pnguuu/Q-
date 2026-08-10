@@ -40700,7 +40700,7 @@
     },
     {
       "id": "1564658",
-      "startTime": "2026-08-10T15:00:00Z",
+      "startTime": "2026-08-10T15:02:18Z",
       "region": "LEC",
       "teamA": {
         "name": "SK Gaming",
@@ -40713,15 +40713,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1626688",
-      "startTime": "2026-08-10T15:00:00Z",
+      "startTime": "2026-08-10T15:04:59Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Karmine Corp GC",
@@ -40734,8 +40734,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43429,6 +43429,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-10T14:15:31.993Z",
+  "lastUpdated": "2026-08-10T15:52:34.106Z",
   "source": "PandaScore"
 }
