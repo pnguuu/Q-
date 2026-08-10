@@ -40713,8 +40713,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -40734,15 +40734,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1564659",
-      "startTime": "2026-08-10T17:15:00Z",
+      "startTime": "2026-08-10T16:50:00Z",
       "region": "LEC",
       "teamA": {
         "name": "Natus Vincere",
@@ -40763,7 +40763,7 @@
     },
     {
       "id": "1626689",
-      "startTime": "2026-08-10T18:00:00Z",
+      "startTime": "2026-08-10T17:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Barça eSports GC",
@@ -43429,6 +43429,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-10T15:52:34.106Z",
+  "lastUpdated": "2026-08-10T16:44:24.158Z",
   "source": "PandaScore"
 }
