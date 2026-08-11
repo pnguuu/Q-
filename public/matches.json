@@ -40981,9 +40981,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41233,9 +41233,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/138941/habos_babos_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "GIANTX GC",
+        "shortName": "GX GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43555,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-11T11:38:17.691Z",
+  "lastUpdated": "2026-08-11T12:44:44.974Z",
   "source": "PandaScore"
 }
