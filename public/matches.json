@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138029",
-      "startTime": "2025-04-13T08:06:35Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
-      },
-      "teamB": {
-        "name": "Rex Regum Qeon",
-        "shortName": "RRQ",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1127075",
-      "startTime": "2025-04-13T09:06:43Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "TEC Esports",
-        "shortName": "TEC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
-      },
-      "teamB": {
-        "name": "Nova Esports",
-        "shortName": "NOVA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1127076",
       "startTime": "2025-04-13T11:14:21Z",
       "region": "VCT CN",
@@ -43639,6 +43597,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-10T23:27:05.831Z",
+  "lastUpdated": "2026-08-11T01:04:59.539Z",
   "source": "PandaScore"
 }
