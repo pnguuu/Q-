@@ -40817,7 +40817,7 @@
         "shortName": "NAVI",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -43555,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-12T17:52:36.490Z",
+  "lastUpdated": "2026-08-12T18:51:22.769Z",
   "source": "PandaScore"
 }
