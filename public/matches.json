@@ -40797,7 +40797,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -43555,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-12T15:52:42.825Z",
+  "lastUpdated": "2026-08-12T16:48:39.778Z",
   "source": "PandaScore"
 }
