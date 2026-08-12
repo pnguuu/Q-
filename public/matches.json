@@ -40776,15 +40776,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1608161",
-      "startTime": "2026-08-12T15:00:00Z",
+      "startTime": "2026-08-12T15:05:04Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates",
@@ -40798,7 +40798,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43555,6 +43555,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-12T14:15:34.841Z",
+  "lastUpdated": "2026-08-12T15:52:42.825Z",
   "source": "PandaScore"
 }
