@@ -40818,8 +40818,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137995/621px_gentle_mates_2024_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41317,9 +41317,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41569,9 +41569,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Gentle Mates GC",
+        "shortName": "M8.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/621px_gentle_mates_2024_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43345,6 +43345,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-13T20:33:00.015Z",
+  "lastUpdated": "2026-08-13T21:36:52.110Z",
   "source": "PandaScore"
 }
