@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138032",
-      "startTime": "2025-04-14T10:09:40Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "DetonatioN FocusMe",
-        "shortName": "DFM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
-      },
-      "teamB": {
-        "name": "Paper Rex",
-        "shortName": "PR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139915",
       "startTime": "2025-04-16T15:04:38Z",
       "region": "VCT EMEA",
@@ -40838,9 +40817,9 @@
         "shortName": "PCFIC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40859,9 +40838,9 @@
         "shortName": "AAR",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41165,9 +41144,9 @@
       "startTime": "2026-08-14T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Joblife",
+        "shortName": "JL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132476/joblifelogo_square.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41375,9 +41354,9 @@
       "startTime": "2026-08-15T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41627,9 +41606,9 @@
       "startTime": "2026-08-16T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43408,6 +43387,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-13T16:46:59.708Z",
+  "lastUpdated": "2026-08-13T17:51:37.530Z",
   "source": "PandaScore"
 }
