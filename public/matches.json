@@ -3319,27 +3319,6 @@
       "category": "primary"
     },
     {
-      "id": "1203599",
-      "startTime": "2025-07-16T09:31:19Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "CTBC Flying Oyster",
-        "shortName": "CFO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130355/ctbc_flying_oysterlogo_square.png"
-      },
-      "teamB": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "Esports World Cup",
-      "format": "BO1",
-      "category": "international"
-    },
-    {
       "id": "1200525",
       "startTime": "2025-07-16T10:35:32Z",
       "region": "VCT PAC",
@@ -3359,27 +3338,6 @@
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
-    },
-    {
-      "id": "1203601",
-      "startTime": "2025-07-16T10:49:21Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Movistar KOI",
-        "shortName": "MKOI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
-      },
-      "teamB": {
-        "name": "GAM Esports",
-        "shortName": "GAM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/124414/Adonis_Marineslogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "Esports World Cup",
-      "format": "BO1",
-      "category": "international"
     },
     {
       "id": "1200532",
@@ -40826,7 +40784,7 @@
     },
     {
       "id": "1585291",
-      "startTime": "2026-08-13T07:00:00Z",
+      "startTime": "2026-08-13T07:07:08Z",
       "region": "LPL",
       "teamA": {
         "name": "Weibo Gaming",
@@ -40839,15 +40797,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1568924",
-      "startTime": "2026-08-13T08:00:00Z",
+      "startTime": "2026-08-13T08:00:24Z",
       "region": "LCK",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -40861,14 +40819,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1619609",
-      "startTime": "2026-08-13T08:00:00Z",
+      "startTime": "2026-08-13T08:07:56Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -40882,7 +40840,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43555,6 +43513,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-13T06:10:22.211Z",
+  "lastUpdated": "2026-08-13T08:13:03.408Z",
   "source": "PandaScore"
 }
