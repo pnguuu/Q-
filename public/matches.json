@@ -40818,36 +40818,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1629291",
-      "startTime": "2026-08-13T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "G2 Gozen",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
-      },
-      "teamB": {
-        "name": "ALTERNATE aTTaX Ruby",
-        "shortName": "AAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1608163",
-      "startTime": "2026-08-13T15:00:00Z",
+      "startTime": "2026-08-13T15:05:44Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Joblife",
@@ -40859,9 +40838,30 @@
         "shortName": "PCFIC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1629291",
+      "startTime": "2026-08-13T15:06:13Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
+      },
+      "teamB": {
+        "name": "ALTERNATE aTTaX Ruby",
+        "shortName": "AAR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 0,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43408,6 +43408,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-13T14:17:20.110Z",
+  "lastUpdated": "2026-08-13T15:51:50.539Z",
   "source": "PandaScore"
 }
