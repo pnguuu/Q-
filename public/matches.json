@@ -3340,27 +3340,6 @@
       "category": "primary"
     },
     {
-      "id": "1203604",
-      "startTime": "2025-07-16T16:44:17Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "CTBC Flying Oyster",
-        "shortName": "CFO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130355/ctbc_flying_oysterlogo_square.png"
-      },
-      "teamB": {
-        "name": "GAM Esports",
-        "shortName": "GAM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/124414/Adonis_Marineslogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "Esports World Cup",
-      "format": "BO1",
-      "category": "international"
-    },
-    {
       "id": "1201787",
       "startTime": "2025-07-16T17:53:44Z",
       "region": "VCT EMEA",
@@ -40847,7 +40826,7 @@
     },
     {
       "id": "1629292",
-      "startTime": "2026-08-13T18:00:00Z",
+      "startTime": "2026-08-13T17:53:43Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "FOKUS Sakura",
@@ -40860,15 +40839,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137995/621px_gentle_mates_2024_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1608164",
-      "startTime": "2026-08-13T18:00:00Z",
+      "startTime": "2026-08-13T18:09:05Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX",
@@ -40882,7 +40861,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41291,14 +41270,14 @@
       "startTime": "2026-08-15T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "Sharper Esport",
-        "shortName": "SPE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
-      },
-      "teamB": {
         "name": "DetonatioN FocusMe",
         "shortName": "DFM",
         "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
+      },
+      "teamB": {
+        "name": "Sharper Esport",
+        "shortName": "SPE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43387,6 +43366,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-13T17:51:37.530Z",
+  "lastUpdated": "2026-08-13T18:51:48.397Z",
   "source": "PandaScore"
 }
