@@ -3361,27 +3361,6 @@
       "category": "primary"
     },
     {
-      "id": "1203596",
-      "startTime": "2025-07-16T15:33:52Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "FlyQuest",
-        "shortName": "FLY",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/311/fly_questlogo_square.png"
-      },
-      "teamB": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "scoreA": 0,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "Esports World Cup",
-      "format": "BO1",
-      "category": "international"
-    },
-    {
       "id": "1203604",
       "startTime": "2025-07-16T16:44:17Z",
       "region": "LPL",
@@ -40826,7 +40805,7 @@
     },
     {
       "id": "1585293",
-      "startTime": "2026-08-13T12:45:00Z",
+      "startTime": "2026-08-13T12:57:42Z",
       "region": "LPL",
       "teamA": {
         "name": "ThunderTalk Gaming",
@@ -40839,8 +40818,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43429,6 +43408,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-13T12:51:16.455Z",
+  "lastUpdated": "2026-08-13T14:17:20.110Z",
   "source": "PandaScore"
 }
