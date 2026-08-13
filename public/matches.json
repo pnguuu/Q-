@@ -40838,7 +40838,7 @@
         "shortName": "M8.GC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137995/621px_gentle_mates_2024_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -40860,8 +40860,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41128,9 +41128,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132476/joblifelogo_square.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43366,6 +43366,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-13T18:51:48.397Z",
+  "lastUpdated": "2026-08-13T19:52:29.841Z",
   "source": "PandaScore"
 }
