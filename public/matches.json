@@ -3361,27 +3361,6 @@
       "category": "primary"
     },
     {
-      "id": "1203594",
-      "startTime": "2025-07-16T13:10:31Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "FlyQuest",
-        "shortName": "FLY",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/311/fly_questlogo_square.png"
-      },
-      "teamB": {
-        "name": "Cloud9",
-        "shortName": "C9",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1097/cloud9-gnd9b0gn.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "Esports World Cup",
-      "format": "BO1",
-      "category": "international"
-    },
-    {
       "id": "1203603",
       "startTime": "2025-07-16T14:27:39Z",
       "region": "LPL",
@@ -40797,8 +40776,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40817,7 +40796,28 @@
         "shortName": "OSG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137113/167px_onside_gaming_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1619610",
+      "startTime": "2026-08-13T10:23:35Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Rex Regum Qeon",
+        "shortName": "RRQ",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
+      },
+      "teamB": {
+        "name": "Sharper Esport",
+        "shortName": "SPE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
+      },
+      "scoreA": 0,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -40826,7 +40826,7 @@
     },
     {
       "id": "1585292",
-      "startTime": "2026-08-13T10:00:00Z",
+      "startTime": "2026-08-13T10:24:17Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -40840,7 +40840,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -40867,29 +40867,8 @@
       "category": "primary"
     },
     {
-      "id": "1619610",
-      "startTime": "2026-08-13T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Rex Regum Qeon",
-        "shortName": "RRQ",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
-      },
-      "teamB": {
-        "name": "Sharper Esport",
-        "shortName": "SPE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1585293",
-      "startTime": "2026-08-13T12:00:00Z",
+      "startTime": "2026-08-13T12:20:00Z",
       "region": "LPL",
       "teamA": {
         "name": "ThunderTalk Gaming",
@@ -41312,14 +41291,14 @@
       "startTime": "2026-08-15T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
+      },
+      "teamB": {
         "name": "ZETA DIVISION",
         "shortName": "ZETA",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41984,9 +41963,9 @@
       "startTime": "2026-08-19T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "ONSIDE GAMING",
+        "shortName": "OSG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137113/167px_onside_gaming_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43492,6 +43471,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-13T09:55:20.582Z",
+  "lastUpdated": "2026-08-13T10:54:47.815Z",
   "source": "PandaScore"
 }
