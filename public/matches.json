@@ -40881,8 +40881,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -40901,9 +40901,9 @@
         "shortName": "QTD",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136807/520px_qt_dig_2025_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -40922,16 +40922,37 @@
         "shortName": "TES",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1619612",
+      "startTime": "2026-08-14T10:44:05Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Team Secret",
+        "shortName": "TS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129537/800px_team_secret_lightmode.png"
+      },
+      "teamB": {
+        "name": "Xipto Esports",
+        "shortName": "XE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135281/1029px_xipto_esports_2025_allmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1585296",
-      "startTime": "2026-08-14T11:00:00Z",
+      "startTime": "2026-08-14T11:10:53Z",
       "region": "LPL",
       "teamA": {
         "name": "Anyone's Legend",
@@ -40945,35 +40966,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1619612",
-      "startTime": "2026-08-14T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Team Secret",
-        "shortName": "TS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129537/800px_team_secret_lightmode.png"
-      },
-      "teamB": {
-        "name": "Xipto Esports",
-        "shortName": "XE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135281/1029px_xipto_esports_2025_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1568926",
-      "startTime": "2026-08-14T11:15:00Z",
+      "startTime": "2026-08-14T11:23:08Z",
       "region": "LCK",
       "teamA": {
         "name": "Nongshim Red Force",
@@ -40987,7 +40987,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -41438,14 +41438,14 @@
       "startTime": "2026-08-16T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
+        "name": "FULL SENSE",
+        "shortName": "FS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
+      },
+      "teamB": {
         "name": "T1",
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41984,9 +41984,9 @@
       "startTime": "2026-08-20T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "QT DIG∞",
+        "shortName": "QTD",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136807/520px_qt_dig_2025_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43345,6 +43345,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-14T10:07:47.855Z",
+  "lastUpdated": "2026-08-14T11:38:29.737Z",
   "source": "PandaScore"
 }
