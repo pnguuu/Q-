@@ -40881,7 +40881,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
@@ -40902,7 +40902,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/136807/520px_qt_dig_2025_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -40910,7 +40910,7 @@
     },
     {
       "id": "1585295",
-      "startTime": "2026-08-14T09:00:00Z",
+      "startTime": "2026-08-14T09:04:43Z",
       "region": "LPL",
       "teamA": {
         "name": "Team WE",
@@ -40922,31 +40922,10 @@
         "shortName": "TES",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1568926",
-      "startTime": "2026-08-14T10:00:00Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Nongshim Red Force",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -40989,6 +40968,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1568926",
+      "startTime": "2026-08-14T11:15:00Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Nongshim Red Force",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -43345,6 +43345,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-14T09:01:06.155Z",
+  "lastUpdated": "2026-08-14T10:07:47.855Z",
   "source": "PandaScore"
 }
