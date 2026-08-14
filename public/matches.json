@@ -40860,15 +40860,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1568925",
-      "startTime": "2026-08-14T08:00:00Z",
+      "startTime": "2026-08-14T08:02:45Z",
       "region": "LCK",
       "teamA": {
         "name": "T1",
@@ -40880,16 +40880,16 @@
         "shortName": "DK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1619611",
-      "startTime": "2026-08-14T08:00:00Z",
+      "startTime": "2026-08-14T08:08:39Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "FULL SENSE",
@@ -40901,9 +40901,9 @@
         "shortName": "QTD",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136807/520px_qt_dig_2025_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43345,6 +43345,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-14T07:12:17.416Z",
+  "lastUpdated": "2026-08-14T09:01:06.155Z",
   "source": "PandaScore"
 }
