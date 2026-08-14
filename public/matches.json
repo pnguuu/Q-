@@ -40994,7 +40994,7 @@
     },
     {
       "id": "1564686",
-      "startTime": "2026-08-14T15:00:00Z",
+      "startTime": "2026-08-14T15:03:31Z",
       "region": "LEC",
       "teamA": {
         "name": "Shifters",
@@ -41007,15 +41007,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1629293",
-      "startTime": "2026-08-14T15:00:00Z",
+      "startTime": "2026-08-14T15:04:32Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Habos Babos",
@@ -41029,14 +41029,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1608165",
-      "startTime": "2026-08-14T15:00:00Z",
+      "startTime": "2026-08-14T15:05:19Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Eintracht Frankfurt",
@@ -41050,7 +41050,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41438,14 +41438,14 @@
       "startTime": "2026-08-16T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "FULL SENSE",
-        "shortName": "FS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
-      },
-      "teamB": {
         "name": "T1",
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+      },
+      "teamB": {
+        "name": "FULL SENSE",
+        "shortName": "FS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41522,14 +41522,14 @@
       "startTime": "2026-08-16T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "Team Secret",
-        "shortName": "TS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129537/800px_team_secret_lightmode.png"
-      },
-      "teamB": {
         "name": "Nongshim RedForce",
         "shortName": "NS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "Team Secret",
+        "shortName": "TS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129537/800px_team_secret_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43345,6 +43345,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-14T14:10:45.013Z",
+  "lastUpdated": "2026-08-14T15:43:18.399Z",
   "source": "PandaScore"
 }
