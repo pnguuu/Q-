@@ -41195,7 +41195,7 @@
         "shortName": "FKS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -41217,7 +41217,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -41238,7 +41238,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-15T15:12:31.199Z",
+  "lastUpdated": "2026-08-15T16:14:55.916Z",
   "source": "PandaScore"
 }
