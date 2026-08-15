@@ -3382,27 +3382,6 @@
       "category": "primary"
     },
     {
-      "id": "1203605",
-      "startTime": "2025-07-17T09:05:24Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Movistar KOI",
-        "shortName": "MKOI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
-      },
-      "teamB": {
-        "name": "CTBC Flying Oyster",
-        "shortName": "CFO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130355/ctbc_flying_oysterlogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "Esports World Cup",
-      "format": "BO1",
-      "category": "international"
-    },
-    {
       "id": "1203598",
       "startTime": "2025-07-17T10:21:53Z",
       "region": "LPL",
@@ -43345,6 +43324,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-14T23:14:07.790Z",
+  "lastUpdated": "2026-08-15T00:45:37.278Z",
   "source": "PandaScore"
 }
