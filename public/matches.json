@@ -41112,8 +41112,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -41133,8 +41133,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -41153,8 +41153,8 @@
         "shortName": "SPE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
+      "scoreA": 1,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -41162,7 +41162,7 @@
     },
     {
       "id": "1585299",
-      "startTime": "2026-08-15T13:00:00Z",
+      "startTime": "2026-08-15T13:04:10Z",
       "region": "LPL",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -41176,7 +41176,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-15T12:20:56.508Z",
+  "lastUpdated": "2026-08-15T13:24:07.492Z",
   "source": "PandaScore"
 }
