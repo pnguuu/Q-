@@ -41154,8 +41154,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41174,37 +41174,16 @@
         "shortName": "WE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1564690",
-      "startTime": "2026-08-15T15:00:00Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "SK Gaming",
-        "shortName": "SK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1629602",
-      "startTime": "2026-08-15T15:00:00Z",
+      "startTime": "2026-08-15T15:01:34Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "ALTERNATE aTTaX Ruby",
@@ -41218,28 +41197,49 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
-      "id": "1608139",
-      "startTime": "2026-08-15T15:00:00Z",
-      "region": "VCT EMEA",
+      "id": "1564690",
+      "startTime": "2026-08-15T15:02:57Z",
+      "region": "LEC",
       "teamA": {
-        "name": "FUT Esports",
-        "shortName": "FUT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+        "name": "SK Gaming",
+        "shortName": "SK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
       },
       "teamB": {
-        "name": "Eternal Fire",
-        "shortName": "EF",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1608149",
+      "startTime": "2026-08-15T15:06:45Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Fire Flux Esports",
+        "shortName": "FF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
+      },
+      "teamB": {
+        "name": "Enterprise Esports",
+        "shortName": "EP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41287,18 +41287,18 @@
       "category": "primary"
     },
     {
-      "id": "1608149",
+      "id": "1608139",
       "startTime": "2026-08-15T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Fire Flux Esports",
-        "shortName": "FF",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
+        "name": "FUT Esports",
+        "shortName": "FUT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "teamB": {
-        "name": "Enterprise Esports",
-        "shortName": "EP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
+        "name": "Eternal Fire",
+        "shortName": "EF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41905,9 +41905,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/136807/520px_qt_dig_2025_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "DetonatioN FocusMe",
+        "shortName": "DFM",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42094,9 +42094,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Sharper Esport",
+        "shortName": "SPE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-15T14:14:20.003Z",
+  "lastUpdated": "2026-08-15T15:12:31.199Z",
   "source": "PandaScore"
 }
