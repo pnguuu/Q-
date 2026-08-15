@@ -41196,8 +41196,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41258,7 +41258,7 @@
         "shortName": "SHFT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LEC",
@@ -41266,29 +41266,8 @@
       "category": "primary"
     },
     {
-      "id": "1629603",
-      "startTime": "2026-08-15T18:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Habos Babos",
-        "shortName": "HBS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/138941/habos_babos_allmode.png"
-      },
-      "teamB": {
-        "name": "Twisted Minds Orchid",
-        "shortName": "TMO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/800px_twisted_minds_2023_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1608139",
-      "startTime": "2026-08-15T18:00:00Z",
+      "startTime": "2026-08-15T17:32:27Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "FUT Esports",
@@ -41299,6 +41278,27 @@
         "name": "Eternal Fire",
         "shortName": "EF",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1629603",
+      "startTime": "2026-08-15T18:20:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Habos Babos",
+        "shortName": "HBS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/138941/habos_babos_allmode.png"
+      },
+      "teamB": {
+        "name": "Twisted Minds Orchid",
+        "shortName": "TMO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/800px_twisted_minds_2023_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41606,9 +41606,9 @@
       "startTime": "2026-08-17T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FOKUS Sakura",
+        "shortName": "FKS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-15T17:13:43.358Z",
+  "lastUpdated": "2026-08-15T18:16:53.077Z",
   "source": "PandaScore"
 }
