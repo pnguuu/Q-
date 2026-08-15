@@ -41279,9 +41279,9 @@
         "shortName": "EF",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41300,9 +41300,9 @@
         "shortName": "TMO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136929/800px_twisted_minds_2023_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41627,9 +41627,9 @@
       "startTime": "2026-08-17T17:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Habos Babos",
+        "shortName": "HBS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/138941/habos_babos_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -41900,14 +41900,14 @@
       "startTime": "2026-08-20T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "QT DIG∞",
-        "shortName": "QTD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136807/520px_qt_dig_2025_allmode.png"
-      },
-      "teamB": {
         "name": "DetonatioN FocusMe",
         "shortName": "DFM",
         "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
+      },
+      "teamB": {
+        "name": "QT DIG∞",
+        "shortName": "QTD",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136807/520px_qt_dig_2025_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41984,14 +41984,14 @@
       "startTime": "2026-08-20T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "Xipto Esports",
-        "shortName": "XE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135281/1029px_xipto_esports_2025_allmode.png"
-      },
-      "teamB": {
         "name": "ZETA DIVISION",
         "shortName": "ZETA",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
+      },
+      "teamB": {
+        "name": "Xipto Esports",
+        "shortName": "XE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135281/1029px_xipto_esports_2025_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-15T19:16:13.933Z",
+  "lastUpdated": "2026-08-15T20:12:53.691Z",
   "source": "PandaScore"
 }
