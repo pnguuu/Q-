@@ -41455,6 +41455,27 @@
       "category": "primary"
     },
     {
+      "id": "1608167",
+      "startTime": "2026-08-16T13:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Eternal Fire",
+        "shortName": "EF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
+      },
+      "teamB": {
+        "name": "Eintracht Frankfurt",
+        "shortName": "SGE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1564692",
       "startTime": "2026-08-16T15:00:00Z",
       "region": "LEC",
@@ -41497,18 +41518,18 @@
       "category": "primary"
     },
     {
-      "id": "1608167",
-      "startTime": "2026-08-16T15:00:00Z",
+      "id": "1608168",
+      "startTime": "2026-08-16T16:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Eintracht Frankfurt",
-        "shortName": "SGE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
+        "name": "Fire Flux Esports",
+        "shortName": "FF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Joblife",
+        "shortName": "JL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132476/joblifelogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41556,27 +41577,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1608168",
-      "startTime": "2026-08-16T18:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Joblife",
-        "shortName": "JL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132476/joblifelogo_square.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-15T21:13:34.319Z",
+  "lastUpdated": "2026-08-15T22:12:25.309Z",
   "source": "PandaScore"
 }
