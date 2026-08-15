@@ -3424,27 +3424,6 @@
       "category": "primary"
     },
     {
-      "id": "1203607",
-      "startTime": "2025-07-17T14:40:39Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "teamB": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "Esports World Cup",
-      "format": "BO3",
-      "category": "international"
-    },
-    {
       "id": "1201788",
       "startTime": "2025-07-17T15:05:17Z",
       "region": "VCT EMEA",
@@ -41133,30 +41112,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1619614",
-      "startTime": "2026-08-15T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "DetonatioN FocusMe",
-        "shortName": "DFM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
-      },
-      "teamB": {
-        "name": "Sharper Esport",
-        "shortName": "SPE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -41175,15 +41133,36 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1619614",
+      "startTime": "2026-08-15T11:25:35Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "DetonatioN FocusMe",
+        "shortName": "DFM",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
+      },
+      "teamB": {
+        "name": "Sharper Esport",
+        "shortName": "SPE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1585299",
-      "startTime": "2026-08-15T12:00:00Z",
+      "startTime": "2026-08-15T13:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -43282,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-15T11:12:17.935Z",
+  "lastUpdated": "2026-08-15T12:20:56.508Z",
   "source": "PandaScore"
 }
