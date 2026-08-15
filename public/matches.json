@@ -41174,7 +41174,7 @@
         "shortName": "WE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LPL",
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-15T13:24:07.492Z",
+  "lastUpdated": "2026-08-15T14:14:20.003Z",
   "source": "PandaScore"
 }
