@@ -41196,7 +41196,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -41217,8 +41217,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -41238,15 +41238,36 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1564691",
+      "startTime": "2026-08-15T16:55:38Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "teamB": {
+        "name": "Shifters",
+        "shortName": "SHFT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1629603",
-      "startTime": "2026-08-15T17:00:00Z",
+      "startTime": "2026-08-15T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Habos Babos",
@@ -41262,27 +41283,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1564691",
-      "startTime": "2026-08-15T17:15:00Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "teamB": {
-        "name": "Shifters",
-        "shortName": "SHFT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-15T16:14:55.916Z",
+  "lastUpdated": "2026-08-15T17:13:43.358Z",
   "source": "PandaScore"
 }
