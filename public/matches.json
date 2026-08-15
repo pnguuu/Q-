@@ -41111,7 +41111,7 @@
         "shortName": "LNG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LPL",
@@ -41120,7 +41120,7 @@
     },
     {
       "id": "1568927",
-      "startTime": "2026-08-15T08:00:00Z",
+      "startTime": "2026-08-15T08:00:20Z",
       "region": "LCK",
       "teamA": {
         "name": "Hanwha Life Esports",
@@ -41134,14 +41134,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1619613",
-      "startTime": "2026-08-15T08:00:00Z",
+      "startTime": "2026-08-15T08:09:07Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -41155,7 +41155,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43324,6 +43324,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-15T07:22:57.818Z",
+  "lastUpdated": "2026-08-15T08:17:24.497Z",
   "source": "PandaScore"
 }
