@@ -41489,7 +41489,7 @@
         "shortName": "Navi",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LEC",
@@ -41511,7 +41511,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137995/621px_gentle_mates_2024_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -41519,7 +41519,7 @@
     },
     {
       "id": "1608168",
-      "startTime": "2026-08-16T15:15:00Z",
+      "startTime": "2026-08-16T15:16:50Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Fire Flux Esports",
@@ -41531,9 +41531,9 @@
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132476/joblifelogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-16T15:13:14.673Z",
+  "lastUpdated": "2026-08-16T16:14:48.315Z",
   "source": "PandaScore"
 }
