@@ -41531,7 +41531,7 @@
         "shortName": "SK.N",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -43219,6 +43219,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-16T20:12:49.917Z",
+  "lastUpdated": "2026-08-16T21:12:35.011Z",
   "source": "PandaScore"
 }
