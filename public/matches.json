@@ -41321,9 +41321,9 @@
         "shortName": "JDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -41343,8 +41343,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -41363,7 +41363,28 @@
         "shortName": "FS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1619616",
+      "startTime": "2026-08-16T09:51:33Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Nongshim RedForce",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "Team Secret",
+        "shortName": "TS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129537/800px_team_secret_lightmode.png"
+      },
+      "scoreA": 0,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -41372,7 +41393,7 @@
     },
     {
       "id": "1585301",
-      "startTime": "2026-08-16T10:00:00Z",
+      "startTime": "2026-08-16T10:07:13Z",
       "region": "LPL",
       "teamA": {
         "name": "Weibo Gaming",
@@ -41386,14 +41407,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1568930",
-      "startTime": "2026-08-16T10:00:00Z",
+      "startTime": "2026-08-16T10:30:00Z",
       "region": "LCK",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -41409,27 +41430,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1619616",
-      "startTime": "2026-08-16T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Nongshim RedForce",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "Team Secret",
-        "shortName": "TS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129537/800px_team_secret_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -41842,9 +41842,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130638/600px_rex_regum_qeon_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FULL SENSE",
+        "shortName": "FS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42173,9 +42173,9 @@
       "startTime": "2026-08-21T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-16T09:19:22.214Z",
+  "lastUpdated": "2026-08-16T10:14:52.957Z",
   "source": "PandaScore"
 }
