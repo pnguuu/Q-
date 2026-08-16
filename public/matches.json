@@ -41384,7 +41384,7 @@
         "shortName": "TS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129537/800px_team_secret_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -41406,7 +41406,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
@@ -41414,7 +41414,7 @@
     },
     {
       "id": "1568930",
-      "startTime": "2026-08-16T10:30:00Z",
+      "startTime": "2026-08-16T10:36:16Z",
       "region": "LCK",
       "teamA": {
         "name": "Kiwoom DRX",
@@ -41428,7 +41428,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-16T10:14:52.957Z",
+  "lastUpdated": "2026-08-16T11:12:55.125Z",
   "source": "PandaScore"
 }
