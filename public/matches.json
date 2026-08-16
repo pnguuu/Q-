@@ -3487,27 +3487,6 @@
       "category": "primary"
     },
     {
-      "id": "1203609",
-      "startTime": "2025-07-18T09:05:07Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "teamB": {
-        "name": "Movistar KOI",
-        "shortName": "MKOI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "Esports World Cup",
-      "format": "BO3",
-      "category": "international"
-    },
-    {
       "id": "1200574",
       "startTime": "2025-07-18T09:07:42Z",
       "region": "VCT CN",
@@ -41489,9 +41468,9 @@
         "shortName": "Navi",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -41510,7 +41489,7 @@
         "shortName": "M8.GC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137995/621px_gentle_mates_2024_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -41531,16 +41510,37 @@
         "shortName": "JL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/132476/joblifelogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1564693",
+      "startTime": "2026-08-16T17:06:23Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "teamB": {
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1629605",
-      "startTime": "2026-08-16T17:00:00Z",
+      "startTime": "2026-08-16T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "GIANTX GC",
@@ -41556,27 +41556,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1564693",
-      "startTime": "2026-08-16T17:15:00Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "teamB": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
@@ -43261,6 +43240,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-16T16:14:48.315Z",
+  "lastUpdated": "2026-08-16T17:13:11.456Z",
   "source": "PandaScore"
 }
