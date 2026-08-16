@@ -41968,9 +41968,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FUT Esports",
+        "shortName": "FUT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41989,9 +41989,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Enterprise Esports",
+        "shortName": "EP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42404,9 +42404,9 @@
       "startTime": "2026-08-22T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Eintracht Frankfurt",
+        "shortName": "SGE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42446,9 +42446,9 @@
       "startTime": "2026-08-22T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Fire Flux Esports",
+        "shortName": "FF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43219,6 +43219,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-16T22:13:00.148Z",
+  "lastUpdated": "2026-08-16T23:12:31.729Z",
   "source": "PandaScore"
 }
