@@ -41448,7 +41448,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -41456,7 +41456,7 @@
     },
     {
       "id": "1585302",
-      "startTime": "2026-08-16T13:20:00Z",
+      "startTime": "2026-08-16T13:27:12Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -41468,9 +41468,9 @@
         "shortName": "EDG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43261,6 +43261,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-16T13:24:46.849Z",
+  "lastUpdated": "2026-08-16T14:14:35.238Z",
   "source": "PandaScore"
 }
