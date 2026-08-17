@@ -41552,7 +41552,7 @@
         "shortName": "GX GC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134521/giant_x_logo.svg.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -41573,7 +41573,7 @@
         "shortName": "TH",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LEC",
@@ -43219,6 +43219,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-17T15:17:55.531Z",
+  "lastUpdated": "2026-08-17T16:17:29.785Z",
   "source": "PandaScore"
 }
