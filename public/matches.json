@@ -41615,9 +41615,9 @@
         "shortName": "HBS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/138941/habos_babos_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41653,9 +41653,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "G2 Gozen",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43219,6 +43219,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-17T19:21:32.905Z",
+  "lastUpdated": "2026-08-17T20:16:50.020Z",
   "source": "PandaScore"
 }
