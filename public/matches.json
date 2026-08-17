@@ -41539,29 +41539,8 @@
       "category": "primary"
     },
     {
-      "id": "1564694",
-      "startTime": "2026-08-17T15:00:00Z",
-      "region": "LEC",
-      "teamA": {
-        "name": "Natus Vincere",
-        "shortName": "Navi",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
-      },
-      "teamB": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1629611",
-      "startTime": "2026-08-17T15:00:00Z",
+      "startTime": "2026-08-17T15:02:18Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "FOKUS Sakura",
@@ -41575,8 +41554,29 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1564694",
+      "startTime": "2026-08-17T15:03:56Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Natus Vincere",
+        "shortName": "Navi",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
+      },
+      "teamB": {
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
@@ -43219,6 +43219,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-17T14:19:46.470Z",
+  "lastUpdated": "2026-08-17T15:17:55.531Z",
   "source": "PandaScore"
 }
