@@ -41615,7 +41615,7 @@
         "shortName": "HBS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/138941/habos_babos_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -43219,6 +43219,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-17T18:26:25.907Z",
+  "lastUpdated": "2026-08-17T19:21:32.905Z",
   "source": "PandaScore"
 }
