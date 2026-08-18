@@ -41510,7 +41510,7 @@
         "shortName": "G2",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -43156,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-18T18:24:47.231Z",
+  "lastUpdated": "2026-08-18T19:22:20.733Z",
   "source": "PandaScore"
 }
