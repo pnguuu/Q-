@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1139935",
-      "startTime": "2025-04-16T17:25:26Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "KOI",
-        "shortName": "KOI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135651/600px_koi_2024_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1162445",
       "startTime": "2025-04-17T09:06:42Z",
       "region": "VCT CN",
@@ -3590,27 +3569,6 @@
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
-    },
-    {
-      "id": "1203611",
-      "startTime": "2025-07-19T09:05:29Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "AG.AL",
-        "shortName": "AG.AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137193/ag.a_llogo_square.png"
-      },
-      "teamB": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "Esports World Cup",
-      "format": "BO3",
-      "category": "international"
     },
     {
       "id": "1200535",
@@ -43261,6 +43219,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-18T00:44:46.444Z",
+  "lastUpdated": "2026-08-18T02:10:43.571Z",
   "source": "PandaScore"
 }
