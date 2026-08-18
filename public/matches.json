@@ -41519,7 +41519,7 @@
     },
     {
       "id": "1629606",
-      "startTime": "2026-08-18T15:00:00Z",
+      "startTime": "2026-08-18T15:06:54Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates GC",
@@ -41533,7 +41533,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43198,6 +43198,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-18T14:24:59.372Z",
+  "lastUpdated": "2026-08-18T15:23:09.237Z",
   "source": "PandaScore"
 }
