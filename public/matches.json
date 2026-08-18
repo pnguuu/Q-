@@ -3592,27 +3592,6 @@
       "category": "primary"
     },
     {
-      "id": "1209012",
-      "startTime": "2025-07-19T09:11:44Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "teamB": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1200537",
       "startTime": "2025-07-19T11:19:19Z",
       "region": "VCT CN",
@@ -43219,6 +43198,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-18T10:19:10.365Z",
+  "lastUpdated": "2026-08-18T11:17:29.767Z",
   "source": "PandaScore"
 }
