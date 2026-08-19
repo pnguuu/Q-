@@ -41490,7 +41490,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
       "format": "BO3",
@@ -41498,7 +41498,7 @@
     },
     {
       "id": "1568931",
-      "startTime": "2026-08-19T08:00:00Z",
+      "startTime": "2026-08-19T07:59:47Z",
       "region": "LCK",
       "teamA": {
         "name": "Gen.G",
@@ -41512,14 +41512,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1619619",
-      "startTime": "2026-08-19T08:00:00Z",
+      "startTime": "2026-08-19T08:04:20Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "ONSIDE GAMING",
@@ -41533,7 +41533,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43324,6 +43324,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-19T07:31:31.180Z",
+  "lastUpdated": "2026-08-19T08:26:53.123Z",
   "source": "PandaScore"
 }
