@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1162445",
-      "startTime": "2025-04-17T09:06:42Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "TEC Esports",
-        "shortName": "TEC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
-      },
-      "teamB": {
-        "name": "Wolves Esports",
-        "shortName": "WOL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1162446",
       "startTime": "2025-04-17T11:38:53Z",
       "region": "VCT CN",
@@ -41510,9 +41489,9 @@
         "shortName": "KT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -41540,7 +41519,7 @@
     },
     {
       "id": "1585305",
-      "startTime": "2026-08-19T10:15:00Z",
+      "startTime": "2026-08-19T10:21:51Z",
       "region": "LPL",
       "teamA": {
         "name": "Anyone's Legend",
@@ -41553,15 +41532,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1619620",
-      "startTime": "2026-08-19T10:20:00Z",
+      "startTime": "2026-08-19T10:22:55Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Rex Regum Qeon",
@@ -41573,16 +41552,16 @@
         "shortName": "FS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1568932",
-      "startTime": "2026-08-19T11:00:00Z",
+      "startTime": "2026-08-19T11:14:38Z",
       "region": "LCK",
       "teamA": {
         "name": "HANJIN BRION",
@@ -41596,7 +41575,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -43324,6 +43303,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-19T10:21:10.232Z",
+  "lastUpdated": "2026-08-19T11:18:18.035Z",
   "source": "PandaScore"
 }
