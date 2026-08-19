@@ -41490,8 +41490,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -41511,7 +41511,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
       "format": "BO3",
@@ -41531,16 +41531,16 @@
         "shortName": "TS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129537/800px_team_secret_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1585305",
-      "startTime": "2026-08-19T10:00:00Z",
+      "startTime": "2026-08-19T10:15:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Anyone's Legend",
@@ -41560,29 +41560,8 @@
       "category": "primary"
     },
     {
-      "id": "1568932",
-      "startTime": "2026-08-19T10:00:00Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
-      },
-      "teamB": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1619620",
-      "startTime": "2026-08-19T11:00:00Z",
+      "startTime": "2026-08-19T10:20:00Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Rex Regum Qeon",
@@ -41598,6 +41577,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1568932",
+      "startTime": "2026-08-19T11:00:00Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
+      },
+      "teamB": {
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -42089,9 +42089,9 @@
       "startTime": "2026-08-22T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "ONSIDE GAMING",
+        "shortName": "OSG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137113/167px_onside_gaming_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43324,6 +43324,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-19T09:24:51.876Z",
+  "lastUpdated": "2026-08-19T10:21:10.232Z",
   "source": "PandaScore"
 }
