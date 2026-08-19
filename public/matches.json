@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1139936",
-      "startTime": "2025-04-17T15:03:40Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Gentle Mates",
-        "shortName": "M8",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
-      },
-      "teamB": {
-        "name": "BBL Esports",
-        "shortName": "BBL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1139916",
       "startTime": "2025-04-17T17:08:59Z",
       "region": "VCT EMEA",
@@ -3672,27 +3651,6 @@
       "scoreB": 0,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1209017",
-      "startTime": "2025-07-21T11:53:46Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "teamB": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -43513,6 +43471,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-19T22:16:36.509Z",
+  "lastUpdated": "2026-08-19T23:15:59.792Z",
   "source": "PandaScore"
 }
