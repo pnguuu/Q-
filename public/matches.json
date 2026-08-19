@@ -41791,29 +41791,8 @@
       "category": "primary"
     },
     {
-      "id": "1608209",
-      "startTime": "2026-08-20T15:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Team Liquid",
-        "shortName": "TL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "FUT Esports",
-        "shortName": "FUT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1608210",
-      "startTime": "2026-08-20T18:00:00Z",
+      "startTime": "2026-08-20T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Team Vitality",
@@ -41824,6 +41803,27 @@
         "name": "Enterprise Esports",
         "shortName": "EP",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1608209",
+      "startTime": "2026-08-20T18:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Team Liquid",
+        "shortName": "TL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "FUT Esports",
+        "shortName": "FUT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42001,13 +42001,13 @@
       "category": "primary"
     },
     {
-      "id": "1608211",
+      "id": "1608212",
       "startTime": "2026-08-21T15:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "BBL Esports",
-        "shortName": "BBL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42043,13 +42043,13 @@
       "category": "primary"
     },
     {
-      "id": "1608212",
+      "id": "1608211",
       "startTime": "2026-08-21T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Karmine Corp",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
+        "name": "BBL Esports",
+        "shortName": "BBL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42211,6 +42211,27 @@
       "category": "primary"
     },
     {
+      "id": "1608253",
+      "startTime": "2026-08-22T14:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Eintracht Frankfurt",
+        "shortName": "SGE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1564738",
       "startTime": "2026-08-22T15:00:00Z",
       "region": "LEC",
@@ -42232,13 +42253,13 @@
       "category": "primary"
     },
     {
-      "id": "1608253",
-      "startTime": "2026-08-22T15:00:00Z",
+      "id": "1608254",
+      "startTime": "2026-08-22T17:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Eintracht Frankfurt",
-        "shortName": "SGE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
+        "name": "Fire Flux Esports",
+        "shortName": "FF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42270,27 +42291,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1608254",
-      "startTime": "2026-08-22T18:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Fire Flux Esports",
-        "shortName": "FF",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -42442,6 +42442,27 @@
       "category": "primary"
     },
     {
+      "id": "1608238",
+      "startTime": "2026-08-23T14:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1564740",
       "startTime": "2026-08-23T15:00:00Z",
       "region": "LEC",
@@ -42463,8 +42484,8 @@
       "category": "primary"
     },
     {
-      "id": "1608238",
-      "startTime": "2026-08-23T15:00:00Z",
+      "id": "1608239",
+      "startTime": "2026-08-23T17:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "TBD",
@@ -42501,27 +42522,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1608239",
-      "startTime": "2026-08-23T18:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -42757,6 +42757,27 @@
       "category": "primary"
     },
     {
+      "id": "1608213",
+      "startTime": "2026-08-28T14:00:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1564744",
       "startTime": "2026-08-28T15:00:00Z",
       "region": "LEC",
@@ -42778,8 +42799,8 @@
       "category": "primary"
     },
     {
-      "id": "1608213",
-      "startTime": "2026-08-28T15:00:00Z",
+      "id": "1608230",
+      "startTime": "2026-08-28T17:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "TBD",
@@ -42816,27 +42837,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LEC",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1608230",
-      "startTime": "2026-08-28T18:00:00Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -43135,6 +43135,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-19T05:22:05.594Z",
+  "lastUpdated": "2026-08-19T06:29:24.341Z",
   "source": "PandaScore"
 }
