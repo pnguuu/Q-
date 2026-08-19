@@ -41489,7 +41489,7 @@
         "shortName": "WB",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
@@ -41510,7 +41510,7 @@
         "shortName": "KT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LCK",
@@ -41531,7 +41531,7 @@
         "shortName": "TS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129537/800px_team_secret_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -41540,7 +41540,7 @@
     },
     {
       "id": "1585305",
-      "startTime": "2026-08-19T09:00:00Z",
+      "startTime": "2026-08-19T10:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Anyone's Legend",
@@ -41581,27 +41581,6 @@
       "category": "primary"
     },
     {
-      "id": "1585304",
-      "startTime": "2026-08-19T11:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Team WE",
-        "shortName": "WE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1619620",
       "startTime": "2026-08-19T11:00:00Z",
       "region": "VCT PAC",
@@ -41619,6 +41598,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1585304",
+      "startTime": "2026-08-19T12:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "teamB": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -43324,6 +43324,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-19T08:26:53.123Z",
+  "lastUpdated": "2026-08-19T09:24:51.876Z",
   "source": "PandaScore"
 }
