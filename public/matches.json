@@ -3634,27 +3634,6 @@
       "category": "primary"
     },
     {
-      "id": "1203613",
-      "startTime": "2025-07-20T08:05:20Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "G2 Esports",
-        "shortName": "G2",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
-      },
-      "teamB": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "Esports World Cup",
-      "format": "BO3",
-      "category": "international"
-    },
-    {
       "id": "1200540",
       "startTime": "2025-07-20T08:07:36Z",
       "region": "VCT PAC",
@@ -43156,6 +43135,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-19T02:14:11.420Z",
+  "lastUpdated": "2026-08-19T03:39:42.058Z",
   "source": "PandaScore"
 }
