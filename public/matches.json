@@ -41552,7 +41552,7 @@
         "shortName": "G2",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
@@ -42589,6 +42589,27 @@
       "category": "primary"
     },
     {
+      "id": "1643086",
+      "startTime": "2026-08-28T06:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
+      "format": "BO5",
+      "category": "primary"
+    },
+    {
       "id": "1629297",
       "startTime": "2026-08-28T08:00:00Z",
       "region": "LCK",
@@ -42628,6 +42649,27 @@
       "status": "待开始",
       "league": "VCT",
       "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1643087",
+      "startTime": "2026-08-28T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
+      "format": "BO5",
       "category": "primary"
     },
     {
@@ -42778,6 +42820,27 @@
       "category": "primary"
     },
     {
+      "id": "1643088",
+      "startTime": "2026-08-29T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
+      "format": "BO5",
+      "category": "primary"
+    },
+    {
       "id": "1619634",
       "startTime": "2026-08-29T11:00:00Z",
       "region": "VCT PAC",
@@ -42879,6 +42942,27 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
+      "format": "BO5",
+      "category": "primary"
+    },
+    {
+      "id": "1643089",
+      "startTime": "2026-08-30T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "LPL",
       "format": "BO5",
       "category": "primary"
     },
@@ -43240,6 +43324,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-19T17:19:44.480Z",
+  "lastUpdated": "2026-08-19T18:21:38.645Z",
   "source": "PandaScore"
 }
