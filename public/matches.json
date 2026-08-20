@@ -41595,15 +41595,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1608210",
-      "startTime": "2026-08-20T15:00:00Z",
+      "startTime": "2026-08-20T15:07:39Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Team Vitality",
@@ -41617,7 +41617,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43450,6 +43450,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-20T14:27:44.647Z",
+  "lastUpdated": "2026-08-20T15:26:15.436Z",
   "source": "PandaScore"
 }
