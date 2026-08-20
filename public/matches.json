@@ -41816,14 +41816,14 @@
       "startTime": "2026-08-21T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "FUT Esports",
-        "shortName": "FUT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
-      },
-      "teamB": {
         "name": "BBL Esports",
         "shortName": "BBL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
+      },
+      "teamB": {
+        "name": "FUT Esports",
+        "shortName": "FUT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43408,6 +43408,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-20T20:19:24.665Z",
+  "lastUpdated": "2026-08-20T21:19:49.792Z",
   "source": "PandaScore"
 }
