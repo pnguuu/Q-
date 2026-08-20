@@ -41595,7 +41595,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -43429,6 +43429,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-20T16:24:08.724Z",
+  "lastUpdated": "2026-08-20T17:21:03.208Z",
   "source": "PandaScore"
 }
