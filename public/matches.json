@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1139916",
-      "startTime": "2025-04-17T17:08:59Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "GIANTX",
-        "shortName": "GX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
-      },
-      "teamB": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1162447",
       "startTime": "2025-04-18T09:06:36Z",
       "region": "VCT CN",
@@ -43471,6 +43450,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-20T00:45:07.542Z",
+  "lastUpdated": "2026-08-20T02:12:45.954Z",
   "source": "PandaScore"
 }
