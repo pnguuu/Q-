@@ -41574,7 +41574,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/135281/1029px_xipto_esports_2025_allmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -41594,7 +41594,7 @@
         "shortName": "BLG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LPL",
@@ -43450,6 +43450,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-20T12:31:10.102Z",
+  "lastUpdated": "2026-08-20T13:39:24.955Z",
   "source": "PandaScore"
 }
