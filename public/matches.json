@@ -41595,8 +41595,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41816,14 +41816,14 @@
       "startTime": "2026-08-21T18:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
+        "name": "FUT Esports",
+        "shortName": "FUT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+      },
+      "teamB": {
         "name": "BBL Esports",
         "shortName": "BBL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -41984,14 +41984,14 @@
       "startTime": "2026-08-22T14:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
+        "name": "Team Liquid",
+        "shortName": "TL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
+      },
+      "teamB": {
         "name": "Eintracht Frankfurt",
         "shortName": "SGE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43408,6 +43408,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-20T19:24:52.302Z",
+  "lastUpdated": "2026-08-20T20:19:24.665Z",
   "source": "PandaScore"
 }
