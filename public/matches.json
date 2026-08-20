@@ -3634,27 +3634,6 @@
       "category": "primary"
     },
     {
-      "id": "1209018",
-      "startTime": "2025-07-22T09:09:44Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1209019",
       "startTime": "2025-07-22T12:03:51Z",
       "region": "LPL",
@@ -41615,7 +41594,7 @@
         "shortName": "EP",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -43450,6 +43429,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-20T15:26:15.436Z",
+  "lastUpdated": "2026-08-20T16:24:08.724Z",
   "source": "PandaScore"
 }
