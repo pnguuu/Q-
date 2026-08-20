@@ -41510,9 +41510,9 @@
         "shortName": "QTD",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136807/520px_qt_dig_2025_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41531,7 +41531,7 @@
         "shortName": "TT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
@@ -41540,7 +41540,7 @@
     },
     {
       "id": "1568934",
-      "startTime": "2026-08-20T10:30:00Z",
+      "startTime": "2026-08-20T10:28:07Z",
       "region": "LCK",
       "teamA": {
         "name": "Nongshim Red Force",
@@ -41552,16 +41552,37 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1619622",
+      "startTime": "2026-08-20T11:16:13Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "ZETA DIVISION",
+        "shortName": "ZETA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
+      },
+      "teamB": {
+        "name": "Xipto Esports",
+        "shortName": "XE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135281/1029px_xipto_esports_2025_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1585307",
-      "startTime": "2026-08-20T11:00:00Z",
+      "startTime": "2026-08-20T12:00:00Z",
       "region": "LPL",
       "teamA": {
         "name": "LGD Gaming",
@@ -41577,27 +41598,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1619622",
-      "startTime": "2026-08-20T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "ZETA DIVISION",
-        "shortName": "ZETA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
-      },
-      "teamB": {
-        "name": "Xipto Esports",
-        "shortName": "XE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135281/1029px_xipto_esports_2025_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -42005,9 +42005,9 @@
       "startTime": "2026-08-22T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "DetonatioN FocusMe",
+        "shortName": "DFM",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43450,6 +43450,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-20T10:21:26.748Z",
+  "lastUpdated": "2026-08-20T11:19:21.453Z",
   "source": "PandaScore"
 }
