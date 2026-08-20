@@ -41477,7 +41477,7 @@
     },
     {
       "id": "1568933",
-      "startTime": "2026-08-20T08:00:00Z",
+      "startTime": "2026-08-20T08:01:33Z",
       "region": "LCK",
       "teamA": {
         "name": "Dplus KIA",
@@ -41491,14 +41491,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1619621",
-      "startTime": "2026-08-20T08:00:00Z",
+      "startTime": "2026-08-20T08:04:33Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "DetonatioN FocusMe",
@@ -41512,7 +41512,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43450,6 +43450,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-20T07:34:14.005Z",
+  "lastUpdated": "2026-08-20T08:28:25.115Z",
   "source": "PandaScore"
 }
