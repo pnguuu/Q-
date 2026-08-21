@@ -41658,8 +41658,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -41700,8 +41700,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43366,6 +43366,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-21T13:38:46.841Z",
+  "lastUpdated": "2026-08-21T14:26:37.613Z",
   "source": "PandaScore"
 }
