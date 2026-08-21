@@ -41582,7 +41582,7 @@
     },
     {
       "id": "1585311",
-      "startTime": "2026-08-21T07:00:00Z",
+      "startTime": "2026-08-21T07:07:25Z",
       "region": "LPL",
       "teamA": {
         "name": "EDward Gaming",
@@ -41596,7 +41596,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43387,6 +43387,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-21T06:31:39.648Z",
+  "lastUpdated": "2026-08-21T07:36:26.549Z",
   "source": "PandaScore"
 }
