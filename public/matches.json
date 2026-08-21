@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1139917",
-      "startTime": "2025-04-18T19:18:18Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Natus Vincere",
-        "shortName": "NAVI",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129355/1022px_natus_vincere_2021_lightmode.png"
-      },
-      "teamB": {
-        "name": "Team Heretics",
-        "shortName": "TH",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138033",
       "startTime": "2025-04-19T08:05:07Z",
       "region": "VCT PAC",
@@ -41763,8 +41742,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42194,9 +42173,9 @@
       "startTime": "2026-08-23T17:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "BBL Esports",
+        "shortName": "BBL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42514,9 +42493,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FUT Esports",
+        "shortName": "FUT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43345,6 +43324,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-21T20:16:47.129Z",
+  "lastUpdated": "2026-08-21T21:16:08.785Z",
   "source": "PandaScore"
 }
