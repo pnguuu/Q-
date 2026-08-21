@@ -3550,27 +3550,6 @@
       "category": "primary"
     },
     {
-      "id": "1204662",
-      "startTime": "2025-07-23T08:00:09Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
-      },
-      "teamB": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1209020",
       "startTime": "2025-07-23T09:10:49Z",
       "region": "LPL",
@@ -43324,6 +43303,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-21T22:15:43.562Z",
+  "lastUpdated": "2026-08-21T23:16:02.128Z",
   "source": "PandaScore"
 }
