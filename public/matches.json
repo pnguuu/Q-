@@ -41616,8 +41616,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -41636,9 +41636,9 @@
         "shortName": "SPE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41658,30 +41658,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1619618",
-      "startTime": "2026-08-21T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
-      },
-      "teamB": {
-        "name": "Nongshim RedForce",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -41707,8 +41686,29 @@
       "category": "primary"
     },
     {
-      "id": "1585310",
+      "id": "1619618",
       "startTime": "2026-08-21T11:20:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+      },
+      "teamB": {
+        "name": "Nongshim RedForce",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1585310",
+      "startTime": "2026-08-21T12:20:00Z",
       "region": "LPL",
       "teamA": {
         "name": "Top Esports",
@@ -42173,9 +42173,9 @@
       "startTime": "2026-08-23T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Sharper Esport",
+        "shortName": "SPE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129076/573px_sharper_esport_2021_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43387,6 +43387,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-21T10:21:41.816Z",
+  "lastUpdated": "2026-08-21T11:18:30.025Z",
   "source": "PandaScore"
 }
