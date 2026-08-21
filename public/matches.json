@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1162447",
-      "startTime": "2025-04-18T09:06:36Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "TEC Esports",
-        "shortName": "TEC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
-      },
-      "teamB": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1162448",
       "startTime": "2025-04-18T12:52:34Z",
       "region": "VCT CN",
@@ -43408,6 +43387,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-21T00:49:25.545Z",
+  "lastUpdated": "2026-08-21T02:19:17.567Z",
   "source": "PandaScore"
 }
