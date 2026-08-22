@@ -3550,27 +3550,6 @@
       "category": "primary"
     },
     {
-      "id": "1209020",
-      "startTime": "2025-07-23T09:10:49Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "FunPlus Phoenix",
-        "shortName": "FPX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1568/fun_plus_phoenixlogo_square.png"
-      },
-      "teamB": {
-        "name": "Top Esports",
-        "shortName": "TES",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1200539",
       "startTime": "2025-07-23T11:09:32Z",
       "region": "VCT CN",
@@ -43303,6 +43282,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-21T23:16:02.128Z",
+  "lastUpdated": "2026-08-22T00:45:17.370Z",
   "source": "PandaScore"
 }
