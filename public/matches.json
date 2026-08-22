@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138033",
-      "startTime": "2025-04-19T08:05:07Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Paper Rex",
-        "shortName": "PR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
-      },
-      "teamB": {
-        "name": "Global Esports",
-        "shortName": "GE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1162449",
       "startTime": "2025-04-19T09:06:07Z",
       "region": "VCT CN",
@@ -3567,27 +3546,6 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1204663",
-      "startTime": "2025-07-23T11:12:03Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
-      },
-      "teamB": {
-        "name": "Hanwha Life Esports",
-        "shortName": "HLE",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -41721,8 +41679,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -41741,7 +41699,7 @@
         "shortName": "GEN",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "LCK",
@@ -41762,16 +41720,16 @@
         "shortName": "FS",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1585312",
-      "startTime": "2026-08-22T10:00:00Z",
+      "startTime": "2026-08-22T10:04:06Z",
       "region": "LPL",
       "teamA": {
         "name": "Ninjas in Pyjamas",
@@ -41785,14 +41743,35 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
+      "id": "1619624",
+      "startTime": "2026-08-22T10:13:01Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "DetonatioN FocusMe",
+        "shortName": "DFM",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
+      },
+      "teamB": {
+        "name": "ZETA DIVISION",
+        "shortName": "ZETA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1568938",
-      "startTime": "2026-08-22T10:00:00Z",
+      "startTime": "2026-08-22T11:00:00Z",
       "region": "LCK",
       "teamA": {
         "name": "DN SOOPers",
@@ -41808,27 +41787,6 @@
       "scoreB": 0,
       "status": "待开始",
       "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1619624",
-      "startTime": "2026-08-22T11:00:00Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "DetonatioN FocusMe",
-        "shortName": "DFM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
-      },
-      "teamB": {
-        "name": "ZETA DIVISION",
-        "shortName": "ZETA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
@@ -41989,9 +41947,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "ONSIDE GAMING",
+        "shortName": "OSG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137113/167px_onside_gaming_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43282,6 +43240,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-22T09:19:11.944Z",
+  "lastUpdated": "2026-08-22T10:14:45.293Z",
   "source": "PandaScore"
 }
