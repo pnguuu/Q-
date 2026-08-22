@@ -41708,7 +41708,7 @@
     },
     {
       "id": "1585315",
-      "startTime": "2026-08-22T07:00:00Z",
+      "startTime": "2026-08-22T07:08:01Z",
       "region": "LPL",
       "teamA": {
         "name": "Team WE",
@@ -41722,7 +41722,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43282,6 +43282,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-22T06:24:54.900Z",
+  "lastUpdated": "2026-08-22T07:24:54.246Z",
   "source": "PandaScore"
 }
