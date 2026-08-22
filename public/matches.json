@@ -41762,16 +41762,16 @@
         "shortName": "SHFT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1608254",
-      "startTime": "2026-08-22T16:30:00Z",
+      "startTime": "2026-08-22T16:36:28Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Team Vitality",
@@ -41785,14 +41785,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1564739",
-      "startTime": "2026-08-22T17:15:00Z",
+      "startTime": "2026-08-22T16:53:54Z",
       "region": "LEC",
       "teamA": {
         "name": "SK Gaming",
@@ -41806,7 +41806,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43156,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-22T16:14:23.831Z",
+  "lastUpdated": "2026-08-22T17:13:33.112Z",
   "source": "PandaScore"
 }
