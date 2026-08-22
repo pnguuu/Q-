@@ -41763,7 +41763,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -41771,7 +41771,7 @@
     },
     {
       "id": "1564738",
-      "startTime": "2026-08-22T15:00:00Z",
+      "startTime": "2026-08-22T15:02:12Z",
       "region": "LEC",
       "teamA": {
         "name": "Fnatic",
@@ -41785,7 +41785,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43177,6 +43177,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-22T14:13:41.321Z",
+  "lastUpdated": "2026-08-22T15:13:07.733Z",
   "source": "PandaScore"
 }
