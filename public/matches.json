@@ -42446,14 +42446,14 @@
       "startTime": "2026-08-28T14:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "Karmine Corp",
-        "shortName": "KC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
-      },
-      "teamB": {
         "name": "FUT Esports",
         "shortName": "FUT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+      },
+      "teamB": {
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43282,6 +43282,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-22T02:10:41.422Z",
+  "lastUpdated": "2026-08-22T03:35:29.516Z",
   "source": "PandaScore"
 }
