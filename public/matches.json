@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1162450",
-      "startTime": "2025-04-19T11:30:52Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "XLG Gaming",
-        "shortName": "XLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138035",
       "startTime": "2025-04-20T08:05:23Z",
       "region": "VCT PAC",
@@ -41762,9 +41741,9 @@
         "shortName": "SGE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41783,7 +41762,7 @@
         "shortName": "SHFT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "LEC",
@@ -41792,7 +41771,7 @@
     },
     {
       "id": "1608254",
-      "startTime": "2026-08-22T17:00:00Z",
+      "startTime": "2026-08-22T16:30:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Team Vitality",
@@ -41989,9 +41968,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Liquid",
+        "shortName": "TL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43177,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-22T15:13:07.733Z",
+  "lastUpdated": "2026-08-22T16:14:23.831Z",
   "source": "PandaScore"
 }
