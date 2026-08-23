@@ -41951,7 +41951,7 @@
         "shortName": "AL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "LPL",
@@ -41973,7 +41973,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -41981,7 +41981,7 @@
     },
     {
       "id": "1564740",
-      "startTime": "2026-08-23T15:00:00Z",
+      "startTime": "2026-08-23T15:03:48Z",
       "region": "LEC",
       "teamA": {
         "name": "Team Heretics",
@@ -41995,7 +41995,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43156,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-23T14:16:04.167Z",
+  "lastUpdated": "2026-08-23T15:14:39.625Z",
   "source": "PandaScore"
 }
