@@ -41910,8 +41910,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -41930,16 +41930,16 @@
         "shortName": "DFM",
         "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1585316",
-      "startTime": "2026-08-23T12:20:00Z",
+      "startTime": "2026-08-23T12:23:11Z",
       "region": "LPL",
       "teamA": {
         "name": "Bilibili Gaming",
@@ -41952,8 +41952,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -42115,9 +42115,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Nongshim RedForce",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42136,9 +42136,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42257,9 +42257,9 @@
       "startTime": "2026-08-28T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "ONSIDE GAMING",
+        "shortName": "OSG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137113/167px_onside_gaming_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42299,9 +42299,9 @@
       "startTime": "2026-08-28T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43156,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-23T12:22:50.646Z",
+  "lastUpdated": "2026-08-23T13:26:15.337Z",
   "source": "PandaScore"
 }
