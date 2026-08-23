@@ -41994,15 +41994,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1608239",
-      "startTime": "2026-08-23T16:20:00Z",
+      "startTime": "2026-08-23T16:19:32Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "BBL Esports",
@@ -42015,8 +42015,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -43156,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-23T16:16:27.944Z",
+  "lastUpdated": "2026-08-23T17:14:03.324Z",
   "source": "PandaScore"
 }
