@@ -41813,7 +41813,7 @@
     },
     {
       "id": "1585309",
-      "startTime": "2026-08-23T07:00:00Z",
+      "startTime": "2026-08-23T07:09:14Z",
       "region": "LPL",
       "teamA": {
         "name": "ThunderTalk Gaming",
@@ -41827,7 +41827,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -43156,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-23T06:26:40.197Z",
+  "lastUpdated": "2026-08-23T07:26:28.834Z",
   "source": "PandaScore"
 }
