@@ -41846,9 +41846,9 @@
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -41868,7 +41868,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137113/167px_onside_gaming_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "VCT",
       "format": "BO3",
@@ -41876,7 +41876,7 @@
     },
     {
       "id": "1585306",
-      "startTime": "2026-08-23T09:20:00Z",
+      "startTime": "2026-08-23T09:28:18Z",
       "region": "LPL",
       "teamA": {
         "name": "EDward Gaming",
@@ -41889,15 +41889,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1568940",
-      "startTime": "2026-08-23T10:00:00Z",
+      "startTime": "2026-08-23T10:14:14Z",
       "region": "LCK",
       "teamA": {
         "name": "BNK FEARX",
@@ -41911,7 +41911,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO3",
       "category": "primary"
@@ -43156,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-23T09:20:01.047Z",
+  "lastUpdated": "2026-08-23T10:14:52.291Z",
   "source": "PandaScore"
 }
