@@ -41951,9 +41951,9 @@
         "shortName": "AL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LPL",
       "format": "BO3",
       "category": "primary"
@@ -41973,8 +41973,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 1,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -41994,7 +41994,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -42002,7 +42002,7 @@
     },
     {
       "id": "1608239",
-      "startTime": "2026-08-23T17:00:00Z",
+      "startTime": "2026-08-23T16:20:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "BBL Esports",
@@ -42211,18 +42211,18 @@
       "category": "primary"
     },
     {
-      "id": "1643086",
+      "id": "1643087",
       "startTime": "2026-08-28T06:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
       },
       "teamB": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42274,18 +42274,18 @@
       "category": "primary"
     },
     {
-      "id": "1643087",
+      "id": "1643086",
       "startTime": "2026-08-28T09:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
       },
       "teamB": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42362,9 +42362,9 @@
       "startTime": "2026-08-28T17:00:00Z",
       "region": "VCT EMEA",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Liquid",
+        "shortName": "TL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43156,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-23T15:14:39.625Z",
+  "lastUpdated": "2026-08-23T16:16:27.944Z",
   "source": "PandaScore"
 }
