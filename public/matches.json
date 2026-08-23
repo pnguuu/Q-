@@ -41960,7 +41960,7 @@
     },
     {
       "id": "1608238",
-      "startTime": "2026-08-23T14:00:00Z",
+      "startTime": "2026-08-23T14:07:00Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Enterprise Esports",
@@ -41974,7 +41974,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42089,14 +42089,14 @@
       "startTime": "2026-08-26T08:00:00Z",
       "region": "LCK",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42152,14 +42152,14 @@
       "startTime": "2026-08-27T08:00:00Z",
       "region": "LCK",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Nongshim Red Force",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "BNK FEARX",
+        "shortName": "BFX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43156,6 +43156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-23T13:26:15.337Z",
+  "lastUpdated": "2026-08-23T14:16:04.167Z",
   "source": "PandaScore"
 }
