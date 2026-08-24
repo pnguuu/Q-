@@ -3529,27 +3529,6 @@
       "category": "primary"
     },
     {
-      "id": "1204665",
-      "startTime": "2025-07-24T10:04:48Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "KT Rolster",
-        "shortName": "KT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
-      },
-      "teamB": {
-        "name": "Nongshim Red Force",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1209025",
       "startTime": "2025-07-24T11:04:50Z",
       "region": "LPL",
@@ -42036,7 +42015,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
+      "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
       "format": "BO3",
@@ -43114,6 +43093,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-24T17:23:48.447Z",
+  "lastUpdated": "2026-08-24T18:28:26.620Z",
   "source": "PandaScore"
 }
