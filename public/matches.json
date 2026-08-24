@@ -42023,7 +42023,7 @@
     },
     {
       "id": "1564742",
-      "startTime": "2026-08-24T15:00:00Z",
+      "startTime": "2026-08-24T15:02:29Z",
       "region": "LEC",
       "teamA": {
         "name": "Natus Vincere",
@@ -42037,7 +42037,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43135,6 +43135,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-24T14:33:42.245Z",
+  "lastUpdated": "2026-08-24T15:31:33.226Z",
   "source": "PandaScore"
 }
