@@ -3529,27 +3529,6 @@
       "category": "primary"
     },
     {
-      "id": "1209025",
-      "startTime": "2025-07-24T11:04:50Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "ThunderTalk Gaming",
-        "shortName": "TT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
-      },
-      "teamB": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1200577",
       "startTime": "2025-07-24T11:09:20Z",
       "region": "VCT CN",
@@ -42014,9 +41993,9 @@
         "shortName": "G2",
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43093,6 +43072,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-24T19:22:56.137Z",
+  "lastUpdated": "2026-08-24T20:20:48.255Z",
   "source": "PandaScore"
 }
