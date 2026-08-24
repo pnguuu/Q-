@@ -42014,7 +42014,7 @@
         "shortName": "G2",
         "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 1,
       "status": "进行中",
       "league": "LEC",
@@ -43093,6 +43093,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-24T18:28:26.620Z",
+  "lastUpdated": "2026-08-24T19:22:56.137Z",
   "source": "PandaScore"
 }
