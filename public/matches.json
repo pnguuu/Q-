@@ -3529,27 +3529,6 @@
       "category": "primary"
     },
     {
-      "id": "1204664",
-      "startTime": "2025-07-24T08:00:16Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "teamB": {
-        "name": "BNK FEARX",
-        "shortName": "BFX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1209023",
       "startTime": "2025-07-24T09:09:36Z",
       "region": "LPL",
@@ -43156,6 +43135,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-24T11:19:35.385Z",
+  "lastUpdated": "2026-08-24T12:31:14.037Z",
   "source": "PandaScore"
 }
