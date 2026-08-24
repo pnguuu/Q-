@@ -3529,27 +3529,6 @@
       "category": "primary"
     },
     {
-      "id": "1209023",
-      "startTime": "2025-07-24T09:09:36Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "teamB": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1204665",
       "startTime": "2025-07-24T10:04:48Z",
       "region": "LCK",
@@ -42035,16 +42014,16 @@
         "shortName": "FNC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1564743",
-      "startTime": "2026-08-24T17:15:00Z",
+      "startTime": "2026-08-24T17:07:17Z",
       "region": "LEC",
       "teamA": {
         "name": "GIANTX",
@@ -42058,7 +42037,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -43135,6 +43114,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-24T16:26:44.680Z",
+  "lastUpdated": "2026-08-24T17:23:48.447Z",
   "source": "PandaScore"
 }
