@@ -42320,9 +42320,9 @@
       "startTime": "2026-08-29T08:00:00Z",
       "region": "LCK",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42467,9 +42467,9 @@
       "startTime": "2026-08-30T08:00:00Z",
       "region": "LCK",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42614,9 +42614,9 @@
       "startTime": "2026-09-01T08:00:00Z",
       "region": "LCK",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42635,9 +42635,9 @@
       "startTime": "2026-09-02T08:00:00Z",
       "region": "LCK",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
       },
       "teamB": {
         "name": "TBD",
@@ -43072,6 +43072,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-25T16:26:53.920Z",
+  "lastUpdated": "2026-08-25T17:24:14.568Z",
   "source": "PandaScore"
 }
