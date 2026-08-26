@@ -42014,9 +42014,9 @@
         "shortName": "BRO",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
       },
-      "scoreA": 2,
+      "scoreA": 3,
       "scoreB": 2,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
@@ -42056,9 +42056,9 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42115,9 +42115,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/134426/728px_varrel_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Global Esports",
+        "shortName": "GE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -42152,9 +42152,9 @@
       "startTime": "2026-08-28T08:00:00Z",
       "region": "LCK",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42215,14 +42215,14 @@
       "startTime": "2026-08-28T11:00:00Z",
       "region": "VCT PAC",
       "teamA": {
+        "name": "Kiwoom DRX",
+        "shortName": "KRX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
+      },
+      "teamB": {
         "name": "T1",
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -43135,6 +43135,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-26T12:35:16.983Z",
+  "lastUpdated": "2026-08-26T13:47:12.778Z",
   "source": "PandaScore"
 }
