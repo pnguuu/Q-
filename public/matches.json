@@ -42015,7 +42015,7 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
       },
       "scoreA": 1,
-      "scoreB": 1,
+      "scoreB": 2,
       "status": "进行中",
       "league": "LCK",
       "format": "BO5",
@@ -42056,7 +42056,7 @@
         "shortName": "KRX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130137/600px_drx_2026_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "status": "进行中",
       "league": "VCT",
@@ -43135,6 +43135,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-26T10:26:49.142Z",
+  "lastUpdated": "2026-08-26T11:21:45.729Z",
   "source": "PandaScore"
 }
