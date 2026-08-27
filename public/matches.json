@@ -3613,27 +3613,6 @@
       "category": "primary"
     },
     {
-      "id": "1204666",
-      "startTime": "2025-07-25T08:06:17Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "T1",
-        "shortName": "T1",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
-      },
-      "teamB": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1200578",
       "startTime": "2025-07-25T09:08:38Z",
       "region": "VCT CN",
@@ -43135,6 +43114,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-26T21:31:01.306Z",
+  "lastUpdated": "2026-08-27T02:27:57.236Z",
   "source": "PandaScore"
 }
