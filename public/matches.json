@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1162452",
-      "startTime": "2025-04-20T11:13:40Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "teamB": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138036",
       "startTime": "2025-04-20T11:28:12Z",
       "region": "VCT PAC",
@@ -3609,27 +3588,6 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1209027",
-      "startTime": "2025-07-25T11:09:58Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "LNG Esports",
-        "shortName": "LNG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126058/_.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -43030,6 +42988,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-27T13:24:51.937Z",
+  "lastUpdated": "2026-08-27T23:24:54.772Z",
   "source": "PandaScore"
 }
