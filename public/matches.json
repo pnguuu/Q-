@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138036",
-      "startTime": "2025-04-20T11:28:12Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "Nongshim RedForce",
-        "shortName": "NS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
-      },
-      "teamB": {
-        "name": "ZETA DIVISION",
-        "shortName": "ZETA",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129326/600px_zeta_division_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138038",
       "startTime": "2025-04-21T08:07:10Z",
       "region": "VCT PAC",
@@ -41981,7 +41960,7 @@
     },
     {
       "id": "1643087",
-      "startTime": "2026-08-28T06:00:00Z",
+      "startTime": "2026-08-28T06:07:59Z",
       "region": "LPL",
       "teamA": {
         "name": "EDward Gaming",
@@ -41994,15 +41973,15 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 2,
+      "status": "进行中",
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1629297",
-      "startTime": "2026-08-28T08:00:00Z",
+      "startTime": "2026-08-28T08:01:31Z",
       "region": "LCK",
       "teamA": {
         "name": "HANJIN BRION",
@@ -42016,14 +41995,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1619631",
-      "startTime": "2026-08-28T08:00:00Z",
+      "startTime": "2026-08-28T08:05:47Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Paper Rex",
@@ -42037,7 +42016,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -42988,6 +42967,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-27T23:24:54.772Z",
+  "lastUpdated": "2026-08-28T08:12:02.061Z",
   "source": "PandaScore"
 }
