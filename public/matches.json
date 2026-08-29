@@ -42203,9 +42203,9 @@
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -42883,6 +42883,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-29T18:03:57.390Z",
+  "lastUpdated": "2026-08-29T21:26:12.458Z",
   "source": "PandaScore"
 }
