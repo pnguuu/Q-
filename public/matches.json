@@ -42191,7 +42191,7 @@
     },
     {
       "id": "1642154",
-      "startTime": "2026-08-30T08:00:00Z",
+      "startTime": "2026-08-30T08:04:51Z",
       "region": "LCK",
       "teamA": {
         "name": "Dplus KIA",
@@ -42205,14 +42205,14 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1629608",
-      "startTime": "2026-08-30T08:00:00Z",
+      "startTime": "2026-08-30T08:20:31Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Gentle Mates GC",
@@ -42226,7 +42226,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
@@ -42862,6 +42862,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-30T02:43:26.375Z",
+  "lastUpdated": "2026-08-30T08:45:50.594Z",
   "source": "PandaScore"
 }
