@@ -42287,16 +42287,16 @@
         "shortName": "TH",
         "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1608215",
-      "startTime": "2026-08-30T15:00:00Z",
+      "startTime": "2026-08-30T15:19:26Z",
       "region": "VCT EMEA",
       "teamA": {
         "name": "Karmine Corp",
@@ -42308,16 +42308,16 @@
         "shortName": "TL",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
     },
     {
       "id": "1564790",
-      "startTime": "2026-08-30T16:30:00Z",
+      "startTime": "2026-08-30T15:45:47Z",
       "region": "LEC",
       "teamA": {
         "name": "Fnatic",
@@ -42329,9 +42329,9 @@
         "shortName": "GX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "LEC",
       "format": "BO3",
       "category": "primary"
@@ -42862,6 +42862,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-30T14:09:58.416Z",
+  "lastUpdated": "2026-08-30T18:18:52.628Z",
   "source": "PandaScore"
 }
