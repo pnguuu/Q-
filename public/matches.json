@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1138038",
-      "startTime": "2025-04-21T08:07:10Z",
-      "region": "VCT PAC",
-      "teamA": {
-        "name": "DetonatioN FocusMe",
-        "shortName": "DFM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/131974/780px_detonatio_n_focus_me_2022_lightmode.png"
-      },
-      "teamB": {
-        "name": "BOOM Esports",
-        "shortName": "BOOM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128744/600px_boom_esports_logo.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1138037",
       "startTime": "2025-04-21T10:05:59Z",
       "region": "VCT PAC",
@@ -43030,6 +43009,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-31T00:04:46.600Z",
+  "lastUpdated": "2026-08-31T06:28:30.512Z",
   "source": "PandaScore"
 }
