@@ -3697,27 +3697,6 @@
       "category": "primary"
     },
     {
-      "id": "1204671",
-      "startTime": "2025-07-27T05:59:47Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "teamB": {
-        "name": "Kiwoom DRX",
-        "shortName": "KRX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1200551",
       "startTime": "2025-07-27T08:07:01Z",
       "region": "VCT PAC",
@@ -43009,6 +42988,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-08-31T06:28:30.512Z",
+  "lastUpdated": "2026-08-31T14:40:30.757Z",
   "source": "PandaScore"
 }
