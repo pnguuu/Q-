@@ -3739,27 +3739,6 @@
       "category": "primary"
     },
     {
-      "id": "1209032",
-      "startTime": "2025-07-27T11:06:50Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "teamB": {
-        "name": "Weibo Gaming",
-        "shortName": "WB",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1200580",
       "startTime": "2025-07-27T12:45:26Z",
       "region": "VCT CN",
@@ -42233,7 +42212,7 @@
     },
     {
       "id": "1642155",
-      "startTime": "2026-09-01T08:00:00Z",
+      "startTime": "2026-09-01T08:05:13Z",
       "region": "LCK",
       "teamA": {
         "name": "Gen.G",
@@ -42245,9 +42224,9 @@
         "shortName": "KT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
@@ -42316,6 +42295,48 @@
       "category": "primary"
     },
     {
+      "id": "1664681",
+      "startTime": "2026-09-03T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133379/600px_bilibili_gaming_2021_full_allmode.png"
+      },
+      "teamB": {
+        "name": "XLG Gaming",
+        "shortName": "XLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1664682",
+      "startTime": "2026-09-03T11:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "Wolves Esports",
+        "shortName": "WOL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
+      },
+      "teamB": {
+        "name": "KeepBest Gaming",
+        "shortName": "KBG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133828/keep_best_gaming_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1642161",
       "startTime": "2026-09-04T08:00:00Z",
       "region": "LCK",
@@ -42379,6 +42400,48 @@
       "category": "primary"
     },
     {
+      "id": "1664683",
+      "startTime": "2026-09-04T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TEC Esports",
+        "shortName": "TEC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
+      },
+      "teamB": {
+        "name": "TYLOO",
+        "shortName": "TYLOO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1664684",
+      "startTime": "2026-09-04T11:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "Trace Esports",
+        "shortName": "TE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133380/trace_esports_2023_allmode.png"
+      },
+      "teamB": {
+        "name": "Unsettled Resentment",
+        "shortName": "UR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/138700/775px_unsettled_resentment_2026_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1640232",
       "startTime": "2026-09-04T11:00:00Z",
       "region": "VCT PAC",
@@ -42425,9 +42488,9 @@
       "startTime": "2026-09-05T08:00:00Z",
       "region": "LCK",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -42484,6 +42547,27 @@
       "category": "primary"
     },
     {
+      "id": "1664685",
+      "startTime": "2026-09-05T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "Nova Esports",
+        "shortName": "NOVA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
+      },
+      "teamB": {
+        "name": "EDward Gaming",
+        "shortName": "EDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1661674",
       "startTime": "2026-09-05T10:00:00Z",
       "region": "LEC",
@@ -42503,6 +42587,27 @@
       "league": "LEC",
       "format": "BO5",
       "category": "primary"
+    },
+    {
+      "id": "1664686",
+      "startTime": "2026-09-05T11:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
+      },
+      "teamB": {
+        "name": "A Team",
+        "shortName": "AT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139027/a_team_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
     },
     {
       "id": "1661673",
@@ -42610,6 +42715,48 @@
       "category": "primary"
     },
     {
+      "id": "1664687",
+      "startTime": "2026-09-06T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "All Gamers",
+        "shortName": "AG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
+      },
+      "teamB": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1664688",
+      "startTime": "2026-09-06T11:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "Dragon Ranger Gaming",
+        "shortName": "DRG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
+      },
+      "teamB": {
+        "name": "Any Questions Gaming",
+        "shortName": "AQ",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137493/285px_any_questions_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
       "id": "1661675",
       "startTime": "2026-09-06T15:00:00Z",
       "region": "LEC",
@@ -42671,6 +42818,132 @@
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
+    },
+    {
+      "id": "1664691",
+      "startTime": "2026-09-09T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1664696",
+      "startTime": "2026-09-09T11:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1664697",
+      "startTime": "2026-09-10T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1664698",
+      "startTime": "2026-09-10T11:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1664699",
+      "startTime": "2026-09-11T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1664700",
+      "startTime": "2026-09-11T11:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO3",
+      "category": "cn_extended"
     },
     {
       "id": "1661679",
@@ -42736,6 +43009,27 @@
       "category": "primary"
     },
     {
+      "id": "1664702",
+      "startTime": "2026-09-12T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO5",
+      "category": "cn_extended"
+    },
+    {
       "id": "1661680",
       "startTime": "2026-09-12T15:00:00Z",
       "region": "LEC",
@@ -42797,6 +43091,27 @@
       "league": "LPL",
       "format": "BO5",
       "category": "primary"
+    },
+    {
+      "id": "1664701",
+      "startTime": "2026-09-13T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China Evolution Series",
+      "format": "BO5",
+      "category": "cn_extended"
     },
     {
       "id": "1652746",
@@ -42925,6 +43240,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-09-01T05:55:07.351Z",
+  "lastUpdated": "2026-09-01T10:52:25.701Z",
   "source": "PandaScore"
 }
