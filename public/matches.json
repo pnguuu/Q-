@@ -1,342 +1,6 @@
 {
   "matches": [
     {
-      "id": "1321590",
-      "startTime": "2026-01-15T18:06:51Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "SK Nebula",
-        "shortName": "SK.N",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "Overpeek",
-        "shortName": "OVP",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321589",
-      "startTime": "2026-01-15T18:07:43Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Barça eSports GC",
-        "shortName": "BAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
-      },
-      "teamB": {
-        "name": " BEM Esports",
-        "shortName": "BEM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137922/bem_esports_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321592",
-      "startTime": "2026-01-15T18:10:11Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Hornets",
-        "shortName": "HNT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137918/hornets_allmode.png"
-      },
-      "teamB": {
-        "name": "Cristaux de Menthe",
-        "shortName": "CDM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137924/cristaux_de_menthe_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321591",
-      "startTime": "2026-01-15T18:12:35Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "S2G Glaux",
-        "shortName": "S2GF",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136778/s2_g_esports_allmode.png"
-      },
-      "teamB": {
-        "name": "Sissi State Punks Numina",
-        "shortName": "SSP.N",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137920/600px_sissi_state_punks_2024_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321593",
-      "startTime": "2026-01-15T18:13:39Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "FOKUS Sakura",
-        "shortName": "FKS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
-      },
-      "teamB": {
-        "name": "Streamerzone INDIGO",
-        "shortName": "Str",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137921/585px_streamerzone_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321588",
-      "startTime": "2026-01-15T18:16:13Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "ZennIT Orange GC",
-        "shortName": "ZNT.O",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
-      },
-      "teamB": {
-        "name": "TWISTED SAINTS X",
-        "shortName": "TSX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137923/twisted_saints_x_2026_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321587",
-      "startTime": "2026-01-15T18:18:22Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "KIT CATS",
-        "shortName": "KIT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137919/428px_valorant_kit_cats_allmode.png"
-      },
-      "teamB": {
-        "name": "ALTERNATE aTTaX Ruby",
-        "shortName": "AAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321586",
-      "startTime": "2026-01-15T19:10:08Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Twisted Minds Orchid",
-        "shortName": "TMO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/800px_twisted_minds_2023_allmode.png"
-      },
-      "teamB": {
-        "name": "LA MALA",
-        "shortName": "LML",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137926/800px_la_mala_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321598",
-      "startTime": "2026-01-16T18:02:52Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "KIT CATS",
-        "shortName": "KIT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137919/428px_valorant_kit_cats_allmode.png"
-      },
-      "teamB": {
-        "name": "LA MALA",
-        "shortName": "LML",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137926/800px_la_mala_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321599",
-      "startTime": "2026-01-16T18:02:54Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "ZennIT Orange GC",
-        "shortName": "ZNT.O",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136864/285px_zenn_it_orange_gc_allmode.png"
-      },
-      "teamB": {
-        "name": " BEM Esports",
-        "shortName": "BEM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137922/bem_esports_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321600",
-      "startTime": "2026-01-16T18:02:56Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Overpeek",
-        "shortName": "OVP",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
-      },
-      "teamB": {
-        "name": "S2G Glaux",
-        "shortName": "S2GF",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136778/s2_g_esports_allmode.png"
-      },
-      "scoreA": 1,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321601",
-      "startTime": "2026-01-16T18:02:58Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "FOKUS Sakura",
-        "shortName": "FKS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133128/459px_fokus_sakura_lightmode.png"
-      },
-      "teamB": {
-        "name": "Hornets",
-        "shortName": "HNT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137918/hornets_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321596",
-      "startTime": "2026-01-16T18:03:36Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "SK Nebula",
-        "shortName": "SK.N",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134942/600px_sk_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "Sissi State Punks Numina",
-        "shortName": "SSP.N",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137920/600px_sissi_state_punks_2024_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321597",
-      "startTime": "2026-01-16T18:05:50Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Streamerzone INDIGO",
-        "shortName": "Str",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137921/585px_streamerzone_lightmode.png"
-      },
-      "teamB": {
-        "name": "Cristaux de Menthe",
-        "shortName": "CDM",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137924/cristaux_de_menthe_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321595",
-      "startTime": "2026-01-16T18:06:28Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "TWISTED SAINTS X",
-        "shortName": "TSX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137923/twisted_saints_x_2026_allmode.png"
-      },
-      "teamB": {
-        "name": "Barça eSports GC",
-        "shortName": "BAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1321594",
-      "startTime": "2026-01-16T18:06:55Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "ALTERNATE aTTaX Ruby",
-        "shortName": "AAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133557/600px_alternate_a_t_ta_x_2020_allmode.png"
-      },
-      "teamB": {
-        "name": "Twisted Minds Orchid",
-        "shortName": "TMO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136929/800px_twisted_minds_2023_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1321605",
       "startTime": "2026-01-17T18:07:08Z",
       "region": "VCT EMEA",
@@ -5188,6 +4852,27 @@
       "category": "primary"
     },
     {
+      "id": "1402259",
+      "startTime": "2026-04-11T12:04:48Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
+      },
+      "teamB": {
+        "name": "Natus Vincere",
+        "shortName": "Navi",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1399060",
       "startTime": "2026-04-11T12:22:47Z",
       "region": "VCT CN",
@@ -5205,6 +4890,69 @@
       "scoreB": 1,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1402260",
+      "startTime": "2026-04-11T13:56:26Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "G2 Esports",
+        "shortName": "G2",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+      },
+      "teamB": {
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1402261",
+      "startTime": "2026-04-11T17:01:51Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Movistar KOI",
+        "shortName": "MKOI",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+      },
+      "teamB": {
+        "name": "SK Gaming",
+        "shortName": "SK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1413438",
+      "startTime": "2026-04-12T07:59:59Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "BNK FEARX",
+        "shortName": "BFX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png"
+      },
+      "teamB": {
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
       "format": "BO3",
       "category": "primary"
     },
@@ -5251,6 +4999,27 @@
       "category": "primary"
     },
     {
+      "id": "1420892",
+      "startTime": "2026-04-12T09:08:21Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Oh My God",
+        "shortName": "OMG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/404/fl_utn_xc.png"
+      },
+      "teamB": {
+        "name": "LGD Gaming",
+        "shortName": "LGD",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
+      },
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1402226",
       "startTime": "2026-04-12T10:02:23Z",
       "region": "VCT PAC",
@@ -5272,6 +5041,27 @@
       "category": "primary"
     },
     {
+      "id": "1413439",
+      "startTime": "2026-04-12T10:03:19Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
+      },
+      "teamB": {
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1399062",
       "startTime": "2026-04-12T11:39:39Z",
       "region": "VCT CN",
@@ -5289,6 +5079,111 @@
       "scoreB": 1,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420893",
+      "startTime": "2026-04-12T11:56:34Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "teamB": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1402262",
+      "startTime": "2026-04-12T15:03:27Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Team Vitality",
+        "shortName": "VIT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png"
+      },
+      "teamB": {
+        "name": "Shifters",
+        "shortName": "SHFT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1402263",
+      "startTime": "2026-04-12T17:45:10Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Team Heretics",
+        "shortName": "TH",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130105/team_hereticslogo_square.png"
+      },
+      "teamB": {
+        "name": "Karmine Corp",
+        "shortName": "KC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1402264",
+      "startTime": "2026-04-13T15:02:01Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "Fnatic",
+        "shortName": "FNC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png"
+      },
+      "teamB": {
+        "name": "SK Gaming",
+        "shortName": "SK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/395/600px-SK_Gaminglogo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LEC",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1402265",
+      "startTime": "2026-04-13T17:21:19Z",
+      "region": "LEC",
+      "teamA": {
+        "name": "GIANTX",
+        "shortName": "GX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png"
+      },
+      "teamB": {
+        "name": "Shifters",
+        "shortName": "SHFT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137726/600px_shifters_allmode.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LEC",
       "format": "BO3",
       "category": "primary"
     },
@@ -5335,6 +5230,27 @@
       "category": "primary"
     },
     {
+      "id": "1413440",
+      "startTime": "2026-04-15T07:59:19Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "Nongshim Red Force",
+        "shortName": "NS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128217/nongshim_red_forcelogo_square.png"
+      },
+      "teamB": {
+        "name": "BNK FEARX",
+        "shortName": "BFX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1399065",
       "startTime": "2026-04-15T09:07:11Z",
       "region": "VCT CN",
@@ -5352,6 +5268,69 @@
       "scoreB": 0,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420898",
+      "startTime": "2026-04-15T09:08:15Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Ultra Prime",
+        "shortName": "UP",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129065/ultra_primelogo_square.png"
+      },
+      "teamB": {
+        "name": "ThunderTalk Gaming",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1413441",
+      "startTime": "2026-04-15T10:04:35Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "KT Rolster",
+        "shortName": "KT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png"
+      },
+      "teamB": {
+        "name": "Dplus KIA",
+        "shortName": "DK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420904",
+      "startTime": "2026-04-15T11:08:56Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Weibo Gaming",
+        "shortName": "WB",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129972/weibo_gaminglogo_profile.png"
+      },
+      "teamB": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -5419,6 +5398,27 @@
       "category": "primary"
     },
     {
+      "id": "1413442",
+      "startTime": "2026-04-16T07:59:54Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "HANJIN BRION",
+        "shortName": "BRO",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
+      },
+      "teamB": {
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1399067",
       "startTime": "2026-04-16T09:05:38Z",
       "region": "VCT CN",
@@ -5440,6 +5440,48 @@
       "category": "primary"
     },
     {
+      "id": "1420905",
+      "startTime": "2026-04-16T09:09:05Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Team WE",
+        "shortName": "WE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+      },
+      "teamB": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1413443",
+      "startTime": "2026-04-16T10:13:37Z",
+      "region": "LCK",
+      "teamA": {
+        "name": "DN SOOPers",
+        "shortName": "DNS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
+      },
+      "teamB": {
+        "name": "Hanwha Life Esports",
+        "shortName": "HLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+      },
+      "scoreA": 0,
+      "scoreB": 2,
+      "status": "已结束",
+      "league": "LCK",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
       "id": "1399068",
       "startTime": "2026-04-16T11:24:42Z",
       "region": "VCT CN",
@@ -5457,6 +5499,27 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1420906",
+      "startTime": "2026-04-16T11:27:30Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Top Esports",
+        "shortName": "TES",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+      },
+      "teamB": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "scoreA": 2,
+      "scoreB": 0,
+      "status": "已结束",
+      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -22093,6 +22156,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-09-05T00:30:57.532Z",
+  "lastUpdated": "2026-09-05T05:06:25.281Z",
   "source": "PandaScore"
 }
