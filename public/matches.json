@@ -22001,37 +22001,16 @@
         "shortName": "HLE",
         "logo": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
       },
-      "scoreA": 1,
+      "scoreA": 3,
       "scoreB": 1,
-      "status": "进行中",
+      "status": "已结束",
       "league": "LCK",
       "format": "BO5",
       "category": "primary"
     },
     {
-      "id": "1643093",
-      "startTime": "2026-09-13T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "teamB": {
-        "name": "Anyone's Legend",
-        "shortName": "AL",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1664701",
-      "startTime": "2026-09-13T09:00:00Z",
+      "startTime": "2026-09-13T08:59:50Z",
       "region": "VCT CN",
       "teamA": {
         "name": "KeepBest Gaming",
@@ -22043,12 +22022,33 @@
         "shortName": "FPX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 2,
+      "scoreB": 2,
+      "status": "进行中",
       "league": "China Evolution Series",
       "format": "BO5",
       "category": "cn_extended"
+    },
+    {
+      "id": "1643093",
+      "startTime": "2026-09-13T09:01:46Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Bilibili Gaming",
+        "shortName": "BLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+      },
+      "teamB": {
+        "name": "Anyone's Legend",
+        "shortName": "AL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 3,
+      "status": "已结束",
+      "league": "LPL",
+      "format": "BO5",
+      "category": "primary"
     },
     {
       "id": "1686002",
@@ -22555,6 +22555,6 @@
       "category": "cn_extended"
     }
   ],
-  "lastUpdated": "2026-09-13T07:50:28.510Z",
+  "lastUpdated": "2026-09-13T12:59:24.647Z",
   "source": "PandaScore"
 }
