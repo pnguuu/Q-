@@ -21980,16 +21980,16 @@
         "shortName": "RE.GC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137288/506px_rising_esports_allmode.png"
       },
-      "scoreA": 1,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "进行中",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1689151",
-      "startTime": "2026-09-14T09:00:00Z",
+      "startTime": "2026-09-14T09:00:51Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Yew Reign Gaming",
@@ -22001,16 +22001,16 @@
         "shortName": "QuG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/139258/596px_qu_guang_hao_gaming_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1686003",
-      "startTime": "2026-09-14T09:00:00Z",
+      "startTime": "2026-09-14T09:46:07Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "FENNEL Female",
@@ -22022,16 +22022,16 @@
         "shortName": "wiw",
         "logo": "https://picsum.photos/seed/tbd/64/64"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1689152",
-      "startTime": "2026-09-14T11:00:00Z",
+      "startTime": "2026-09-14T12:08:16Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Tidal Legends Gaming",
@@ -22044,8 +22044,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/139255/544px_101_outlaws_lightmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -22118,14 +22118,14 @@
       "startTime": "2026-09-15T09:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Gen.G GC",
+        "shortName": "Gen",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139243/600px_gen.g_esports_2026_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FENNEL Female",
+        "shortName": "FL.FE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/132068/fennel_2021_may_full.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22139,14 +22139,14 @@
       "startTime": "2026-09-15T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "QuGuangHao Gaming",
+        "shortName": "QuG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139258/596px_qu_guang_hao_gaming_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Tidal Legends Gaming",
+        "shortName": "TLG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139259/587px_tidal_legends_gaming__female_team__allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22181,13 +22181,13 @@
       "startTime": "2026-09-16T07:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Rising Esports GC",
+        "shortName": "RE.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137288/506px_rising_esports_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
+        "name": "wiwiwi",
+        "shortName": "wiw",
         "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
@@ -22244,14 +22244,14 @@
       "startTime": "2026-09-16T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Yew Reign Gaming",
+        "shortName": "Yew",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139261/yew_reign_gaming_logo_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "101 Outlaws",
+        "shortName": "101",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139255/544px_101_outlaws_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22723,6 +22723,6 @@
       "category": "cn_extended"
     }
   ],
-  "lastUpdated": "2026-09-14T08:22:25.017Z",
+  "lastUpdated": "2026-09-14T15:30:15.691Z",
   "source": "PandaScore"
 }
