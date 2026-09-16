@@ -22094,7 +22094,7 @@
     },
     {
       "id": "1686007",
-      "startTime": "2026-09-16T05:00:00Z",
+      "startTime": "2026-09-16T05:07:49Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Team Falcons VEGA",
@@ -22106,16 +22106,16 @@
         "shortName": "FSF",
         "logo": "https://cdn-api.pandascore.co/images/team/image/139242/600px_full_sense_2025_full_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1686009",
-      "startTime": "2026-09-16T07:00:00Z",
+      "startTime": "2026-09-16T07:47:57Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Rising Esports GC",
@@ -22129,7 +22129,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -22202,9 +22202,9 @@
       "startTime": "2026-09-17T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FULL SENSE SISU",
+        "shortName": "FSF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139242/600px_full_sense_2025_full_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -22312,9 +22312,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/132068/fennel_2021_may_full.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Team Falcons VEGA",
+        "shortName": "FLC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/131830/217px_team_falcons_2022_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22660,6 +22660,6 @@
       "category": "cn_extended"
     }
   ],
-  "lastUpdated": "2026-09-16T02:35:23.181Z",
+  "lastUpdated": "2026-09-16T08:07:38.669Z",
   "source": "PandaScore"
 }
