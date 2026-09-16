@@ -22128,15 +22128,15 @@
         "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1689153",
-      "startTime": "2026-09-16T09:00:00Z",
+      "startTime": "2026-09-16T09:05:10Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Nova Esports GC",
@@ -22148,16 +22148,16 @@
         "shortName": "Hav",
         "logo": "https://cdn-api.pandascore.co/images/team/image/139256/havoc___younder_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1686010",
-      "startTime": "2026-09-16T09:00:00Z",
+      "startTime": "2026-09-16T10:05:54Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "swaglord9000",
@@ -22169,16 +22169,16 @@
         "shortName": "SSQ",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137079/190px_sasanqua_logo_light_mode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1689154",
-      "startTime": "2026-09-16T11:00:00Z",
+      "startTime": "2026-09-16T11:55:08Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Yew Reign Gaming",
@@ -22190,9 +22190,9 @@
         "shortName": "101",
         "logo": "https://cdn-api.pandascore.co/images/team/image/139255/544px_101_outlaws_lightmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -22207,8 +22207,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/139242/600px_full_sense_2025_full_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
+        "name": "wiwiwi",
+        "shortName": "wiw",
         "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
@@ -22249,9 +22249,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/139258/596px_qu_guang_hao_gaming_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Nova Esports GC",
+        "shortName": "NE.GC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136774/nova_esports_lightmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22270,9 +22270,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/139243/600px_gen.g_esports_2026_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "swaglord9000",
+        "shortName": "SL9",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/135541/66c3c4cdc06d6.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22349,9 +22349,9 @@
       "startTime": "2026-09-18T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Havoc & Yonder GC",
+        "shortName": "Hav",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139256/havoc___younder_lightmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -22658,8 +22658,575 @@
       "league": "VCT",
       "format": "BO3",
       "category": "cn_extended"
+    },
+    {
+      "id": "1694349",
+      "startTime": "2026-10-03T07:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO1",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694350",
+      "startTime": "2026-10-03T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO1",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694351",
+      "startTime": "2026-10-03T09:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO1",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694352",
+      "startTime": "2026-10-03T10:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO1",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694353",
+      "startTime": "2026-10-03T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO1",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694354",
+      "startTime": "2026-10-03T12:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO1",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694355",
+      "startTime": "2026-10-04T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694356",
+      "startTime": "2026-10-04T10:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694357",
+      "startTime": "2026-10-04T12:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694358",
+      "startTime": "2026-10-05T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694359",
+      "startTime": "2026-10-05T10:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694360",
+      "startTime": "2026-10-05T12:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694361",
+      "startTime": "2026-10-06T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694362",
+      "startTime": "2026-10-06T10:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694363",
+      "startTime": "2026-10-06T12:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694364",
+      "startTime": "2026-10-07T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694365",
+      "startTime": "2026-10-07T10:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694366",
+      "startTime": "2026-10-07T12:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694367",
+      "startTime": "2026-10-08T10:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694368",
+      "startTime": "2026-10-08T12:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694369",
+      "startTime": "2026-10-12T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO5",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694370",
+      "startTime": "2026-10-12T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO5",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694371",
+      "startTime": "2026-10-13T08:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO5",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694372",
+      "startTime": "2026-10-13T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO5",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694373",
+      "startTime": "2026-10-14T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO5",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694374",
+      "startTime": "2026-10-15T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO5",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1694375",
+      "startTime": "2026-10-17T11:00:00Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "Demacia Cup Global Invitational",
+      "format": "BO5",
+      "category": "cn_extended"
     }
   ],
-  "lastUpdated": "2026-09-16T08:07:38.669Z",
+  "lastUpdated": "2026-09-16T13:55:23.047Z",
   "source": "PandaScore"
 }
