@@ -21989,7 +21989,7 @@
     },
     {
       "id": "1686014",
-      "startTime": "2026-09-19T07:00:00Z",
+      "startTime": "2026-09-19T07:13:59Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Team Falcons VEGA",
@@ -22001,37 +22001,16 @@
         "shortName": "Gen",
         "logo": "https://cdn-api.pandascore.co/images/team/image/139243/600px_gen.g_esports_2026_allmode.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
     },
     {
-      "id": "1652748",
-      "startTime": "2026-09-19T09:00:00Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
-      "league": "LPL",
-      "format": "BO5",
-      "category": "primary"
-    },
-    {
       "id": "1689162",
-      "startTime": "2026-09-19T09:00:00Z",
+      "startTime": "2026-09-19T09:04:45Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Yew Reign Gaming",
@@ -22043,10 +22022,31 @@
         "shortName": "NE.GC",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136774/nova_esports_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
+      "format": "BO5",
+      "category": "primary"
+    },
+    {
+      "id": "1652748",
+      "startTime": "2026-09-19T09:06:52Z",
+      "region": "LPL",
+      "teamA": {
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+      },
+      "teamB": {
+        "name": "JD Gaming",
+        "shortName": "JDG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+      },
+      "scoreA": 1,
+      "scoreB": 0,
+      "status": "进行中",
+      "league": "LPL",
       "format": "BO5",
       "category": "primary"
     },
@@ -22786,6 +22786,6 @@
       "category": "cn_extended"
     }
   ],
-  "lastUpdated": "2026-09-19T05:20:24.626Z",
+  "lastUpdated": "2026-09-19T10:01:18.733Z",
   "source": "PandaScore"
 }
