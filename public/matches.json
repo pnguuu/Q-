@@ -5293,27 +5293,6 @@
       "category": "primary"
     },
     {
-      "id": "1420916",
-      "startTime": "2026-04-23T11:43:31Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "teamB": {
-        "name": "Bilibili Gaming",
-        "shortName": "BLG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1399222",
       "startTime": "2026-04-23T15:07:14Z",
       "region": "VCT EMEA",
@@ -22261,6 +22240,6 @@
       "category": "cn_extended"
     }
   ],
-  "lastUpdated": "2026-09-21T17:31:45.271Z",
+  "lastUpdated": "2026-09-21T21:28:39.152Z",
   "source": "PandaScore"
 }
