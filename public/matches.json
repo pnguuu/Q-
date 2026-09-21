@@ -5293,69 +5293,6 @@
       "category": "primary"
     },
     {
-      "id": "1413452",
-      "startTime": "2026-04-23T07:59:28Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "HANJIN BRION",
-        "shortName": "BRO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png"
-      },
-      "teamB": {
-        "name": "Dplus KIA",
-        "shortName": "DK",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1420915",
-      "startTime": "2026-04-23T09:07:15Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "LGD Gaming",
-        "shortName": "LGD",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
-      },
-      "teamB": {
-        "name": "EDward Gaming",
-        "shortName": "EDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/405/900px_e_dward_gaming_2017_lightmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LPL",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1413453",
-      "startTime": "2026-04-23T10:09:31Z",
-      "region": "LCK",
-      "teamA": {
-        "name": "Gen.G",
-        "shortName": "GEN",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
-      },
-      "teamB": {
-        "name": "DN SOOPers",
-        "shortName": "DNS",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "LCK",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1420916",
       "startTime": "2026-04-23T11:43:31Z",
       "region": "LPL",
@@ -22324,6 +22261,6 @@
       "category": "cn_extended"
     }
   ],
-  "lastUpdated": "2026-09-21T11:33:46.079Z",
+  "lastUpdated": "2026-09-21T17:31:45.271Z",
   "source": "PandaScore"
 }
