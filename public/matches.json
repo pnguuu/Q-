@@ -21716,7 +21716,7 @@
     },
     {
       "id": "1694361",
-      "startTime": "2026-10-06T07:00:00Z",
+      "startTime": "2026-10-06T07:01:33Z",
       "region": "LPL",
       "teamA": {
         "name": "HANJIN BRION",
@@ -21729,8 +21729,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 1,
+      "status": "进行中",
       "league": "Demacia Cup Global Invitational",
       "format": "BO3",
       "category": "cn_extended"
@@ -22996,6 +22996,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-10-06T01:11:46.687Z",
+  "lastUpdated": "2026-10-06T08:21:55.979Z",
   "source": "PandaScore"
 }
