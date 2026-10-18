@@ -21842,7 +21842,7 @@
     },
     {
       "id": "1710931",
-      "startTime": "2026-10-18T18:00:00Z",
+      "startTime": "2026-10-18T18:07:30Z",
       "region": "LPL",
       "teamA": {
         "name": "Karmine Corp",
@@ -21854,9 +21854,9 @@
         "shortName": "MVK",
         "logo": "https://cdn-api.pandascore.co/images/team/image/137803/mvk_esportslogo_profile.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Worlds",
       "format": "BO5",
       "category": "international"
@@ -22702,6 +22702,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-10-18T16:15:59.905Z",
+  "lastUpdated": "2026-10-18T19:07:25.244Z",
   "source": "PandaScore"
 }
