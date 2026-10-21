@@ -21842,7 +21842,7 @@
     },
     {
       "id": "1759534",
-      "startTime": "2026-10-21T04:00:00Z",
+      "startTime": "2026-10-21T04:10:05Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Wolves Esports",
@@ -21854,9 +21854,9 @@
         "shortName": "AT",
         "logo": "https://cdn-api.pandascore.co/images/team/image/139027/a_team_lightmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -23143,6 +23143,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-10-21T00:15:59.867Z",
+  "lastUpdated": "2026-10-21T05:34:54.199Z",
   "source": "PandaScore"
 }
