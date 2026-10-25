@@ -22115,7 +22115,7 @@
     },
     {
       "id": "1759542",
-      "startTime": "2026-10-25T09:00:00Z",
+      "startTime": "2026-10-25T09:11:09Z",
       "region": "VCT CN",
       "teamA": {
         "name": "Dragon Ranger Gaming",
@@ -22127,9 +22127,9 @@
         "shortName": "NOVA",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO5",
       "category": "primary"
@@ -22870,6 +22870,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-10-25T07:57:35.737Z",
+  "lastUpdated": "2026-10-25T12:56:46.596Z",
   "source": "PandaScore"
 }
