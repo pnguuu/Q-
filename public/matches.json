@@ -22307,14 +22307,14 @@
       "startTime": "2026-10-27T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Unsettled Resentment",
+        "shortName": "UR",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/138700/775px_unsettled_resentment_2026_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Victory No Limits",
+        "shortName": "Vic",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139455/92px_vlg_allmode_2026.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22328,14 +22328,14 @@
       "startTime": "2026-10-27T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Wolves Esports",
+        "shortName": "WOL",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134335/600px_wolves_esports_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "World Sports Invictus Gaming",
+        "shortName": "WSIG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/138263/1200px_world_sports_invictus_gaming_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22349,14 +22349,14 @@
       "startTime": "2026-10-28T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "A Team",
+        "shortName": "AT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139027/a_team_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Octagonal Disposition Gaming",
+        "shortName": "ODG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136969/136px_octagonal_disposition_gaming_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22370,14 +22370,14 @@
       "startTime": "2026-10-28T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Any Questions Gaming",
+        "shortName": "AQ",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137493/285px_any_questions_lightmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Rare Atom",
+        "shortName": "RA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133285/600px_rare_atom_full_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22433,9 +22433,9 @@
       "startTime": "2026-10-29T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "KeepBest Gaming",
+        "shortName": "KBG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133828/keep_best_gaming_full_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -22454,9 +22454,9 @@
       "startTime": "2026-10-29T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "TEC Esports",
+        "shortName": "TEC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -22517,9 +22517,9 @@
       "startTime": "2026-10-30T09:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Nova Esports",
+        "shortName": "NOVA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/133287/800px_nova_esports_2025_full_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -22538,9 +22538,9 @@
       "startTime": "2026-10-30T11:00:00Z",
       "region": "VCT CN",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
       },
       "teamB": {
         "name": "TBD",
@@ -22870,6 +22870,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-10-25T12:56:46.596Z",
+  "lastUpdated": "2026-10-25T16:56:34.229Z",
   "source": "PandaScore"
 }
