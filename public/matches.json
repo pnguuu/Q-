@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1290798",
-      "startTime": "2026-01-28T16:06:26Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "GIANTX",
-        "shortName": "GX",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134423/giant_x_logo.svg.png"
-      },
-      "teamB": {
-        "name": "Pcific Esports",
-        "shortName": "PCFIC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1333685",
       "startTime": "2026-01-28T16:09:42Z",
       "region": "VCT EMEA",
@@ -4932,27 +4911,6 @@
       "scoreB": 2,
       "status": "已结束",
       "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1420926",
-      "startTime": "2026-04-29T09:13:45Z",
-      "region": "LPL",
-      "teamA": {
-        "name": "Ninjas in Pyjamas",
-        "shortName": "NIP",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/641/ninjas_in_pyjamaslogo_profile.png"
-      },
-      "teamB": {
-        "name": "JD Gaming",
-        "shortName": "JDG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
-      },
-      "scoreA": 0,
-      "scoreB": 2,
-      "status": "已结束",
-      "league": "LPL",
       "format": "BO3",
       "category": "primary"
     },
@@ -22451,7 +22409,7 @@
     },
     {
       "id": "1711017",
-      "startTime": "2026-11-04T22:00:00Z",
+      "startTime": "2026-11-04T22:15:39Z",
       "region": "LPL",
       "teamA": {
         "name": "Gen.G",
@@ -22463,9 +22421,9 @@
         "shortName": "LY",
         "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
       },
-      "scoreA": 0,
+      "scoreA": 3,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "Worlds",
       "format": "BO5",
       "category": "international"
@@ -22513,18 +22471,18 @@
       "category": "international"
     },
     {
-      "id": "1711019",
+      "id": "1711020",
       "startTime": "2026-11-07T22:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Invictus Gaming",
+        "shortName": "IG",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Gen.G",
+        "shortName": "GEN",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22534,13 +22492,13 @@
       "category": "international"
     },
     {
-      "id": "1711020",
+      "id": "1711019",
       "startTime": "2026-11-08T22:00:00Z",
       "region": "LPL",
       "teamA": {
-        "name": "Invictus Gaming",
-        "shortName": "IG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "teamB": {
         "name": "TBD",
@@ -22576,6 +22534,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-11-04T20:10:35.847Z",
+  "lastUpdated": "2026-11-05T01:11:14.157Z",
   "source": "PandaScore"
 }
