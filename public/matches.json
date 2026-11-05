@@ -22388,7 +22388,7 @@
     },
     {
       "id": "1711013",
-      "startTime": "2026-11-05T22:00:00Z",
+      "startTime": "2026-11-05T22:08:37Z",
       "region": "LPL",
       "teamA": {
         "name": "Dplus KIA",
@@ -22402,7 +22402,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Worlds",
       "format": "BO5",
       "category": "international"
@@ -22492,6 +22492,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-11-05T16:58:48.405Z",
+  "lastUpdated": "2026-11-05T22:34:27.900Z",
   "source": "PandaScore"
 }
