@@ -22409,7 +22409,7 @@
     },
     {
       "id": "1711016",
-      "startTime": "2026-11-06T22:00:00Z",
+      "startTime": "2026-11-06T22:07:11Z",
       "region": "LPL",
       "teamA": {
         "name": "Karmine Corp",
@@ -22423,7 +22423,7 @@
       },
       "scoreA": 0,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "进行中",
       "league": "Worlds",
       "format": "BO5",
       "category": "international"
@@ -22492,6 +22492,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-11-06T17:45:47.467Z",
+  "lastUpdated": "2026-11-06T22:34:40.043Z",
   "source": "PandaScore"
 }
