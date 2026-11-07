@@ -22421,9 +22421,9 @@
         "shortName": "T1",
         "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 1,
+      "scoreB": 3,
+      "status": "已结束",
       "league": "Worlds",
       "format": "BO5",
       "category": "international"
@@ -22459,9 +22459,9 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "T1",
+        "shortName": "T1",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22492,6 +22492,6 @@
       "category": "international"
     }
   ],
-  "lastUpdated": "2026-11-06T22:34:40.043Z",
+  "lastUpdated": "2026-11-07T02:28:48.259Z",
   "source": "PandaScore"
 }
