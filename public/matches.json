@@ -22169,9 +22169,9 @@
         "shortName": "Vic",
         "logo": "https://cdn-api.pandascore.co/images/team/image/139455/92px_vlg_allmode_2026.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 1,
+      "scoreB": 2,
+      "status": "已结束",
       "league": "China National Tournament",
       "format": "BO3",
       "category": "cn_extended"
@@ -22324,6 +22324,6 @@
       "category": "cn_extended"
     }
   ],
-  "lastUpdated": "2026-11-17T09:55:47.595Z",
+  "lastUpdated": "2026-11-17T18:53:27.429Z",
   "source": "PandaScore"
 }
