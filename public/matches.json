@@ -22085,9 +22085,9 @@
         "shortName": "KBG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/133828/keep_best_gaming_full_allmode.png"
       },
-      "scoreA": 1,
-      "scoreB": 0,
-      "status": "进行中",
+      "scoreA": 2,
+      "scoreB": 1,
+      "status": "已结束",
       "league": "China National Tournament",
       "format": "BO3",
       "category": "cn_extended"
@@ -22198,6 +22198,6 @@
       "category": "cn_extended"
     }
   ],
-  "lastUpdated": "2026-11-18T09:31:17.521Z",
+  "lastUpdated": "2026-11-18T18:30:58.002Z",
   "source": "PandaScore"
 }
