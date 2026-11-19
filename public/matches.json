@@ -1,27 +1,6 @@
 {
   "matches": [
     {
-      "id": "1308149",
-      "startTime": "2026-02-03T12:35:21Z",
-      "region": "VCT CN",
-      "teamA": {
-        "name": "Dragon Ranger Gaming",
-        "shortName": "DRG",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
-      },
-      "teamB": {
-        "name": "TYLOO",
-        "shortName": "TYLOO",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1333695",
       "startTime": "2026-02-03T16:00:59Z",
       "region": "VCT EMEA",
@@ -22073,7 +22052,7 @@
     },
     {
       "id": "1805929",
-      "startTime": "2026-11-19T06:00:00Z",
+      "startTime": "2026-11-19T06:11:14Z",
       "region": "VCT CN",
       "teamA": {
         "name": "XJG",
@@ -22085,9 +22064,9 @@
         "shortName": "FPX",
         "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
       },
-      "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreA": 1,
+      "scoreB": 1,
+      "status": "进行中",
       "league": "China National Tournament",
       "format": "BO3",
       "category": "cn_extended"
@@ -22177,6 +22156,6 @@
       "category": "cn_extended"
     }
   ],
-  "lastUpdated": "2026-11-19T00:51:34.086Z",
+  "lastUpdated": "2026-11-19T08:12:35.797Z",
   "source": "PandaScore"
 }
