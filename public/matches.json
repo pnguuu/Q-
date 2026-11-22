@@ -1,48 +1,6 @@
 {
   "matches": [
     {
-      "id": "1333682",
-      "startTime": "2026-01-27T19:01:48Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Gentle Mates GC",
-        "shortName": "M8.GC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137995/621px_gentle_mates_2024_lightmode.png"
-      },
-      "teamB": {
-        "name": "Barça eSports GC",
-        "shortName": "BAR",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/137903/bar_253_fa_e_sportslogo_square.png"
-      },
-      "scoreA": 2,
-      "scoreB": 0,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
-      "id": "1290797",
-      "startTime": "2026-01-27T19:22:05Z",
-      "region": "VCT EMEA",
-      "teamA": {
-        "name": "Fnatic",
-        "shortName": "FNC",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128537/900px_fnatic_2020.png"
-      },
-      "teamB": {
-        "name": "FUT Esports",
-        "shortName": "FUT",
-        "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
-      },
-      "scoreA": 2,
-      "scoreB": 1,
-      "status": "已结束",
-      "league": "VCT",
-      "format": "BO3",
-      "category": "primary"
-    },
-    {
       "id": "1308143",
       "startTime": "2026-01-28T09:05:06Z",
       "region": "VCT CN",
@@ -22261,6 +22219,153 @@
       "category": "cn_extended"
     },
     {
+      "id": "1829553",
+      "startTime": "2026-11-23T09:00:00Z",
+      "region": "VCT CN",
+      "teamA": {
+        "name": "A Team",
+        "shortName": "AT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139027/a_team_lightmode.png"
+      },
+      "teamB": {
+        "name": "FunPlus Phoenix",
+        "shortName": "FPX",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "China National Tournament",
+      "format": "BO3",
+      "category": "cn_extended"
+    },
+    {
+      "id": "1829592",
+      "startTime": "2026-11-25T08:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "Bonkers",
+        "shortName": "BON",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130277/963px_bonkers_2023_allmode.png"
+      },
+      "teamB": {
+        "name": "Finishers",
+        "shortName": "Fin",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139651/127px_finishers_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1829590",
+      "startTime": "2026-11-25T08:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": " Troopers",
+        "shortName": " Tr",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "MeatZn",
+        "shortName": "Mea",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1829594",
+      "startTime": "2026-11-26T08:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1829593",
+      "startTime": "2026-11-27T08:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1829595",
+      "startTime": "2026-11-28T08:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1829596",
+      "startTime": "2026-11-29T06:00:00Z",
+      "region": "VCT PAC",
+      "teamA": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
+        "name": "TBD",
+        "shortName": "TBD",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO5",
+      "category": "primary"
+    },
+    {
       "id": "1825539",
       "startTime": "2026-12-06T16:00:00Z",
       "region": "VCT EMEA",
@@ -22282,6 +22387,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-11-22T12:57:10.879Z",
+  "lastUpdated": "2026-11-22T20:07:13.955Z",
   "source": "PandaScore"
 }
