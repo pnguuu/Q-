@@ -21422,7 +21422,7 @@
     },
     {
       "id": "1829553",
-      "startTime": "2026-11-23T09:00:00Z",
+      "startTime": "2026-11-23T10:00:00Z",
       "region": "VCT CN",
       "teamA": {
         "name": "A Team",
@@ -21440,6 +21440,48 @@
       "league": "China National Tournament",
       "format": "BO3",
       "category": "cn_extended"
+    },
+    {
+      "id": "1830510",
+      "startTime": "2026-11-24T14:30:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Eternal Fire",
+        "shortName": "EF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129662/600px_eternal_fire_2023_allmode.png"
+      },
+      "teamB": {
+        "name": "Misa Esports",
+        "shortName": "MISA",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1830511",
+      "startTime": "2026-11-24T17:30:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Fire Flux Esports",
+        "shortName": "FF",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png"
+      },
+      "teamB": {
+        "name": "Trigon Titans",
+        "shortName": "TT",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139327/trigon_titans_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
     },
     {
       "id": "1829592",
@@ -21474,6 +21516,48 @@
       "teamB": {
         "name": "MeatZn",
         "shortName": "Mea",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1830512",
+      "startTime": "2026-11-25T14:30:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Beşiktaş Esports",
+        "shortName": "BJK",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/128669/600px_besiktas_jk.png"
+      },
+      "teamB": {
+        "name": "Galatasaray Esports",
+        "shortName": "GS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130231/111px_galatasaray_esports_allmode.png"
+      },
+      "scoreA": 0,
+      "scoreB": 0,
+      "status": "待开始",
+      "league": "VCT",
+      "format": "BO3",
+      "category": "primary"
+    },
+    {
+      "id": "1830513",
+      "startTime": "2026-11-25T17:30:00Z",
+      "region": "VCT EMEA",
+      "teamA": {
+        "name": "Pcific Esports",
+        "shortName": "PCFIC",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/134104/190px_pcific_esports_allmode.png"
+      },
+      "teamB": {
+        "name": "Team Apanthe",
+        "shortName": "APA",
         "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
@@ -21589,6 +21673,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-11-23T01:15:55.863Z",
+  "lastUpdated": "2026-11-23T10:01:38.348Z",
   "source": "PandaScore"
 }
