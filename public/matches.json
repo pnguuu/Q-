@@ -22430,7 +22430,7 @@
     },
     {
       "id": "1829593",
-      "startTime": "2026-11-27T08:00:00Z",
+      "startTime": "2026-11-27T08:06:43Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Bonkers",
@@ -22442,16 +22442,16 @@
         "shortName": "Mea",
         "logo": "https://picsum.photos/seed/tbd/64/64"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1833628",
-      "startTime": "2026-11-27T09:30:00Z",
+      "startTime": "2026-11-27T09:34:34Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "Kryon Esports",
@@ -22463,16 +22463,16 @@
         "shortName": "SIG",
         "logo": "https://cdn-api.pandascore.co/images/team/image/138705/800px_sign_esports_2026_allmode.png"
       },
-      "scoreA": 0,
+      "scoreA": 2,
       "scoreB": 0,
-      "status": "待开始",
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
     },
     {
       "id": "1833623",
-      "startTime": "2026-11-27T12:30:00Z",
+      "startTime": "2026-11-27T12:40:51Z",
       "region": "VCT PAC",
       "teamA": {
         "name": "GodLike Esports",
@@ -22485,8 +22485,8 @@
         "logo": "https://cdn-api.pandascore.co/images/team/image/136893/850px_revenant_x_spark_2026_allmode.png"
       },
       "scoreA": 0,
-      "scoreB": 0,
-      "status": "待开始",
+      "scoreB": 2,
+      "status": "已结束",
       "league": "VCT",
       "format": "BO3",
       "category": "primary"
@@ -22664,14 +22664,14 @@
       "startTime": "2026-11-28T08:00:00Z",
       "region": "VCT PAC",
       "teamA": {
+        "name": "MeatZn",
+        "shortName": "Mea",
+        "logo": "https://picsum.photos/seed/tbd/64/64"
+      },
+      "teamB": {
         "name": "Finishers",
         "shortName": "Fin",
         "logo": "https://cdn-api.pandascore.co/images/team/image/139651/127px_finishers_allmode.png"
-      },
-      "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22685,14 +22685,14 @@
       "startTime": "2026-11-28T09:30:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Kryon Esports",
+        "shortName": "KRY",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/139655/433px_kryon_esports_allmode.png"
       },
       "teamB": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "GodLike Esports",
+        "shortName": "GLE",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/129535/600px_god_like_2021_allmode.png"
       },
       "scoreA": 0,
       "scoreB": 0,
@@ -22706,9 +22706,9 @@
       "startTime": "2026-11-29T06:00:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Bonkers",
+        "shortName": "BON",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/130277/963px_bonkers_2023_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -22727,9 +22727,9 @@
       "startTime": "2026-11-29T11:30:00Z",
       "region": "VCT PAC",
       "teamA": {
-        "name": "TBD",
-        "shortName": "TBD",
-        "logo": "https://picsum.photos/seed/tbd/64/64"
+        "name": "Revenant XSpark",
+        "shortName": "RXS",
+        "logo": "https://cdn-api.pandascore.co/images/team/image/136893/850px_revenant_x_spark_2026_allmode.png"
       },
       "teamB": {
         "name": "TBD",
@@ -22975,6 +22975,6 @@
       "category": "primary"
     }
   ],
-  "lastUpdated": "2026-11-27T04:40:17.964Z",
+  "lastUpdated": "2026-11-27T14:31:32.600Z",
   "source": "PandaScore"
 }
